@@ -1,0 +1,40 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background: #f8f9fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+header {
+  background: #002d40;
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+nav {
+  background: #e0e0e0;
+  padding: 0.5rem;
+  text-align: center;
+}
+nav a {
+  margin: 0 0.7rem;
+  text-decoration: none;
+  color: #003344;
+  font-weight: bold;
+}
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+h2 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.3rem;
+}
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 2rem 1rem;
+  color: #666;
+}
