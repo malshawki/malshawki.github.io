@@ -9,6 +9,19 @@
   margin-right: 20px;
 }
 
+
+.image-text-container img {
+  float: left;
+  margin-right: 20px;
+  max-width: 200px;
+}
+
+.image-text-container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 body {
   font-family: 'Inter', sans-serif;
   background: #f8f9fa;
