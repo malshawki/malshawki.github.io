@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- senior researcher
+- certified cybersecurity consultant and, 
+- assistant professor
 
-What else do you need?
+with a passion for designing secure and reliable protocols that underpin today’s distributed systems. I have: 
 
-### My story
+- **Ph.D. in Cybersecurity** from ELTE in collaboration with HFU
+- **Diploma in IT Admin.** from TU Berlin
+- **M.Sc. in Computer Science** from UoB
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My work spans federated learning, network security, and applied cryptography, fields that sit at the core of safeguarding privacy, integrity, and trust in decentralized environments. 
+
+### My research interest
+I work at the intersection of security, distributed systems, and cryptography where protocols are complex, adversaries are imaginative, and bugs have a remarkable sense of timing. [website](https://alshawki.elte.hu).
