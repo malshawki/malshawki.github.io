@@ -21,11 +21,14 @@ author: Dr. Mohammed B. Alshawki
 
 navbar-links:
   Activities: "activities"
-  Research:
-   - Supervision: "supervision"
-   - Publication: "publication"
+  Projects: "projects"
+  Achievements: "achievements"
+  Publication: "publication"
+  Supervision: "supervision"
   Teaching: "teaching"
+  Opportunities: "opportunities"
   Posts: "posts"
+  Contact: "contact"
 #Resources:
 #  - Beautiful Jekyll: "https://beautifuljekyll.com"
 #  - Learn markdown: "https://www.markdowntutorial.com/"
