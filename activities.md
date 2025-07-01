@@ -56,6 +56,10 @@ title: Activities
 - **Jun 2020**: Speaker at **CSCS** Conference of PhD Students in Computer Science, Szeged, Hungary  
 - **May 2020**: Speaker at **Spring Wind Conference**, Budapest, Hungary  
 - **Feb 2020**: Participation at **IoT and Blockchain Winter School**, ISTAR, Lisboa, Portugal
+
+---
+
+### **2019**
 - **Dec 2019**: Presenter at **EIT** European Institute of Innovation and Technology Summit, France  
 - **Nov 2019**: Speaker at **CBCSS** Conference on Software and Security, Hungary  
 - **Nov 2019**: Scientific committee member of **CIoT** Conference on Internet of Things, Zurich, Switzerland  
