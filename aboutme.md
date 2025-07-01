@@ -23,12 +23,7 @@ I work at the intersection of security, distributed systems, and cryptography wh
 - Senior Cybersecurity Researcher (IDACUS)
 - Certified Cybersecurity Consultant (EU)
 
-### 🏛️ Previous Academic Activities
-- University of Trento (IT)
-- University of Lisbon (PT)
-- Technical University of Berlin (DE)
-
-### 🔗 Previous Industry Activities
+### 🔗 Previous Industry Collaborations
 - Atos (ES)
 - LogMeIn (EU)
 - ConsultingHun (HU)
