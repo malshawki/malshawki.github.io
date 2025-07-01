@@ -23,6 +23,8 @@ navbar-links:
   Activities: "activities"
   Research:
    - Supervision: "supervision"
+   - Publication: "publication"
+  Teaching: "teaching"
   Posts: "posts"
 #Resources:
 #  - Beautiful Jekyll: "https://beautifuljekyll.com"
