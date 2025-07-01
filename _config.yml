@@ -20,7 +20,7 @@ author: Dr. Mohammed B. Alshawki
 ###############################################
 
 navbar-links:
-  #About Me: "aboutme"
+  Activities: "activities"
   Posts: "posts"
 #Resources:
 #  - Beautiful Jekyll: "https://beautifuljekyll.com"
