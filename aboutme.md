@@ -4,19 +4,21 @@ title: About me
 subtitle: 
 ---
 
-I am a 
+I’m Dr. Mohammed B. Alshawki, a cybersecurity researcher, assistant professor, and certified consultant. I specialize in securing AI-driven systems and critical distributed infrastructures.
 
-- senior researcher
-- certified cybersecurity consultant and, 
-- assistant professor
+### 🎓 Education
+- Ph.D. in Cybersecurity – ELTE - HFU 
+- M.Sc. in Computer Science - UoB
+- Diploma in Information Technology - TU Berlin
 
-with a passion for designing secure and reliable protocols that underpin today’s distributed systems. I have: 
+### 🔍 Research Interests
+I work at the intersection of security, distributed systems, and cryptography where protocols are complex, adversaries are imaginative, and bugs have a remarkable sense of timing.
+- Federated learning & AI security
+- Network & IoT security
+- Applied cryptography
+- Privacy-preserving systems
 
-- **Ph.D. in Cybersecurity** from ELTE in collaboration with HFU
-- **Diploma in IT Admin.** from TU Berlin
-- **M.Sc. in Computer Science** from UoB
-
-My work spans federated learning, network security, and applied cryptography, fields that sit at the core of safeguarding privacy, integrity, and trust in decentralized environments. 
-
-### My research interest
-I work at the intersection of security, distributed systems, and cryptography where protocols are complex, adversaries are imaginative, and bugs have a remarkable sense of timing. [website](https://alshawki.elte.hu).
+### 🧑‍🏫 Current Roles
+- Assistant Professor (ELTE)
+- Senior Cybersecurity Researcher (IDACUS)
+- Certified Cybersecurity Consultant (EU)
