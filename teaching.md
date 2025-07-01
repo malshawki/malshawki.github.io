@@ -4,8 +4,6 @@ title: Teaching
 subtitle: 
 ---
 
-# Teaching Courses
-
 Welcome to the Teaching Courses overview. Below is a list of courses I currently teach or have recently taught, including brief descriptions and relevant academic terms.
 
 ---
@@ -26,7 +24,15 @@ This course focuses on the design and analysis of cryptographic protocols ensuri
 
 ---
 
-## 3. Cryptography and Security  
+## 3. Application of Discrete Models  
+**Term:** Fall  
+**Level:** Undergraduate  
+**Description:**  
+An introductory course providing a solid foundation in discrete mathematical models and their applications in computer science. It highlights problem-solving techniques used in algorithm design and security analysis.
+
+---
+
+## 4. Cryptography and Security  
 **Term:** Spring  
 **Level:** Undergraduate 
 **Description:**  
@@ -34,13 +40,12 @@ This course introduces cryptographic algorithms and their practical applications
 
 ---
 
-## 4. Application of Discrete Models  
-**Term:** Fall  
+## 5. Object-Oriented Programming  
+**Term:** Spring  
 **Level:** Undergraduate  
 **Description:**  
-An introductory course providing a solid foundation in discrete mathematical models and their applications in computer science. It highlights problem-solving techniques used in algorithm design and security analysis.
-
+Introduces the principles and paradigms of object-oriented design and programming. Covers encapsulation, inheritance, polymorphism, and abstraction using modern programming languages.
 
 ---
 
-For detailed syllabi or enrollment information, please [contact me](/contact.md).
+For detailed syllabus or enrollment information, please [contact me](/contact.md).
