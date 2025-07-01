@@ -19,12 +19,13 @@ A finite field (also known as a Galois Field, GF) is a set with a fixed number o
 - Subtract
 - Multiply
 - Divide (except by zero)
+
 And the result always stays within the field.
 
 ## Why discrete and finite?
-Cryptographic systems work on digital data—discrete bits, not continuous values. A finite number of possible values keeps operations predictable, fast, and secure.
-- Computers work with discrete (non-continuous) values—bits, integers—not real numbers.
-- Finite means we limit the number of values to ensure predictable, fast, and secure computations.
+Cryptographic systems work on digital data which are discrete bits, not continuous values. A finite number of possible values keeps operations predictable, fast, and secure.
+- Computers work with discrete (non-continuous) values like bits and integers, not real numbers.
+- Finite means it limits the number of values to ensure predictable and secure computations.
 
 {: .box-note}
 **Note:** It is essential for algorithms that must behave the same every time, without rounding errors.
@@ -41,7 +42,7 @@ For example:
 - This “wrap-around” behavior helps keep numbers bounded and secure.
 - It also allows encryption algorithms to stay efficient even with very large numbers.
 
- ## Why use a prime number as the modulus?
+## Why use a prime number as the modulus?
 When the modulus is a prime number p, the field GF(p) has simple and powerful properties:
 - Every non-zero element has a unique inverse (critical for division).
 - The math forms a true field, meaning no loopholes or weak points in the system.
@@ -60,10 +61,9 @@ This is why primes are used in RSA, Diffie-Hellman, and Elliptic Curve Cryptogra
 - AES – Uses GF(2⁸) for efficient block cipher operations.
 - Error correction – In storage and communication (e.g., Reed-Solomon codes).
 
- ## Benefits in cryptography:
+## Benefits in cryptography:
 - Secure math: Strong foundation based on number theory.
 - Hard problems: Discrete logarithms and factorization are tough to reverse in finite fields.
 - No rounding: Exact results, critical for reproducible encryption/decryption.
 - Performance: Fast, efficient operations on hardware and software.
 
-Finite fields, powered by modular arithmetic and prime moduli, give cryptography the perfect mix of structure, speed, and strong security—making them essential for protecting modern digital systems.
