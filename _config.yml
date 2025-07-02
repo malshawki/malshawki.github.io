@@ -22,11 +22,13 @@ author: Dr. Mohammed B. Alshawki
 navbar-links:
   Activities: "activities"
   Projects: "projects"
+  Research:
+   - Supervision: "supervision"
+   - Opportunities: "opportunities"
+   - Software: "software"
   Achievements: "achievements"
   Publication: "publication"
-  Supervision: "supervision"
   Teaching: "teaching"
-  Opportunities: "opportunities"
   Posts: "posts"
   Contact: "contact"
 #Resources:
