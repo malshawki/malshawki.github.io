@@ -13,7 +13,7 @@ I’m Mohammed B. Alshawki, a cybersecurity researcher, assistant professor, and
 - M.Sc. in Computer Science - UoB
 - Diploma in Information Technology - TU Berlin
 
-### 🔍 Current Research Interests
+### 🔍 Current Research
 I work at the intersection of security, distributed systems, and cryptography where protocols are complex, adversaries are imaginative, and bugs have a remarkable sense of timing. My ***current research*** focuses on:
 - Federated learning and AI security
 - Network and IoT security
@@ -25,7 +25,7 @@ I work at the intersection of security, distributed systems, and cryptography wh
 - Senior Cybersecurity Researcher (IDACUS)
 - Certified Cybersecurity Consultant (EU)
 
-### 🔗 Previous Industry Collaborations
+### 🔗 Previous Collaborations
 - Atos (ES)
 - LogMeIn (EU)
 - ConsultingHun (HU)
