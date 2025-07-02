@@ -3,6 +3,7 @@ layout: page
 title: Activities
 #subtitle: Exploring the Future of Trust, Privacy, and Secure Systems
 ---
+
 Should you be interested in having me speak at an event, I would be delighted to hear from you. Please [reach out to me](/contact.md).
 ---
 - **Aug 2025**: Scientific committee member of **IEEE FiCloud** Future Internet of Things and Cloud, Istanbul, Turkey
