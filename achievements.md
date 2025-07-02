@@ -17,22 +17,22 @@ subtitle:
 - **2008**: Deputy of Prime Minister award for holding the highest GPA  
 - **2008**: 4th research award, Arab Council for Talented Students  
 
-<!-- Image: DAAD (150x150) -->
+<!-- Image: DAAD (50x50) -->
 ![DAAD](/assets/img/DAAD.png)
 
-<!-- Image: EKOP (150x150) -->
+<!-- Image: EKOP (50x50) -->
 ![EKOP](/assets/img/ekop.png)
 
-<!-- Image: NeCS (150x150) -->
+<!-- Image: NeCS (50x50) -->
 ![NeCS](/assets/img/necs.jpg)
 
-<!-- Image: European Union (150x150) -->
+<!-- Image: European Union (50x50) -->
 ![European Union](/assets/img/eu.png)
 
-<!-- Image: ÚNKP (150x150) -->
+<!-- Image: ÚNKP (50x50) -->
 ![ÚNKP](/assets/img/unkp.png)
 
-<!-- Image: Arab Council (150x150) -->
+<!-- Image: Arab Council (50x50) -->
 ![Arab Council](/assets/img/ac.jpg)
 ---
 
