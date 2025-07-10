@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Achievements
+title: Achievements and Grants
 subtitle: 
 ---
 
@@ -17,23 +17,16 @@ subtitle:
 - **2008**: Deputy of Prime Minister award for holding the highest GPA  
 - **2008**: 4th research award, Arab Council for Talented Students  
 
-<!-- Image: DAAD (50x50) -->
-![DAAD](/assets/img/DAAD.png)
+<div style="display: grid; grid-auto-flow: column; gap: 10px;">
+  <img src="/assets/img/DAAD.png" style="width: 150px;">
+  <img src="/assets/img/ekop.png" style="width: 150px;">
+  <img src="/assets/img/necs.jpg" style="width: 150px;">
+</div>
+  <div style="display: grid; grid-auto-flow: column; gap: 10px;">
+  <img src="/assets/img/eu.png" style="width: 150px;">
+  <img src="/assets/img/unkp.png" style="width: 150px;">
+  <img src="/assets/img/ac.jpg" style="width: 150px;">
+</div>
 
-<!-- Image: EKOP (50x50) -->
-![EKOP](/assets/img/ekop.png)
-
-<!-- Image: NeCS (50x50) -->
-![NeCS](/assets/img/necs.jpg)
-
-<!-- Image: European Union (50x50) -->
-![European Union](/assets/img/eu.png)
-
-<!-- Image: ÚNKP (50x50) -->
-![ÚNKP](/assets/img/unkp.png)
-
-<!-- Image: Arab Council (50x50) -->
-![Arab Council](/assets/img/ac.jpg)
----
 
 **Disclaimer:** Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.
