@@ -161,7 +161,7 @@ page-col: "#FFFFFF"
 text-col: "#1E1E1E"
 link-col: "#FFA500"         # Vibrant modern orange (like a digital amber)
 hover-col: "#FFF8E7"        # Deeper orange for hover state
-navbar-col: "#FFFFFF"       # Clean white for separation
+navbar-col: "#FFF8E7"       # Clean white for separation
 navbar-text-col: "#1E1E1E"
 navbar-border-col: "#E6E1D9" # Slightly more contrast than before
 footer-col: "#FFF8E7"       # Soft warm beige to distinguish from the page
