@@ -75,6 +75,7 @@ subtitle:
 <img src="/assets/img/bmbf.png" alt="Funded by BMBF" width="300" height="125">
 
 ---
+---
 
 ## Secure Cryptographic Protocols
 
@@ -84,13 +85,15 @@ subtitle:
 <img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
 ---
+---
 
 ## Orchestration of Financial Services
 
 - Blockchain analyzer  
 - OFION: Communication and Security Analysis of The Cloud Orchestrator Module  
 
-<img src="images/Atos.svg.png" alt="Funded by Atos" width="120" height="70">
+<img src="/assets/img/Atos.svg.png" alt="Funded by Atos" width="120" height="70">
+
 ---
 
 **Disclaimer:** Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.
