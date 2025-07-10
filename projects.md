@@ -13,6 +13,7 @@ subtitle:
 <img src="/assets/img/eu_funded_en.jpg" alt="Funded by European Union" width="290" height="85">
 
 ---
+---
 
 ## Industrial Internet of Things Security
 
@@ -21,6 +22,7 @@ subtitle:
 
 <img src="/assets/img/ekop.png" alt="Funded by Ministery of Research and Innovation" width="200" height="120">
 
+---
 ---
 
 ## Thematic Excellence Program
@@ -31,6 +33,7 @@ subtitle:
 <img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
 ---
+---
 
 ## Secure Navigation
 
@@ -39,6 +42,7 @@ subtitle:
 
 <img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
+---
 ---
 
 ## Lightweight Cryptography
@@ -49,6 +53,7 @@ subtitle:
 <img src="/assets/img/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
 
 ---
+---
 
 ## Distributed Security
 
@@ -58,6 +63,7 @@ subtitle:
 <img src="/assets/img/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
 
 ---
+---
 
 ## Autonomous Vehicle Control
 
@@ -66,6 +72,7 @@ subtitle:
 
 <img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
+---
 ---
 
 ## Smart Platform for Digital Networks
