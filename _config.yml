@@ -160,7 +160,7 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#1E1E1E"
 link-col: "#FFA500"         # Vibrant modern orange (like a digital amber)
-hover-col: "#FFA8A7"        # Deeper orange for hover state
+hover-col: "#1EA8A7"        # Deeper orange for hover state
 navbar-col: "#FFF8E7"       # Clean white for separation
 navbar-text-col: "#1E1E1E"
 navbar-border-col: "#E6E1D9" # Slightly more contrast than before
