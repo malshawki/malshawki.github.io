@@ -31,7 +31,7 @@ Cryptographic systems work on digital data which are discrete bits, not continuo
 **Note:** It is essential for algorithms that must behave the same every time, without rounding errors.
 
 
-## The role of modular arithmetic:
+## The role of modular arithmetic
 All operations in finite fields are performed using modulo arithmetic.
 
 ~~~
@@ -51,17 +51,17 @@ When the modulus is a prime number p, the field GF(p) has simple and powerful pr
 This is why primes are used in RSA, Diffie-Hellman, and Elliptic Curve Cryptography.
 
 
-## Common types:
+## Common types
 - GF(p): field with a prime number of elements (used in RSA, ECC)
 - GF(2^n): field used in AES and binary systems
 
-## Where it is used:
+## Where it is used
 - Elliptic Curve Cryptography (ECC) – Uses finite fields to define curve equations securely.
 - RSA, Diffie-Hellman – Rely on modular exponentiation over prime fields.
 - AES – Uses GF(2⁸) for efficient block cipher operations.
 - Error correction – In storage and communication (e.g., Reed-Solomon codes).
 
-## Benefits in cryptography:
+## Benefits in cryptography
 - Secure math: Strong foundation based on number theory.
 - Hard problems: Discrete logarithms and factorization are tough to reverse in finite fields.
 - No rounding: Exact results, critical for reproducible encryption/decryption.
