@@ -10,8 +10,7 @@ subtitle:
 - Pillar 2 - Secure Federated Learning  
 - HORIZON-101139285: NATWORK  
 
-<!-- Image: Funded by European Union (250x75) -->
-![Funded by European Union](/assets/img/eu_funded_en.jpg)
+<img src="/assets/img/eu_funded_en.jpg" alt="Funded by European Union" width="250" height="75">
 
 ---
 
@@ -20,8 +19,7 @@ subtitle:
 - Safeguarding Industrial Internet of Things Authentication  
 - EKOP-24-4-2: Postdoctoral Research Scholarship  
 
-<!-- Image: Funded by Ministry of Research and Innovation (200x120) -->
-![Funded by Ministry of Research and Innovation](/assets/img/ekop.png)
+<img src="/assets/img/ekop.png" alt="Funded by Ministery of Research and Innovation" width="200" height="120">
 
 ---
 
@@ -30,8 +28,7 @@ subtitle:
 - Developing Secure Data Validators  
 - TKP2020-NKA-06: Hungarian National Challenges - Cybersecurity Subprogramme  
 
-<!-- Image: Co-funded by European Union (250x85) -->
-![Co-funded by European Union](/assets/img/cofeu.png)
+<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
 
 ---
 
@@ -40,9 +37,7 @@ subtitle:
 - Developing Secure Galileo Navigation Authentication Protocol  
 - 1.3-KK: Software and Data-Intensive Services project  
 
-<!-- Image: Co-funded by European Union (250x85) -->
-![Co-funded by European Union](/assets/img/cofeu.png)
-
+<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
 ---
 
 ## Lightweight Cryptography
@@ -51,8 +46,7 @@ subtitle:
 - ÚNKP-22-4: Research Scholarship for Doctoral Candidates  
 
 <!-- Image: Funded by Ministry of Research and Innovation (350x90) -->
-![Funded by Ministry of Research and Innovation](/assets/img/unkp-all.png)
-
+<img src="images/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
 ---
 
 ## Distributed Security
@@ -60,8 +54,7 @@ subtitle:
 - Developing secure protocols for distributed environment  
 - ÚNKP-21-3: Research Scholarship for Doctoral students  
 
-<!-- Image: Funded by Ministry of Research and Innovation (350x90) -->
-![Funded by Ministry of Research and Innovation](/assets/img/unkp-all.png)
+<img src="images/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
 
 ---
 
@@ -70,8 +63,7 @@ subtitle:
 - Developing lightweight cryptographic protocols  
 - VEKOP-16: Talent Management in Autonomous Vehicle Control  
 
-<!-- Image: Co-funded by European Union (250x85) -->
-![Co-funded by European Union](/assets/img/cofeu.png)
+<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
 
 ---
 
@@ -79,9 +71,7 @@ subtitle:
 
 - Developing Secure SDN for Cyber Physical Systems  
 - 02P17D022: Collaborative smart contracting platform for digital value creation networks  
-
-<!-- Image: Funded by BMBF (300x125) -->
-![Funded by BMBF](/assets/img/bmbf.png)
+<img src="images/bmbf.png" alt="Funded by BMBF" width="300" height="125">
 
 ---
 
@@ -90,8 +80,7 @@ subtitle:
 - Developing secure cryptographic protocols  
 - EFOP-3.6.2: Innovations in Informatics and Infocommunication  
 
-<!-- Image: Co-funded by European Union (250x85) -->
-![Co-funded by European Union](/assets/img/cofeu.png)
+<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
 
 ---
 
@@ -100,9 +89,7 @@ subtitle:
 - Blockchain analyzer  
 - OFION: Communication and Security Analysis of The Cloud Orchestrator Module  
 
-<!-- Image: Funded by Atos (120x70) -->
-![Funded by Atos](/assets/img/Atos.svg.png)
-
+<img src="images/Atos.svg.png" alt="Funded by Atos" width="120" height="70">
 ---
 
 **Disclaimer:** Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.
