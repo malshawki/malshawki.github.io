@@ -10,7 +10,7 @@ subtitle:
 - Pillar 2 - Secure Federated Learning  
 - HORIZON-101139285: NATWORK  
 
-<img src="/assets/img/eu_funded_en.jpg" alt="Funded by European Union" width="250" height="75">
+<img src="/assets/img/eu_funded_en.jpg" alt="Funded by European Union" width="290" height="85">
 
 ---
 
@@ -28,7 +28,7 @@ subtitle:
 - Developing Secure Data Validators  
 - TKP2020-NKA-06: Hungarian National Challenges - Cybersecurity Subprogramme  
 
-<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
+<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
 ---
 
@@ -37,7 +37,7 @@ subtitle:
 - Developing Secure Galileo Navigation Authentication Protocol  
 - 1.3-KK: Software and Data-Intensive Services project  
 
-<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
+<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 ---
 
 ## Lightweight Cryptography
@@ -45,8 +45,7 @@ subtitle:
 - Developing lightweight attribute based encryption for smart IoT devices  
 - ÚNKP-22-4: Research Scholarship for Doctoral Candidates  
 
-<!-- Image: Funded by Ministry of Research and Innovation (350x90) -->
-<img src="images/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
+<img src="/assets/img/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
 ---
 
 ## Distributed Security
@@ -54,7 +53,7 @@ subtitle:
 - Developing secure protocols for distributed environment  
 - ÚNKP-21-3: Research Scholarship for Doctoral students  
 
-<img src="images/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
+<img src="/assets/img/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
 
 ---
 
@@ -63,7 +62,7 @@ subtitle:
 - Developing lightweight cryptographic protocols  
 - VEKOP-16: Talent Management in Autonomous Vehicle Control  
 
-<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
+<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
 ---
 
@@ -80,7 +79,7 @@ subtitle:
 - Developing secure cryptographic protocols  
 - EFOP-3.6.2: Innovations in Informatics and Infocommunication  
 
-<img src="images/cofeu.png" alt="Co-funded by European Union" width="250" height="85">
+<img src="images/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
 ---
 
