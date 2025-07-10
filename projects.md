@@ -38,6 +38,7 @@ subtitle:
 - 1.3-KK: Software and Data-Intensive Services project  
 
 <img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
+
 ---
 
 ## Lightweight Cryptography
@@ -46,6 +47,7 @@ subtitle:
 - ÚNKP-22-4: Research Scholarship for Doctoral Candidates  
 
 <img src="/assets/img/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
+
 ---
 
 ## Distributed Security
@@ -70,7 +72,7 @@ subtitle:
 
 - Developing Secure SDN for Cyber Physical Systems  
 - 02P17D022: Collaborative smart contracting platform for digital value creation networks  
-<img src="images/bmbf.png" alt="Funded by BMBF" width="300" height="125">
+<img src="/assets/img/bmbf.png" alt="Funded by BMBF" width="300" height="125">
 
 ---
 
@@ -79,7 +81,7 @@ subtitle:
 - Developing secure cryptographic protocols  
 - EFOP-3.6.2: Innovations in Informatics and Infocommunication  
 
-<img src="images/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
+<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
 
 ---
 
