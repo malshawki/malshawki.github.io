@@ -33,9 +33,9 @@ subtitle: Building Trust and Resilience: Cryptography, AI, and Secure Infrastruc
 
 ---
 
-[**ResearchGate**](https://www.researchgate.net/profile/Mohammed-B-Alshawki)  
-<a href="https://www.researchgate.net/profile/Mohammed-B-Alshawki" target="_blank">
-  <img src="/assets/img/rg.png" alt="ResearchGate">
+[**Web of Science**](https://www.webofscience.com/wos/author/record/C-7051-2018)  
+<a href="https://www.webofscience.com/wos/author/record/C-7051-2018" target="_blank">
+  <img src="/assets/img/clarivate-web-of-science.png" alt="Web of Science">
 </a> 
 
 ---

@@ -6,19 +6,7 @@ subtitle:
 
 # Conferences
 - <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
-- <a href="https://ficloud.org/2025/" target="_blank">CECC 2025</a>
+
 
 
 
