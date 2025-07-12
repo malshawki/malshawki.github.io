@@ -4,9 +4,8 @@ title: Publication
 subtitle: 
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ)  
  <a href="https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ" target="_blank" >
-      <img src="/assets/img/gs.jpg" alt="Google Scholar" width="140" height="110">
+      <img src="/assets/img/gs.jpg" alt="Google Scholar" width="560" height="440">
     </a>
 
 ---
