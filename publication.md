@@ -6,7 +6,7 @@ subtitle: Building Trust and Resilience: Cryptography, AI, and Secure Infrastruc
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ) 
 <a href="https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ" target="_blank">
-  <img src="/assets/img/gs.jpg0" alt="Google Scholar">
+  <img src="/assets/img/gs.jpg" alt="Google Scholar">
 </a> 
 
 ---
