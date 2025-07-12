@@ -14,8 +14,9 @@ subtitle:
 
 ---
 ---
-
+---
 # Previous Projects
+---
 ---
 ---
 
