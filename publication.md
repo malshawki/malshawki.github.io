@@ -4,39 +4,41 @@ title: Publication
 subtitle: Building Trust and Resilience: Cryptography, AI, and Secure Infrastructure
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ)  
-<!-- Image: Google Scholar (140x110) -->  
-![Google Scholar](/assets/img/gs.jpg)
+[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ) 
+<a href="https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ" target="_blank">
+  <img src="/assets/img/gs.jpg0" alt="Google Scholar">
+</a> 
 
 ---
 
   
 [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57195277220)  
-<!-- Image: Scopus (140x110) -->  
-![Scopus](/assets/img/sc.png)
-
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57195277220" target="_blank">
+  <img src="/assets/img/sc.png" alt="Scopus">
+</a> 
 ---
 
   
 [**IEEE**](https://ieeexplore.ieee.org/author/893347168306437)  
-<!-- Image: IEEE (140x110) -->  
-![IEEE Xplore](/assets/img/ieee.png)
-
----
-
-[**ResearchGate**](https://www.researchgate.net/profile/Mohammed-B-Alshawki)  
-<!-- Image: ResearchGate (140x110) -->  
-![ResearchGate](/assets/img/rg.png)
+<a href="https://ieeexplore.ieee.org/author/893347168306437" target="_blank">
+  <img src="/assets/img/ieee.png" alt="IEEE Xplore">
+</a> 
 
 ---
 
 [**DBLP**](https://dblp.org/pid/400/1551.html)  
-<!-- Image: DBLP (140x110) -->  
-![DBLP](/assets/img/DBLP.png)
+<a href="https://dblp.org/pid/400/1551.html" target="_blank">
+  <img src="/assets/img/DBLP.png" alt="DBLP">
+</a> 
 
+---
 
+[**ResearchGate**](https://www.researchgate.net/profile/Mohammed-B-Alshawki)  
+<a href="https://www.researchgate.net/profile/Mohammed-B-Alshawki" target="_blank">
+  <img src="/assets/img/rg.png" alt="ResearchGate">
+</a> 
 
-
+---
 
 
 ### Services
