@@ -20,15 +20,15 @@ author: Dr. Mohammed B. Alshawki
 ###############################################
 
 navbar-links:
-  Activities: "activities"
-  Projects: "projects"
+  Activities:
+   - Events & Talks: "activities"
+   - Services: "services"
   Research:
-   - Opportunities: "opportunities"
-   - Supervision: "supervision"
+   - Projects: "projects"
+   - Supervision & Teaching: "supervision"
    - Publication: "publication"
    - Software: "software"
-   - Achievements: "achievements"
-  Teaching: "teaching"
+   - Opportunities: "opportunities"
   Posts: "posts"
   Contact: "contact"
 #Resources:
