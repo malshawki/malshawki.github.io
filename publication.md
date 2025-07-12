@@ -15,7 +15,8 @@ subtitle: Building Trust and Resilience: Cryptography, AI, and Secure Infrastruc
 [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57195277220)  
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57195277220" target="_blank">
   <img src="/assets/img/sc.png" alt="Scopus">
-</a> 
+</a>
+ 
 ---
 
   
