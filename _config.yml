@@ -22,10 +22,9 @@ author: Dr. Mohammed B. Alshawki
 navbar-links:
   Activities:
    - Events & Talks: "activities"
-   - Services: "services"
+   - Supervision & Teaching: "supervision"
   Research:
    - Projects: "projects"
-   - Supervision & Teaching: "supervision"
    - Publication: "publication"
    - Software: "software"
    - Opportunities: "opportunities"
