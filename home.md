@@ -13,6 +13,7 @@ I’m Mohammed B. Alshawki, a cybersecurity researcher, assistant professor, and
 - M.Sc. in Computer Science - UoB
 - Diploma in Information Technology - TU Berlin
 
+
 ### 🔍 Current Research
 I work at the intersection of security, distributed systems, and cryptography where protocols are complex, adversaries are imaginative, and bugs have a remarkable sense of timing. My ***current research*** focuses on:
 - Federated learning and AI security
@@ -25,13 +26,15 @@ I work at the intersection of security, distributed systems, and cryptography wh
 - Senior Cybersecurity Researcher (IDACUS)
 - Certified Cybersecurity Consultant (EU)
 
-### 🔗 Previous Collaborations
-- Atos (ES)
-- LogMeIn (EU)
-- ConsultingHun (HU)
+### Further Details
+- [Projects](projects.md)
+- [Events and Talks](activities.md)
+- [Supervision and Teaching](supervision.md)
+- [Publications](publication.md)
+- [Oppurtunities](opportunities.md)
 
-# Achievements and Grants
 
+### Achievements and Grants
 - **2024**: Post Doctoral grant, EKOP, ELTE/HFU, Hungary-Germany  
 - **2023**: Project proposal grant, European Union  
 - **2022**: Best paper award, IEEE ICISPP, Southeast University, China  
@@ -56,5 +59,10 @@ I work at the intersection of security, distributed systems, and cryptography wh
   <img src="/assets/img/ac.jpg" style="width: 150px;">
 </div>
 
+### 🔗 Previous Collaborations
+- Atos (ES)
+- LogMeIn (EU)
+- ConsultingHun (HU)
 
-**Disclaimer:** Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.
+
+**Disclaimer:** Any opinions, findings and conclusions or recommendations (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Activities
-#subtitle: Exploring the Future of Trust, Privacy, and Secure Systems
+title: Events and Talks
+subtitle: Talks, Research Presentations, Outreach Activities, and Organizational Roles
 # Should you be interested in having me speak at an event, I would be delighted to hear from you. Please [reach out to me](/contact.md).
 ---
 
