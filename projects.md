@@ -5,13 +5,17 @@ subtitle:
 ---
 
 ## 6G Security
-
+- Senior cybersecurity researcher leading two teams:
 - Pillar 1 - Blockchain-enabled Authentication in B5G/6G Network  
 - Pillar 2 - Secure Federated Learning  
 - HORIZON-101139285: NATWORK  
 
 <img src="/assets/img/eu_funded_en.jpg" alt="Funded by European Union" width="290" height="85">
 
+---
+---
+
+# Previous Projects
 ---
 ---
 

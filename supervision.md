@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Supervision
-subtitle: 
+title: Supervision and Teaching
+subtitle: Supporting Discovery and Sharing Knowledge 
 ---
+# Supervision
 
-### **PhD/MSc Supervision**
+## **PhD/MSc Supervision**
 
 - **Aya Khedda**: Security and Privacy of Federated Learning  
   *(ELTE – Hungary)*
@@ -58,8 +59,9 @@ subtitle:
   *(ELTE – Hungary)*
 
 ---
+---
 
-### **B5G/6G Lab (MSc Internship)**
+## **B5G/6G Lab (MSc Internship)**
 
 - **Ahmed Lotfy**: Analysis of Access Control Models in Blockchain-Based 5G Systems  
 - **Kanan Orujov**: 5G Decentralized Identity Management Using Blockchain  
@@ -67,10 +69,58 @@ subtitle:
 - **Nigar Hajiyeva**: Authentication Mechanisms in a 5G Environment  
 
 ---
+---
 
-### **Cloud Security Lab (MSc Internship)**
+## **Cloud Security Lab (MSc Internship)**
 
 - **Nargiz Aghayeva**: Federated Authentication in Cloud Environment  
 - **Fuad Suleymanov**: Authentication Strategies in Public Cloud Infrastructure  
 - **Aytan Khalilova**: Authentication Strategies in Private Cloud Infrastructure  
 - **Obada Alnaddaf**: Keystone Authentication Mechanisms in Private Cloud Environments  
+
+---
+---
+
+# Teaching
+
+## 1. Network Security  
+**Term:** Fall   
+**Level:** Graduate (MSc)  
+**Description:**  
+A comprehensive course covering advanced concepts in network security. It explores security challenges unique to IoT devices and networks. Covers secure communication and privacy-preserving protocols tailored to resource-constrained environments. Includes case studies and project-based assessments.
+
+---
+
+## 2. Cryptographic Protocols  
+**Term:** Spring  
+**Level:** Graduate (MSc)  
+**Description:**  
+This course focuses on the design and analysis of cryptographic protocols ensuring confidentiality, integrity, and authentication. Emphasis on real-world problem-solving and protocol design.
+
+---
+
+## 3. Application of Discrete Models  
+**Term:** Fall  
+**Level:** Undergraduate  
+**Description:**  
+An introductory course providing a solid foundation in discrete mathematical models and their applications in computer science. It highlights problem-solving techniques used in algorithm design and security analysis.
+
+---
+
+## 4. Cryptography and Security  
+**Term:** Spring  
+**Level:** Undergraduate 
+**Description:**  
+This course introduces cryptographic algorithms and their practical applications. Topics include symmetric and asymmetric encryption, digital signatures, hash functions, and blockchain fundamentals.
+
+---
+
+## 5. Object-Oriented Programming  
+**Term:** Spring  
+**Level:** Undergraduate  
+**Description:**  
+Introduces the principles and paradigms of object-oriented design and programming. Covers encapsulation, inheritance, polymorphism, and abstraction using modern programming languages.
+
+---
+
+For detailed syllabus or enrollment information, please [contact me](/contact.md).
