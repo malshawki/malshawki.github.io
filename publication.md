@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication
-subtitle: 
+subtitle: Building Trust and Resilience: Cryptography, AI, and Secure Infrastructure
 ---
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ)  
@@ -18,9 +18,25 @@ subtitle:
 ---
 
   
-[**IEEE Xplore**](https://ieeexplore.ieee.org/author/893347168306437)  
-<!-- Image: IEEE Xplore (140x110) -->  
+[**IEEE**](https://ieeexplore.ieee.org/author/893347168306437)  
+<!-- Image: IEEE (140x110) -->  
 ![IEEE Xplore](/assets/img/ieee.png)
+
+---
+
+[**ResearchGate**](https://www.researchgate.net/profile/Mohammed-B-Alshawki)  
+<!-- Image: ResearchGate (140x110) -->  
+![ResearchGate](/assets/img/rg.png)
+
+---
+
+[**DBLP**](https://dblp.org/pid/400/1551.html)  
+<!-- Image: DBLP (140x110) -->  
+![DBLP](/assets/img/DBLP.png)
+
+
+
+
 
 
 ### Services
