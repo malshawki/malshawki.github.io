@@ -3,7 +3,6 @@ layout: page
 title: Supervision and Teaching
 subtitle: Supporting Discovery and Sharing Knowledge 
 ---
-# Supervision
 
 ## **PhD/MSc Supervision**
 
