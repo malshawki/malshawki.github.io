@@ -68,7 +68,7 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 <div>
   <div><strong>IEEE WiMob</strong></div>
   <div>Scientific committee member of International Conference on Wireless and Mobile Computing, Networking and Communications</div>
-  <div>📅 Jun 2023 &nbsp;&nbsp;📍 Canada</div>
+  <div>📅 Jun 2023 &nbsp;&nbsp;📍 Montreal, Canada</div>
 </div>
 ---
 <div>
@@ -91,8 +91,8 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 ---
 <div>
   <div><strong>IEEE ITNAC</strong></div>
-  <div>Speaker at International Telecommunication Networks and Applications Conference</div>
-  <div>📅 Dec 2022 &nbsp;&nbsp;📍 University of Canterbury, New Zealand</div>
+  <div>Speaker at International Telecommunication Networks and Applications Conference in University of Canterbury</div>
+  <div>📅 Dec 2022 &nbsp;&nbsp;📍 Wellington, New Zealand</div>
 </div>
 ---
 <div>
@@ -134,13 +134,13 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 <div>
   <div><strong>IEEE ICECET</strong></div>
   <div>Speaker at International Conference on Electrical, Computer and Energy Technologies</div>
-  <div>📅 Dec 2021 &nbsp;&nbsp;📍 South Africa</div>
+  <div>📅 Dec 2021 &nbsp;&nbsp;📍 Cape Town, South Africa</div>
 </div>
 ---
 <div>
   <div><strong>IEEE ATIS</strong></div>
   <div>Scientific committee member of Applications and Techniques for Information Security Conference</div>
-  <div>📅 Dec 2021 &nbsp;&nbsp;📍 Australia</div>
+  <div>📅 Dec 2021 &nbsp;&nbsp;📍 Geelong, Australia</div>
 </div>
 ---
 <div>
@@ -152,13 +152,13 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 <div>
   <div><strong>IEEE ICCECE</strong></div>
   <div>Speaker at International Conference on Computing, Electronics & Communications Engineering</div>
-  <div>📅 Jul 2020 &nbsp;&nbsp;📍 UK</div>
+  <div>📅 Jul 2020 &nbsp;&nbsp;📍 London, UK</div>
 </div>
 ---
 <div>
   <div><strong>School on Future IoT</strong></div>
   <div>Participation at IMT Atlantique School</div>
-  <div>📅 Oct 2020 &nbsp;&nbsp;📍 France</div>
+  <div>📅 Oct 2020 &nbsp;&nbsp;📍 Paris, France</div>
 </div>
 ---
 <div>
@@ -170,25 +170,25 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 <div>
   <div><strong>IEEE CSNet</strong></div>
   <div>Speaker at Cyber Security in Networking Conference</div>
-  <div>📅 Oct 2020 &nbsp;&nbsp;📍 Switzerland</div>
+  <div>📅 Oct 2020 &nbsp;&nbsp;📍 Zurich, Switzerland</div>
 </div>
 ---
 <div>
   <div><strong>ACM IoT</strong></div>
   <div>Speaker at Internet of Things Conference</div>
-  <div>📅 Oct 2020 &nbsp;&nbsp;📍 Sweden</div>
+  <div>📅 Oct 2020 &nbsp;&nbsp;📍 Malmo, Sweden</div>
 </div>
 ---
 <div>
   <div><strong>MaCS</strong></div>
   <div>Speaker at Mathematics and Computer Science Joint Conference</div>
-  <div>📅 Oct 2020 &nbsp;&nbsp;📍 Hungary</div>
+  <div>📅 Oct 2020 &nbsp;&nbsp;📍 Debrecen, Hungary</div>
 </div>
 ---
 <div>
   <div><strong>ICRIC</strong></div>
   <div>Speaker at Recent Innovations in Computing Conference</div>
-  <div>📅 Jul 2020 &nbsp;&nbsp;📍 India</div>
+  <div>📅 Jul 2020 &nbsp;&nbsp;📍 Tamil, India</div>
 </div>
 ---
 <div>
@@ -212,13 +212,13 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 <div>
   <div><strong>EIT Summit</strong></div>
   <div>Presenter at European Institute of Innovation and Technology Summit - Winners Day</div>
-  <div>📅 Dec 2019 &nbsp;&nbsp;📍 France</div>
+  <div>📅 Dec 2019 &nbsp;&nbsp;📍 Paris, France</div>
 </div>
 ---
 <div>
   <div><strong>CBCSS</strong></div>
   <div>Speaker at Conference on Software and Security</div>
-  <div>📅 Nov 2019 &nbsp;&nbsp;📍 Hungary</div>
+  <div>📅 Nov 2019 &nbsp;&nbsp;📍 Martonvasar, Hungary</div>
 </div>
 ---
 <div>
@@ -260,7 +260,7 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 <div>
   <div><strong>IEEE EECS</strong></div>
   <div>Speaker at Electrical Engineering and Computer Science Conference</div>
-  <div>📅 Dec 2018 &nbsp;&nbsp;📍 Switzerland</div>
+  <div>📅 Dec 2018 &nbsp;&nbsp;📍 Bern, Switzerland</div>
 </div>
 ---
 <div>
