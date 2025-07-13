@@ -6,31 +6,35 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 ---
 
 <div>
-  <div>📌 <strong>IEEE FiCloud</strong></div>
+  <div><strong>IEEE FiCloud</strong></div>
   <div>Future Internet of Things and Cloud</div>
   <div>📅 Aug 2025 &nbsp;&nbsp;📍 Istanbul, Turkey</div>
 </div>
+<br>
 
 <div>
-  <div>📌 <strong>CECC</strong></div>
+  <div><strong>CECC</strong></div>
   <div>Central European Conference on Cryptology</div>
   <div>📅 Jun 2025 &nbsp;&nbsp;📍 Budapest, Hungary</div>
 </div>
+<br>
 
 <div>
-  <div>📌 <strong>6G SUMMIT</strong></div>
+  <div><strong>6G SUMMIT</strong></div>
   <div></div>
   <div>📅 Jun 2025 &nbsp;&nbsp;📍 Poznan, Poland</div>
 </div>
+<br>
 
 <div>
-  <div>📌 <strong>TESIC</strong></div>
+  <div><strong>TESIC</strong></div>
   <div>International Conference on Technological, Educational, Social, and International Challenges in the Changing World</div>
   <div>📅 May 2025 &nbsp;&nbsp;📍 Gyor, Hungary</div>
 </div>
+<br>
 
 <div>
-  <div>📌 <strong>SiA workshop</strong></div>
+  <div><strong>SiA workshop</strong></div>
   <div>Hungarian Innovation Hub</div>
   <div>📅 Apr 2025 &nbsp;&nbsp;📍 Budapest, Hungary</div>
 </div>
