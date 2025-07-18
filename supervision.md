@@ -108,8 +108,8 @@ An introductory course providing a solid foundation in discrete mathematical mod
 
 ## 4. Cryptography and Security  
 **Term:** Spring  
-**Level:** Undergraduate 
-**Description:**  
+**Level:** Undergraduate  
+**Description:**    
 This course introduces cryptographic algorithms and their practical applications. Topics include symmetric and asymmetric encryption, digital signatures, hash functions, and blockchain fundamentals.
 
 ---
