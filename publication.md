@@ -22,6 +22,8 @@ subtitle: Building Trust and Resilience: Cryptography, AI, and Secure Infrastruc
 - SAAD, H. N., & Alshawki, M. B. (2017). Weight Analysis For Weighted Cluster Algorithms In Mobile Ad-Hoc Network. Journal of Theoretical & Applied Information Technology, 95(15).
 - Alshawki, M. B., & George, L. E. (2016). Secure Model for SMS Exchange over GSM. International Journal of Computer Network & Information Security, 8(1).
 - Alshawki, M. B., & George, L. E. (2013). Simple Model for Coding Geographic Location Coordinates. International Journal of Scientific & Engineering Research, 4(7), 2468-2470.
+- Alshawki, M., & George, L. (2013). Remote patient tracking and monitoring system. International journal of computer science and mobile computing, 2(12), 88-94.
+
 
 ### Book Chapters
 - Fadel, M. O., & Alshawki, M. B. (2023, October). Authentication and data access challenges in safeguarding industrial IoT. In Lecture Notes in Electrical Engineering, vol. 1194. Singapore: Springer Nature Singapore.
@@ -59,7 +61,9 @@ subtitle: Building Trust and Resilience: Cryptography, AI, and Secure Infrastruc
 ### Online Repositories
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ) 
-
+<a href="https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ" target="_blank">
+  <img src="/assets/img/gs.jpg" alt="Google Scholar">
+</a> 
 
 ---
 
