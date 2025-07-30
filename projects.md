@@ -4,7 +4,7 @@ title: Projects
 subtitle: 
 ---
 
-## 6G Security
+### 6G Security
 - Senior cybersecurity researcher leading the following pillars:
 - Pillar 1 - Trust Establishment in B5G/6G Network  
 - Pillar 2 - Secure Federated Learning in B5G/6G Network
@@ -20,7 +20,7 @@ subtitle:
 ---
 ---
 
-## Industrial Internet of Things Security
+### Industrial Internet of Things Security
 
 - Safeguarding Industrial Internet of Things Authentication  
 - EKOP-24-4-2: Postdoctoral Research Scholarship  
@@ -30,7 +30,7 @@ subtitle:
 ---
 ---
 
-## Thematic Excellence Program
+### Thematic Excellence Program
 
 - Developing Secure Data Validators  
 - TKP2020-NKA-06: Hungarian National Challenges - Cybersecurity Subprogramme  
@@ -40,7 +40,7 @@ subtitle:
 ---
 ---
 
-## Secure Navigation
+### Secure Navigation
 
 - Developing Secure Galileo Navigation Authentication Protocol  
 - 1.3-KK: Software and Data-Intensive Services project  
@@ -50,7 +50,7 @@ subtitle:
 ---
 ---
 
-## Lightweight Cryptography
+### Lightweight Cryptography
 
 - Developing lightweight attribute based encryption for smart IoT devices  
 - ÚNKP-22-4: Research Scholarship for Doctoral Candidates  
@@ -60,7 +60,7 @@ subtitle:
 ---
 ---
 
-## Distributed Security
+### Distributed Security
 
 - Developing secure protocols for distributed environment  
 - ÚNKP-21-3: Research Scholarship for Doctoral students  
@@ -70,7 +70,7 @@ subtitle:
 ---
 ---
 
-## Autonomous Vehicle Control
+### Autonomous Vehicle Control
 
 - Developing lightweight cryptographic protocols  
 - VEKOP-16: Talent Management in Autonomous Vehicle Control  
@@ -80,7 +80,7 @@ subtitle:
 ---
 ---
 
-## Smart Platform for Digital Networks
+### Smart Platform for Digital Networks
 
 - Developing Secure SDN for Cyber Physical Systems  
 - 02P17D022: Collaborative smart contracting platform for digital value creation networks  
@@ -89,7 +89,7 @@ subtitle:
 ---
 ---
 
-## Secure Cryptographic Protocols
+### Secure Cryptographic Protocols
 
 - Developing secure cryptographic protocols  
 - EFOP-3.6.2: Innovations in Informatics and Infocommunication  
@@ -99,7 +99,7 @@ subtitle:
 ---
 ---
 
-## Orchestration of Financial Services
+### Orchestration of Financial Services
 
 - Blockchain analyzer  
 - OFION: Communication and Security Analysis of The Cloud Orchestrator Module  
