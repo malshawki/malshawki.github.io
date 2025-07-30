@@ -23,6 +23,7 @@ navbar-links:
   Activities:
    - Events & Talks: "activities"
    - Supervision & Teaching: "supervision"
+   - Achievements: "achievements"
   Research:
    - Projects: "projects"
    - Publication: "publication"

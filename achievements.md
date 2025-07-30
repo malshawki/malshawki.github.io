@@ -28,5 +28,9 @@ subtitle:
   <img src="/assets/img/ac.jpg" style="width: 150px;">
 </div>
 
+### 🔗 Previous Collaborations
+- Atos (ES)
+- LogMeIn (EU)
+- ConsultingHun (HU)
 
 **Disclaimer:** Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.
