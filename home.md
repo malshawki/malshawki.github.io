@@ -15,7 +15,7 @@ I’m Mohammed B. Alshawki, a cybersecurity researcher, assistant professor, and
 
 
 ### 🔍 Current Research
-I work at the intersection of security, distributed systems, and cryptography where protocols are complex, adversaries are imaginative, and bugs have a remarkable sense of timing. My ***current research*** focuses on:
+I work at the intersection of cryptography, distributed systems, and artificial intelligence. My ***current research*** focuses on:
 - Federated learning and AI security
 - Network and IoT security
 - Applied cryptography
@@ -25,6 +25,10 @@ I work at the intersection of security, distributed systems, and cryptography wh
 - Assistant Professor (ELTE)
 - Senior Cybersecurity Researcher (IDACUS)
 - Certified Cybersecurity Consultant (EU)
+
+### Membership
+- 6G-IA Security workgroup
+- Australian Information Security Association (AISA)
 
 ### Further Details
 - [Projects](projects.md)
@@ -69,7 +73,7 @@ I work at the intersection of security, distributed systems, and cryptography wh
 - **2022 Jun**: Presented our poster on Outsourced Decentralized CP-ABE in Internet of Things in International Conference on Applied Cryptography and Network Security in Rome, Italy.
 - **2022 Apr**: Our results On "Security and Performance Requirements of Decentralized Resource Discovery in IoT" has been accepted to be presented in International Conference on Recent Innovations in Computing to be held at the Central University of Jammu, India
 - **2022 Mar**: Our results on Efficient encryption in decentralized cp-abe using secret sharing has been accepted to be presented in International Conference on Electrical, Computer and Energy Technologies in Prague, Czech Republic.
-- **2022 Feb**: We received the best award of our presentation on Security verification of key exchange in ciphertext-policy attribute based encryption in the International Conference on Information Systems Security and Privacy, held in Southeast University.
+- **2022 Feb**: We received the **best award** of our presentation on Security verification of key exchange in ciphertext-policy attribute based encryption in the International Conference on Information Systems Security and Privacy, held in Southeast University.
 - **2022 Feb**: Our paper "OLAP Mining with Educational Data Mart to Predict Students’ Performance" has been accpeted to be appear in Informatica journal.
 - **2021 Dec**: Presented our results on locality aware distributed addressing for edge/fog computing infrastructures in the International Conference on Electrical, Computer and Energy Technologies, Cape Town, South Africa. 
 - **2021 Nov**: Received the **Bronze award** in the EIT Health Innovation Day for our project "CyberVital"
