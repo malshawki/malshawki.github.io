@@ -5,7 +5,7 @@ subtitle: Building Trust and Resilience, Cryptography, AI, and Secure Infrastruc
 ---
 
 ### Journal Papers
-<ol start="16" reversed>
+<ol class="bracketed" start="16" reversed>
     <li>Stodt, F., Alshawki, M., Reich, C., Ligeti, P., & Theoleyre, F. (2025). Securing the Future: Lightweight Blockchain Solutions for IIoT and IoT Networks. <i>Security and Privacy, 8(4)</i>.</li>
     <li>Shareiyat, A., Hussain Al-hashimy, H. N., Hamoud, A. K., & Alshawki, M. (2025). The Effect Of Consumer's Intention And Feedback For The Use Of Mobile NFC Payment Technology. <i>Economic Studies, 34(6)</i>.</li>
     <li>Alshawki, M. B., Najm, I. A., & Hamoud, A. K. (2024). Congestion Control Prediction Model for 5G Environment Based on Supervised and Unsupervised Machine Learning Approach. <i>IEEE Access, 12</i>, 91127-91139.</li>

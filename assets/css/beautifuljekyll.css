@@ -30,6 +30,21 @@ html {
   font-size: 100%
 }
 
+ol.bracketed {
+    list-style: none; /* Remove default numbers */
+    padding-left: 0;
+}
+
+ol.bracketed li {
+    margin-bottom: 5px;
+    counter-increment: none; /* Not using CSS counter now */
+}
+
+ol.bracketed li::marker {
+    content: "[" counter(list-item) "]: "; /* Use the browser's counter */
+    font-weight: bold;
+}
+
 body {
   font-family: var(--body-font);
   font-size: 0.9rem;
