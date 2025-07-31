@@ -12,6 +12,18 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 </div>
 ---
 <div>
+  <div><strong>AI Summer School</strong></div>
+  <div>Invited speaker at Enfield AI Summer School</div>
+  <div>📅 Jul 2025 &nbsp;&nbsp;📍 Budapest, Hungary</div>
+</div>
+---
+<div>
+  <div><strong>IEEE ICDCS</strong></div>
+  <div>Speaker at HotDiML workshop of International Conference on Distributed Computing Systems</div>
+  <div>📅 Jul 2025 &nbsp;&nbsp;📍 Glasgow, Scotlond</div>
+</div>
+---
+<div>
   <div><strong>CECC</strong></div>
   <div>Poster at Central European Conference on Cryptology</div>
   <div>📅 Jun 2025 &nbsp;&nbsp;📍 Budapest, Hungary</div>
