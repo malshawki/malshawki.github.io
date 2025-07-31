@@ -27,35 +27,40 @@ subtitle: Building Trust and Resilience, Cryptography, AI, and Secure Infrastruc
 </ol>
 
 ### Book Chapters
-- Fadel, M. O., & Alshawki, M. B. (2023, October). Authentication and data access challenges in safeguarding industrial IoT. In Lecture Notes in Electrical Engineering, vol. 1194. Singapore: Springer Nature Singapore.
-- Alshawki, M. B., Abdullah, W. D., Hamoud, A. K., Valadares, D. C. G., Shareiyat, A., ... (2023). 3l-aodv: Three layer security protocol for grayhole attack mitigation in manet. In Lecture Notes on Networks and Systems, 813–823.
-- Alshawki, M. B., Ligeti, P., & Reich, C. (2022). D3VN: Decentralized abe-based distributed data validation network. In Lecture Notes on Networks and Systems.
-- Alshawki, M., Ligeti, P., & Reich, C. (2022). Poster: ODABE: Outsourced Decentralized CP-ABE in Internet of Things. In Lecture Notes in Computer Science vol. 13285 , 611–615.
-- Alshawki, M. B., Ligeti, P., & Reich, C. (2022). On Security and Performance Requirements of Decentralized Resource Discovery in IoT. In Lecture Notes in Electrical Engineering, 289–302.
-- Yaseen, M., Kamel, M., & Ligeti, P. (2022). Security Analysis and Deployment Measurement of Transport Layer Security Protocol. In Lecture Notes in Electrical Engineering, 725–739.
+<ol class="bracketed" start="6" reversed>
+    <li data-letter="B">Fadel, M. O., & Alshawki, M. B. (2023, October). Authentication and data access challenges in safeguarding industrial IoT. In <i>Lecture Notes in Electrical Engineering, vol. 1194</i>. Singapore: Springer Nature Singapore.</li>
+    <li data-letter="B">Alshawki, M. B., Abdullah, W. D., Hamoud, A. K., Valadares, D. C. G., Shareiyat, A., ... (2023). 3l-aodv: Three layer security protocol for grayhole attack mitigation in manet. In <i>Lecture Notes on Networks and Systems</i>, 813–823.</li>
+    <li data-letter="B">Alshawki, M. B., Ligeti, P., & Reich, C. (2022). D3VN: Decentralized abe-based distributed data validation network. In <i>Lecture Notes on Networks and Systems</i>.</li>
+    <li data-letter="B">Alshawki, M., Ligeti, P., & Reich, C. (2022). Poster: ODABE: Outsourced Decentralized CP-ABE in Internet of Things. In <i>Lecture Notes in Computer Science, vol. 13285</i>, 611–615.</li>
+    <li data-letter="B">Alshawki, M. B., Ligeti, P., & Reich, C. (2022). On Security and Performance Requirements of Decentralized Resource Discovery in IoT. In <i>Lecture Notes in Electrical Engineering</i>, 289–302.</li>
+    <li data-letter="B">Yaseen, M., Kamel, M., & Ligeti, P. (2022). Security Analysis and Deployment Measurement of Transport Layer Security Protocol. In <i>Lecture Notes in Electrical Engineering</i>, 725–739.</li>
+</ol>
 
 
 ### Conference Papers
-- Morello, M., Sainio, P., & Alshawki, M. (2024, December). Regulatory Compliance Verification: A Privacy Preserving Approach. In 2024 8th Cyber Security in Networking Conference (CSNet) (pp. 263-267). IEEE.
-- Birtane, S., Al-Naday, M., Paolucci, F., Bakar, R. A., Lefebvre, V., Passas, V., ... & Gür, G. (2024, November). Footprint-Optimized Orchestration and Management of Secure Complex Services over 6G Continuum. In 2024 IEEE Conference on Standards for Communications and Networking (CSCN) (pp. 383-388). IEEE.
-- Alshawki, M. B. M., Van Oosterhout, J., Ligeti, P., & Reich, C. (2023). Distributed Cryptography for Lightweight Encryption in Decentralized CP-ABE. In 2023 19th International Conference on Wireless and Mobile Computing.
-- Rajab, H., Alshawki, M. B., Hamoud, A. K., Farag, H., Cinkler, T., & Ligeti, P. (2022). Cognitive Radio for Smart Grid: A Decentralized Emergency Management Approach. In 2022 32nd International Telecommunication Networks and Applications Conference.
-- Alshawki, M. B., Yan, Y., Ligeti, P., & Reich, C. (2022). Attribute verifier for internet of things. In 2022 32nd International Telecommunication Networks and Applications Conference.
-- Bat-Erdene, B., Yan, Y., Alshawki, M. B., & Ligeti, P. (2022). Security verification of key exchange in ciphertext-policy attribute based encryption. In 2022 7th International Conference on Signal and Image Processing (ICSIP).
-- Alshawki, M., Ligeti, P., & Reich, C. (2022). Sdabe: Efficient encryption in decentralized cp-abe using secret sharing. In 2022 International Conference on Electrical, Computer and Energy Technologies.
-- Alshawki, M. B., Ligeti, P., & Reich, C. (2021, December). Lada: locality aware distributed addressing for edge/fog computing infrastructures. In 2021 International Conference on Electrical, Computer and Energy Technologies (ICECET) (pp. 1-6). IEEE.
-- Alshawki, M. B., Wallis, K., Ligeti, P., & Reich, C. (2020, October). Distributed data validation network in IoT: a decentralized validator selection model. In Proceedings of the 10th International Conference on the Internet of Things (pp. 1-8).
-- Yan, Y., Alshawki, M. B., & Ligeti, P. (2020, August). Attribute-based encryption in cloud computing environment. In 2020 International Conference on Computing, Electronics & Communications Engineering (iCCECE) (pp. 63-68). IEEE.
-- Alshawki, M. B., Crispo, B., & Ligeti, P. (2019, October). A decentralized and scalable model for resource discovery in IoT network. In 2019 international conference on wireless and mobile computing, networking and communications (WiMob) (pp. 1-4). IEEE.
-- Alshawki, M. B., Ligeti, P., & Nagy, A. (2018, December). Improved approach of address propagation for f2f networks. In 2018 2nd European Conference on Electrical Engineering and Computer Science (EECS) (pp. 604-609). IEEE.
-- Alshawki, M. B., Alameri, I., & Onaizah, A. N. (2017, March). STAODV: a secure and trust based approach to mitigate blackhole attack on AODV based MANET. In 2017 IEEE 2nd Advanced Information Technology, Electronic and Automation Control Conference (IAEAC) (pp. 1278-1282). IEEE.
+<ol class="bracketed" start="15" reversed>
+    <li data-letter="C">Morello, M., Sainio, P., & Alshawki, M. (2024, December). Regulatory Compliance Verification: A Privacy Preserving Approach. In <i>2024 8th Cyber Security in Networking Conference (CSNet)</i> (pp. 263-267). IEEE.</li>
+    <li data-letter="C">La, V. H., Mallouli, W., Nguyen, M. D., de Oca, E. M., Cavalli, A., Vörös, P., Alshawki, M., ... & Drosou, A. (2024, November). Enhancing IoT Security in 6G Networks: AI-Based Intrusion Detection, Penetration Testing, and Blockchain-Based Trust Management (Work-in-Progress Paper). In <i>IFIP International Internet of Things Conference</i> (pp. 53-67). Cham: Springer Nature Switzerland.</li>
+    <li data-letter="C">Birtane, S., Al-Naday, M., Paolucci, F., Bakar, R. A., Lefebvre, V., Passas, V., ... & Gür, G. (2024, November). Footprint-Optimized Orchestration and Management of Secure Complex Services over 6G Continuum. In <i>2024 IEEE Conference on Standards for Communications and Networking (CSCN)</i> (pp. 383-388). IEEE.</li>
+    <li data-letter="C">Alshawki, M. B. M., Van Oosterhout, J., Ligeti, P., & Reich, C. (2023). Distributed Cryptography for Lightweight Encryption in Decentralized CP-ABE. In <i>2023 19th International Conference on Wireless and Mobile Computing</i>.</li>
+    <li data-letter="C">Rajab, H., Alshawki, M. B., Hamoud, A. K., Farag, H., Cinkler, T., & Ligeti, P. (2022). Cognitive Radio for Smart Grid: A Decentralized Emergency Management Approach. In <i>2022 32nd International Telecommunication Networks and Applications Conference</i>.</li>
+    <li data-letter="C">Alshawki, M. B., Yan, Y., Ligeti, P., & Reich, C. (2022). Attribute verifier for internet of things. In <i>2022 32nd International Telecommunication Networks and Applications Conference</i>.</li>
+    <li data-letter="C">Bat-Erdene, B., Yan, Y., Alshawki, M. B., & Ligeti, P. (2022). Security verification of key exchange in ciphertext-policy attribute based encryption. In <i>2022 7th International Conference on Signal and Image Processing (ICSIP)</i>.</li>
+    <li data-letter="C">Alshawki, M., Ligeti, P., & Reich, C. (2022). Sdabe: Efficient encryption in decentralized cp-abe using secret sharing. In <i>2022 International Conference on Electrical, Computer and Energy Technologies</i>.</li>
+    <li data-letter="C">Alshawki, M. B., Ligeti, P., & Reich, C. (2021, December). Lada: locality aware distributed addressing for edge/fog computing infrastructures. In <i>2021 International Conference on Electrical, Computer and Energy Technologies (ICECET)</i> (pp. 1-6). IEEE.</li>
+    <li data-letter="C">Alshawki, M. B., Yan, Y., Ligeti, P., & Reich, C. (2020, October). A decentralized resource discovery using attribute based encryption for internet of things. In <i>2020 4th Cyber Security in Networking Conference (CSNet)</i> (pp. 1-3). IEEE.</li>
+    <li data-letter="C">Alshawki, M. B., Wallis, K., Ligeti, P., & Reich, C. (2020, October). Distributed data validation network in IoT: a decentralized validator selection model. In <i>Proceedings of the 10th International Conference on the Internet of Things</i> (pp. 1-8).</li>
+    <li data-letter="C">Yan, Y., Alshawki, M. B., & Ligeti, P. (2020, August). Attribute-based encryption in cloud computing environment. In <i>2020 International Conference on Computing, Electronics & Communications Engineering (iCCECE)</i> (pp. 63-68). IEEE.</li>
+    <li data-letter="C">Alshawki, M. B., Crispo, B., & Ligeti, P. (2019, October). A decentralized and scalable model for resource discovery in IoT network. In <i>2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)</i> (pp. 1-4). IEEE.</li>
+    <li data-letter="C">Alshawki, M. B., Ligeti, P., & Nagy, A. (2018, December). Improved approach of address propagation for f2f networks. In <i>2018 2nd European Conference on Electrical Engineering and Computer Science (EECS)</i> (pp. 604-609). IEEE.</li>
+    <li data-letter="C">Alshawki, M. B., Alameri, I., & Onaizah, A. N. (2017, March). STAODV: a secure and trust based approach to mitigate blackhole attack on AODV based MANET. In <i>2017 IEEE 2nd Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)</i> (pp. 1278-1282). IEEE.</li>
+</ol>
 
-### Workshop Papers
-- La, V. H., Mallouli, W., Nguyen, M. D., de Oca, E. M., Cavalli, A., Vörös, P., Alshawki, M., ... & Drosou, A. (2024, November). Enhancing IoT Security in 6G Networks: AI-Based Intrusion Detection, Penetration Testing, and Blockchain-Based Trust Management (Work-in-Progress Paper). In IFIP International Internet of Things Conference (pp. 53-67). Cham: Springer Nature Switzerland.
-- Bat-Erdene, B., Yan, Y., & Alshawki, M. B. (2021). Formal verification of confidentiality in attribute-based encryption through proverif. In Book of Abstracts, 21th Central European Conference on Cryptology (p. 34).
-- Alshawki, M. B., Yan, Y., Ligeti, P., & Reich, C. (2020, October). A decentralized resource discovery using attribute based encryption for internet of things. In 2020 4th Cyber Security in Networking Conference (CSNet) (pp. 1-3). IEEE.
-- Alshawki, M., Ligeti, P., & Reich, C. (2020, October). "Region-based distributed hash table for fog computing infrastructure" in 13th Joint Conference on Mathematics and Computer Science MaCS 2020, October 1-3, 2020
-
+### Other Publications
+<ol class="bracketed" start="2" reversed>
+    <li data-letter="O">Bat-Erdene, B., Yan, Y., & Alshawki, M. B. (2021). Formal verification of confidentiality in attribute-based encryption through proverif. In <i>Book of Abstracts, 21th Central European Conference on Cryptology</i> (p. 34).</li>
+    <li data-letter="O">Alshawki, M., Ligeti, P., & Reich, C. (2020, October). "Region-based distributed hash table for fog computing infrastructure" in <i>13th Joint Conference on Mathematics and Computer Science (MaCS 2020)</i>, October 1-3, 2020.</li>
+</ol>
 ---
 
 
