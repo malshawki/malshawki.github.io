@@ -37,7 +37,7 @@ I work at the intersection of security, distributed systems, and cryptography wh
 
 ### News
 - **2025 Aug**: Served as the Security, Privacy and Trust track program committee in FiCloud 2025 in Istanbul, Turkey.
-- **2025 Jul**: Selected as the guest editor for "New Challenges in Beyond 5G/6G Network Wireless Technologies" special issue in Electronics Journal.
+- **2025 Jul**: Invited as the guest editor for "New Challenges in Beyond 5G/6G Network Wireless Technologies" special issue in Electronics Journal.
 - **2025 Jul**: Visited University of Glasgow, and also presented our paper "Byzantine-Resilient Federated Learning: Evaluating MPC Approaches" in ICDCS workshops in Glasgow, Scotlond. 
 - **2025 Jul**: Delivered a talk on "AI in Cybersecurity" in Enfield AI summer school organized by Budapest University of Technology and Economics in Budapest, Hungary.
 - **2025 Jun**: Our paper "Securing the Future: Lightweight Blockchain Solutions for IIoT and IoT Networks" has been accepted in Security and Privacy Journal.
