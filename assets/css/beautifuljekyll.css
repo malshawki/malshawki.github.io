@@ -32,6 +32,12 @@ html {
 
 
 /* --- For publication numbers --- */
+
+ol.bracketed li::marker {
+    content: "[" attr(data-letter) counter(list-item) "] ";
+    font-weight: bold;
+}
+
 ol.bracketed {
     list-style: none;
     padding-left: 0;
@@ -43,11 +49,6 @@ ol.bracketed li {
     counter-increment: none; /* Not using CSS counter now */
 }
 
-
-ol.bracketed li::marker {
-    content: "[" attr(data-letter) counter(list-item) "] ";
-    font-weight: bold;
-}
 /* ----------------- */
 
 body {
