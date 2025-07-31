@@ -61,10 +61,11 @@ subtitle: Building Trust and Resilience, Cryptography, AI, and Secure Infrastruc
     <li data-letter="O">Bat-Erdene, B., Yan, Y., & Alshawki, M. B. (2021). Formal verification of confidentiality in attribute-based encryption through proverif. In <i>Book of Abstracts, 21th Central European Conference on Cryptology</i> (p. 34).</li>
     <li data-letter="O">Alshawki, M., Ligeti, P., & Reich, C. (2020, October). "Region-based distributed hash table for fog computing infrastructure" in <i>13th Joint Conference on Mathematics and Computer Science (MaCS 2020)</i>, October 1-3, 2020.</li>
 </ol>
+
 ---
 
 
-### Online Repositories
+## Online Repositories
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ) 
 <a href="https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ" target="_blank">
