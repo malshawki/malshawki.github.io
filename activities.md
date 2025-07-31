@@ -174,12 +174,6 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 </div>
 ---
 <div>
-  <div><strong>Information Privacy Engineering and Privacy by Design</strong></div>
-  <div>Reviewer of William Stallings Book, MIT</div>
-  <div>📅 2020 &nbsp;&nbsp;📍 USA</div>
-</div>
----
-<div>
   <div><strong>IEEE CSNet</strong></div>
   <div>Speaker at Cyber Security in Networking Conference</div>
   <div>📅 Oct 2020 &nbsp;&nbsp;📍 Zurich, Switzerland</div>
