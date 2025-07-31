@@ -6,22 +6,24 @@ subtitle: Building Trust and Resilience, Cryptography, AI, and Secure Infrastruc
 
 ### Journal Papers
 <ol class="bracketed" start="16" reversed>
-    <li>Stodt, F., Alshawki, M., Reich, C., Ligeti, P., & Theoleyre, F. (2025). Securing the Future: Lightweight Blockchain Solutions for IIoT and IoT Networks. <i>Security and Privacy, 8(4)</i>.</li>
-    <li>Shareiyat, A., Hussain Al-hashimy, H. N., Hamoud, A. K., & Alshawki, M. (2025). The Effect Of Consumer's Intention And Feedback For The Use Of Mobile NFC Payment Technology. <i>Economic Studies, 34(6)</i>.</li>
-    <li>Alshawki, M. B., Najm, I. A., & Hamoud, A. K. (2024). Congestion Control Prediction Model for 5G Environment Based on Supervised and Unsupervised Machine Learning Approach. <i>IEEE Access, 12</i>, 91127-91139.</li>
-    <li>Stodt, F., Alshawki, M. B., Reich, C., Theoleyre, F., & Ligeti, P. (2024). Blockchain-based privacy-preserving shop floor auditing architecture. <i>IEEE Access, 12</i>, 26747-26758.</li>
-    <li>Yan, Y., Alshawki, M. B., Zoltay, M., Gal, M., Hollos, R., Jin, Y., ... & Tenyi, A. (2024). Fedlabx: a practical and privacy-preserving framework for federated learning. <i>Complex & Intelligent Systems, 10(1)</i>, 677-690.</li>
-    <li>Valadares, D. C. G., Perkusich, A., Martins, A. F., Alshawki, M. B., & Seline, C. (2023). Privacy-preserving blockchain technologies. <i>Sensors, 23(16)</i>, 7172.</li>
-    <li>Hamoud, A. K., Alasady, A. S., Awadh, W. A., Dahr, J. M., Alshawki, M. B. M. (2023). A comparative study of supervised/unsupervised machine learning algorithms with feature selection approaches to predict student performance. <i>International Journal of Data Mining, Modelling and Management, 15(4)</i>, 393–409.</li>
-    <li>Hamoud, A. K., Alshwki, M. B., Gaafar, A. S., Alasady, A. S., Humadi, A. M., ... (2022). A prediction model based machine learning algorithms with feature selection approaches over imbalanced dataset. <i>Indonesian Journal of Electrical Engineering and Computer Science, 28(2)</i>.</li>
-    <li>Najm, I. A., Dahr, J. M., Hamoud, A. K., Alasady, A. S., Awadh, W. A., Alshawki, M. B., ... (2022). OLAP Mining with Educational Data Mart to Predict Students’ Performance. <i>Informatica, 46(5)</i>.</li>
-    <li>Alshawki, M. B., Ligeti, P., Nagy, A., & Reich, C. (2022). Distributed Address Table (DAT): A decentralized model for end-to-end communication in IoT. <i>Peer-to-Peer Networking and Applications, 15(1)</i>, 178-193.</li>
-    <li>Alshawki, M. B., Yan, Y., Ligeti, P., & Reich, C. (2021). Attred: Attribute based resource discovery for IoT. <i>Sensors, 21(14)</i>, 4721.</li>
-    <li>Khalaf, A., Dahr, J. M., Najim, I. A., Kamel, M. B., Hashim, A. S., Awadh, W. A., & Humadi, A. M. (2021). Supervised learning algorithms in educational data mining: A systematic review. <i>Southeast Europe Journal of Soft Computing, 10(1)</i>, 55-70.</li>
-    <li>SAAD, H. N., & Alshawki, M. B. (2017). Weight Analysis For Weighted Cluster Algorithms In Mobile Ad-Hoc Network. <i>Journal of Theoretical & Applied Information Technology, 95(15)</i>.</li>
-    <li>Alshawki, M. B., & George, L. E. (2016). Secure Model for SMS Exchange over GSM. <i>International Journal of Computer Network & Information Security, 8(1)</i>.</li>
-    <li>Alshawki, M. B., & George, L. E. (2013). Simple Model for Coding Geographic Location Coordinates. <i>International Journal of Scientific & Engineering Research, 4(7)</i>, 2468-2470.</li>
-    <li>Alshawki, M., & George, L. (2013). Remote patient tracking and monitoring system. <i>International Journal of Computer Science and Mobile Computing, 2(12)</i>, 88-94.</li>
+    <ol class="bracketed" start="16" reversed>
+    <li data-letter="J">Stodt, F., Alshawki, M., Reich, C., Ligeti, P., & Theoleyre, F. (2025). Securing the Future: Lightweight Blockchain Solutions for IIoT and IoT Networks. <i>Security and Privacy, 8(4)</i>.</li>
+    <li data-letter="J">Shareiyat, A., Hussain Al-hashimy, H. N., Hamoud, A. K., & Alshawki, M. (2025). The Effect Of Consumer's Intention And Feedback For The Use Of Mobile NFC Payment Technology. <i>Economic Studies, 34(6)</i>.</li>
+    <li data-letter="J">Alshawki, M. B., Najm, I. A., & Hamoud, A. K. (2024). Congestion Control Prediction Model for 5G Environment Based on Supervised and Unsupervised Machine Learning Approach. <i>IEEE Access, 12</i>, 91127-91139.</li>
+    <li data-letter="J">Stodt, F., Alshawki, M. B., Reich, C., Theoleyre, F., & Ligeti, P. (2024). Blockchain-based privacy-preserving shop floor auditing architecture. <i>IEEE Access, 12</i>, 26747-26758.</li>
+    <li data-letter="J">Yan, Y., Alshawki, M. B., Zoltay, M., Gal, M., Hollos, R., Jin, Y., ... & Tenyi, A. (2024). Fedlabx: a practical and privacy-preserving framework for federated learning. <i>Complex & Intelligent Systems, 10(1)</i>, 677-690.</li>
+    <li data-letter="J">Valadares, D. C. G., Perkusich, A., Martins, A. F., Alshawki, M. B., & Seline, C. (2023). Privacy-preserving blockchain technologies. <i>Sensors, 23(16)</i>, 7172.</li>
+    <li data-letter="J">Hamoud, A. K., Alasady, A. S., Awadh, W. A., Dahr, J. M., Alshawki, M. B. M. (2023). A comparative study of supervised/unsupervised machine learning algorithms with feature selection approaches to predict student performance. <i>International Journal of Data Mining, Modelling and Management, 15(4)</i>, 393–409.</li>
+    <li data-letter="J">Hamoud, A. K., Alshwki, M. B., Gaafar, A. S., Alasady, A. S., Humadi, A. M., ... (2022). A prediction model based machine learning algorithms with feature selection approaches over imbalanced dataset. <i>Indonesian Journal of Electrical Engineering and Computer Science, 28(2)</i>.</li>
+    <li data-letter="J">Najm, I. A., Dahr, J. M., Hamoud, A. K., Alasady, A. S., Awadh, W. A., Alshawki, M. B., ... (2022). OLAP Mining with Educational Data Mart to Predict Students’ Performance. <i>Informatica, 46(5)</i>.</li>
+    <li data-letter="J">Alshawki, M. B., Ligeti, P., Nagy, A., & Reich, C. (2022). Distributed Address Table (DAT): A decentralized model for end-to-end communication in IoT. <i>Peer-to-Peer Networking and Applications, 15(1)</i>, 178-193.</li>
+    <li data-letter="J">Alshawki, M. B., Yan, Y., Ligeti, P., & Reich, C. (2021). Attred: Attribute based resource discovery for IoT. <i>Sensors, 21(14)</i>, 4721.</li>
+    <li data-letter="J">Khalaf, A., Dahr, J. M., Najim, I. A., Kamel, M. B., Hashim, A. S., Awadh, W. A., & Humadi, A. M. (2021). Supervised learning algorithms in educational data mining: A systematic review. <i>Southeast Europe Journal of Soft Computing, 10(1)</i>, 55-70.</li>
+    <li data-letter="J">SAAD, H. N., & Alshawki, M. B. (2017). Weight Analysis For Weighted Cluster Algorithms In Mobile Ad-Hoc Network. <i>Journal of Theoretical & Applied Information Technology, 95(15)</i>.</li>
+    <li data-letter="J">Alshawki, M. B., & George, L. E. (2016). Secure Model for SMS Exchange over GSM. <i>International Journal of Computer Network & Information Security, 8(1)</i>.</li>
+    <li data-letter="J">Alshawki, M. B., & George, L. E. (2013). Simple Model for Coding Geographic Location Coordinates. <i>International Journal of Scientific & Engineering Research, 4(7)</i>, 2468-2470.</li>
+    <li data-letter="J">Alshawki, M., & George, L. (2013). Remote patient tracking and monitoring system. <i>International Journal of Computer Science and Mobile Computing, 2(12)</i>, 88-94.</li>
+</ol>
 </ol>
 
 ### Book Chapters

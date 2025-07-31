@@ -30,20 +30,25 @@ html {
   font-size: 100%
 }
 
+
+/* --- For publication numbers --- */
 ol.bracketed {
-    list-style: none; /* Remove default numbers */
+    list-style: none;
     padding-left: 0;
 }
+
 
 ol.bracketed li {
     margin-bottom: 5px;
     counter-increment: none; /* Not using CSS counter now */
 }
 
+
 ol.bracketed li::marker {
-    content: "[" counter(list-item) "]: "; /* Use the browser's counter */
+    content: "[" attr(data-letter) counter(list-item) "] ";
     font-weight: bold;
 }
+/* ----------------- */
 
 body {
   font-family: var(--body-font);
