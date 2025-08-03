@@ -10,7 +10,7 @@ subtitle: Supporting Discovery and Sharing Knowledge
   *(ELTE – Hungary)*
 
 - **Gayuh Kautaman Rahmad**: Formal Verification of Access Control Protocols in Distributed Systems – A Zero Trust Verification Framework  
-  *(University of Turku – Finland / ELTE – Hungary)*
+  *(University of Turku – Finland)*
 
 - **Yehao Zhou**: Decentralized Trust Management Framework for 5G-Enabled IoT Services  
   *(ELTE – Hungary)*
@@ -34,19 +34,19 @@ subtitle: Supporting Discovery and Sharing Knowledge
   *(ELTE – Hungary)*
 
 - **Adrien Michael G Bellot**: Security Protocols for Satellite Path Awareness Networking  
-  *(University of Turku – Finland / ELTE – Hungary)*
+  *(University of Turku – Finland)*
 
 - **Saif Al-Deen Al-Wraikat**: Privacy and Security Analysis of WireGuard Protocol  
   *(ELTE – Hungary)*
 
 - **Elena Menon**: Securing Space Missions: A Comprehensive Threat Landscape Analysis  
-  *(University of Trento – Italy / ELTE – Hungary)*
+  *(University of Trento – Italy)*
 
 - **Janneke Lamberta Theodora Van Oosterhout**: Formal Verification of Lightweight Decentralized Attribute-Based Encryption  
-  *(University of Twente – Netherlands / ELTE – Hungary)*
+  *(University of Twente – Netherlands)*
 
 - **Massimo Morello**: Privacy-by-Design Regulatory Compliance Automation in Cloud Environments  
-  *(University of Turku – Finland / ELTE – Hungary)*
+  *(University of Turku – Finland)*
 
 - **Tim Träris**: Towards Software-Defined Networking for Cyber-Physical Systems  
   *(Furtwangen University – Germany)*
