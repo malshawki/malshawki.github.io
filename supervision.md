@@ -9,11 +9,11 @@ subtitle: Supporting Discovery and Sharing Knowledge
 - **Aya Khedda**: Security and Privacy of Federated Learning  
   *(ELTE – Hungary)*
 
-- **Gayuh Kautaman Rahmad**: Formal Verification of Access Control Protocols in Distributed Systems – A Zero Trust Verification Framework  
-  *(University of Turku – Finland)*
-
 - **Yehao Zhou**: Decentralized Trust Management Framework for 5G-Enabled IoT Services  
   *(ELTE – Hungary)*
+
+- **Gayuh Kautaman Rahmad**: Formal Verification of Access Control Protocols in Distributed Systems – A Zero Trust Verification Framework  
+  *(University of Turku – Finland)*
 
 - **Yasin Abdullah**: Privacy and Robustness in Federated Learning through Secure Multi-Party Computation  
   *(ELTE – Hungary)*
