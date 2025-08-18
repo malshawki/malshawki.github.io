@@ -8,22 +8,6 @@ permalink: /
 ### Welcome to My Site
 I’m Mohammed B. Alshawki, a cybersecurity researcher, assistant professor, and certified consultant. I specialize in securing AI-driven systems and critical distributed infrastructures.
 
-### 🎓 Education
-- Ph.D. in Cybersecurity – ELTE - HFU 
-- M.Sc. in Computer Science - UoB
-- Diploma in Information Technology - TU Berlin
-
-### 🎓 School Certificates
-- Cybersecurity - Infineon Technologies - AT 
-- Future IoT - IMT Atlantique - FR
-- Internet of Things and Blockchain - University of Lisbon - PT
-- Foundations of Security Analysis and Design - University of Urbino Carlo Bo - IT
-- Cryptography and Privacy - University of Radboud - NL
-- Cybersecurity - University of Trento - IT
-- Offensive Security Testing - EIT
-- Provable Security - Budapest University of Technology - HU
-
-
 ### 🔍 Current Research
 I work at the intersection of cryptography, distributed systems, and artificial intelligence. My ***current research*** focuses on:
 - Federated learning and AI security
@@ -39,6 +23,22 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 ### Membership
 - 6G-IA Security workgroup
 - Australian Information Security Association (AISA)
+
+### 🎓 Education
+- Ph.D. in Cybersecurity – ELTE - HFU 
+- M.Sc. in Computer Science - UoB
+- Diploma in Information Technology - TU Berlin
+
+### 🎓 School Certificates
+- Cybersecurity - Infineon Technologies - AT 
+- Future IoT - IMT Atlantique - FR
+- Internet of Things and Blockchain - University of Lisbon - PT
+- Foundations of Security Analysis and Design - University of Urbino Carlo Bo - IT
+- Cryptography and Privacy - University of Radboud - NL
+- Cybersecurity - University of Trento - IT
+- Offensive Security Testing - EIT
+- Provable Security - Budapest University of Technology - HU
+
 
 ### Further Details
 - [Projects](projects.md)
