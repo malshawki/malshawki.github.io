@@ -33,7 +33,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 - Cybersecurity - Infineon Technologies - AT 
 - Future IoT - IMT Atlantique - FR
 - Internet of Things and Blockchain - University of Lisbon - PT
-- Foundations of Security Analysis and Design - University of Urbino Carlo Bo - IT
+- Foundations of Security Analysis and Design - University of Urbino - IT
 - Cryptography and Privacy - University of Radboud - NL
 - Cybersecurity - University of Trento - IT
 - Offensive Security Testing - EIT
