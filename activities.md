@@ -6,6 +6,12 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 ---
 
 <div>
+  <div><strong>COST BeingWISE</strong></div>
+  <div>Participated at Cyber-security and Human Factors from an industrial and ethical perspective training school</div>
+  <div>📅 Aug 2025 &nbsp;&nbsp;📍 Litochoro, Greece</div>
+</div>
+---
+<div>
   <div><strong>IEEE FiCloud</strong></div>
   <div>Scientific committee member of Future Internet of Things and Cloud Conference</div>
   <div>📅 Aug 2025 &nbsp;&nbsp;📍 Istanbul, Turkey</div>
