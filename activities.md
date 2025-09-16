@@ -6,6 +6,12 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 ---
 
 <div>
+  <div><strong>RON</strong></div>
+  <div>Invited speaker at RON Career Development Workshop</div>
+  <div>📅 Sep 2025 &nbsp;&nbsp;📍 Budapest, Hungary</div>
+</div>
+---
+<div>
   <div><strong>COST BeingWISE</strong></div>
   <div>Participated at Cyber-security and Human Factors from an industrial and ethical perspective training school</div>
   <div>📅 Aug 2025 &nbsp;&nbsp;📍 Litochoro, Greece</div>

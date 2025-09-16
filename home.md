@@ -50,6 +50,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 
 
 ### News
+- **2025 Sep**: Delivered a talk on "Time Management and Productivity" in **RON Career Development Workshop** held in Budapest, Hungary.
 - **2025 Aug**: Served as the **Security, Privacy and Trust track program committee** in FiCloud 2025 in Istanbul, Turkey.
 - **2025 Jul**: Invited to particiapte at the **Cyber-security and Human Factors from an industrial and ethical perspective** training school to be held in Litochoro, Greece. 
 - **2025 Jul**: Invited as the **guest editor** for "New Challenges in Beyond 5G/6G Network Wireless Technologies" special issue in Electronics Journal.
