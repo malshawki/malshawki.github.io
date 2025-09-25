@@ -38,7 +38,11 @@ subtitle: Building Trust and Resilience, Cryptography, AI, and Secure Infrastruc
 
 
 ### Conference Papers
-<ol class="bracketed" start="15" reversed>
+<ol class="bracketed" start="18" reversed>
+    <li data-letter="C">Alshawki, M., Zhou, Y., Laki, S., & Ligeti, P. (2025, September). VITA: Verifieble Decentralized Authentication and Access Control in B5G/6G IoT Environments. In <i>2025  33rd International Conference on Software, Telecommunications, and Computer Networks (SoftCOM 2025)</i> IEEE.</li>
+    <li data-letter="C">Isooba, S., Stodt, F., & Alshawki, M. (2025, September). On Homomorphic Encryption Feasibility in Large-Scale Cloud Environment. In <i>31st Workshop on Information and Communications Technologies Proceedings</i> UoS.</li>
+    <li data-letter="C">Abdullah, Y., Alshawki, M., Ligeti, P., Soussi, W., & Stiller, B. (2025, July). Byzantine-Resilient Federated Learning: Evaluating MPC
+Approaches. In <i>2025 25th International Conference on Distributed Computing Systems Workshops (ICDCSW)</i> IEEE.</li>
     <li data-letter="C">Morello, M., Sainio, P., & Alshawki, M. (2024, December). Regulatory Compliance Verification: A Privacy Preserving Approach. In <i>2024 8th Cyber Security in Networking Conference (CSNet)</i> (pp. 263-267). IEEE.</li>
     <li data-letter="C">La, V. H., Mallouli, W., Nguyen, M. D., de Oca, E. M., Cavalli, A., Vörös, P., Alshawki, M., ... & Drosou, A. (2024, November). Enhancing IoT Security in 6G Networks: AI-Based Intrusion Detection, Penetration Testing, and Blockchain-Based Trust Management (Work-in-Progress Paper). In <i>IFIP International Internet of Things Conference</i> (pp. 53-67). Cham: Springer Nature Switzerland.</li>
     <li data-letter="C">Birtane, S., Al-Naday, M., Paolucci, F., Bakar, R. A., Lefebvre, V., Passas, V., ... & Gür, G. (2024, November). Footprint-Optimized Orchestration and Management of Secure Complex Services over 6G Continuum. In <i>2024 IEEE Conference on Standards for Communications and Networking (CSCN)</i> (pp. 383-388). IEEE.</li>

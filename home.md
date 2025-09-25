@@ -50,9 +50,11 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 
 
 ### News
+- **2025 Sep**: Presented our work on Verifieble Decentralized Authentication and Access Control in B5G/6G IoT Environments, in the IEEE 33rd International Conference on Software, Telecommunications, and Computer Networks (SoftCOM 2025) in Croatia.
 - **2025 Sep**: Delivered a talk on "Time Management and Productivity" in **RON Career Development Workshop** held in Budapest, Hungary.
 - **2025 Aug**: Served as the **Security, Privacy and Trust track program committee** in FiCloud 2025 in Istanbul, Turkey.
 - **2025 Jul**: Invited to particiapte at the **Cyber-security and Human Factors from an industrial and ethical perspective** training school to be held in Litochoro, Greece. 
+- **2025 Jul**: Our paper "On Homomorphic Encryption Feasibility in Large-Scale Cloud Environments" has been accepted to be presented in 31st Workshop on Information and Communications Technologies in Split, Croatia.
 - **2025 Jul**: Invited as the **guest editor** for "New Challenges in Beyond 5G/6G Network Wireless Technologies" special issue in Electronics Journal.
 - **2025 Jul**: Visited University of Glasgow, and also presented our paper "Byzantine-Resilient Federated Learning: Evaluating MPC Approaches" in **ICDCS workshops** in Glasgow, Scotlond. 
 - **2025 Jul**: Delivered a talk on "AI in Cybersecurity" in **Enfield AI summer school** organized by Budapest University of Technology and Economics in Budapest, Hungary.

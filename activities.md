@@ -6,6 +6,18 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 ---
 
 <div>
+  <div><strong>IEEE SoftCOMM</strong></div>
+  <div>Speaker at International Conference on Software, Telecommunications, and Computer Networks co-organized by the University of Split</div>
+  <div>📅 Sep 2025 &nbsp;&nbsp;📍 Split, Croatia</div>
+</div>
+---
+<div>
+  <div><strong>WICT</strong></div>
+  <div>Speaker at the Workshop on Information and Communications Technologies</div>
+  <div>📅 Sep 2025 &nbsp;&nbsp;📍 Split, Croatia</div>
+</div>
+---
+<div>
   <div><strong>RON</strong></div>
   <div>Invited speaker at RON Career Development Workshop</div>
   <div>📅 Sep 2025 &nbsp;&nbsp;📍 Budapest, Hungary</div>
