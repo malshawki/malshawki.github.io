@@ -51,7 +51,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 
 ### News
 - **2025 Oct**: Our paper "Blockchain-Enabled GDPR Compliance Enforcement for IIoT Data Access" has been **accepted in Journal of Cybersecurity and Privacy (Q1)**.
-- **2025 Sep**: Presented our work on Verifieble Decentralized Authentication and Access Control in B5G/6G IoT Environments, in the IEEE 33rd International Conference on Software, Telecommunications, and Computer Networks (SoftCOM 2025) in Croatia.
+- **2025 Sep**: Presented our work on Verifieble Decentralized Authentication and Access Control in B5G/6G IoT Environments, in the IEEE 33rd International Conference on Software, Telecommunications, and Computer Networks (**SoftCOM 2025**) in Croatia.
 - **2025 Sep**: Delivered a talk on "Time Management and Productivity" in **RON Career Development Workshop** held in Budapest, Hungary.
 - **2025 Aug**: Served as the **Security, Privacy and Trust track program committee** in FiCloud 2025 in Istanbul, Turkey.
 - **2025 Jul**: Invited to particiapte at the **Cyber-security and Human Factors from an industrial and ethical perspective** training school to be held in Litochoro, Greece. 
@@ -66,7 +66,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 - **2025 May**: Our poster will be presented in **6G SUMMIT**, Pozan, Poland.
 - **2025 Apr**: Our paper "Byzantine-Resilient Federated Learning: Evaluating MPC Approaches" has been accepted to be presented in HotDiML workshop in ICDCS 2025 to be held in Glasgow.
 - **2025 Apr**: Invited to deliver a talk on "Smart Work Habits for Researchers" in **Career Development & Skill Building Workshop** in Hungarian Innovation Hub in Budapest, Hungary.
-- **2025 Mar**: My talk on "Data Integrity Challenges and Strategies to Secure Industrial IoT Systems" has been accepted to be delivered in International Conference on Technological, Educational, Social, and International Challenges in the Changing World, to be held in Győr, Hungary.
+- **2025 Mar**: My talk on "Data Integrity Challenges and Strategies to Secure Industrial IoT Systems" has been accepted to be delivered in **TESIC International Conference** on Technological, Educational, Social, and International Challenges in the Changing World, to be held in Győr, Hungary.
 - **2025 Mar**: Offcially **joined the 6G-IA Security WG**. 6G Smart Networks and Services Industry Association (6G-IA) is the voice of European Industry and Research for next generation networks and services. Its primary objective is to contribute to Europe’s leadership on 5G, 5G evolution and SNS/6G research.
 - **2025 Feb**: Our paper "Blockchain-based privacy-preserving shop floor auditing architecture" has been **accepted in IEEE Access Journal (Q1)**.
 - **2025 Jan**: Delivered a talk Trust Management Framework for Safeguarding Industrial IoT Environment’ in the International Conference on Research Innovations & Challenges in Coimbatore, Tamil Nadu, India.
@@ -75,7 +75,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 - **2024 Jun**: Our paper "Enhancing IoT Security in 6G Networks: AI-Based Intrusion Detection, Penetration Testing, and Blockchain-Based Trust Management (Work-in-Progress Paper)" has been accepted to be presented in IEEE GRAAL4IoT workshop, along with IFIP IoT conference in Nice, France.
 - **2024 May**: Our paper "Congestion Control Prediction Model for 5G Environment Based on Supervised and Unsupervised Machine Learning Approach" has been **accepted in IEEE Access Journal**.
 - **2024 Apr**: Received the **Post Doctoral grant** to be done in ELTE Hungary and HFU Germany
-- **2024 Feb**: Presented our vision on AI enabled 6G security in the kickoff meeting of Centre for Research & Technology in Thessaloniki, Greece.
+- **2024 Feb**: Presented our vision on **AI enabled 6G security** in the kickoff meeting of Centre for Research & Technology in Thessaloniki, Greece.
 - **2023 Nov**: Our proposal on Net-Zero self-adaptive activation of distributed self-resilient augmented services has been **accpeted by EU 6GSNS**.
 - **2023 Oct**: Our paper "A comparative study of supervised/unsupervised machine learning algorithms with feature selection approaches to predict student performance" has been accepted to be apprear in **International Journal of Data Mining, Modelling and Management**.
 - **2023 Sep**: Our results on Authentication and data access challenges in safeguarding industrial IoT has been accpeted to be presented in International Conference on Recent Innovations in Computing.
@@ -83,7 +83,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 - **2023 May**: Our survey paper "Privacy-preserving blockchain technologies" has been accepted to be published in MDPI **Sensors Journal (Q1)**.
 - **2023 Feb**: Presented our work on proposing a Three layer security protocol for grayhole attack mitigation in MANET, in the International Congress on Information and Communication Technology in London, UK.
 - **2023 Mar**: The results on Distributed Cryptography for Lightweight Encryption in Decentralized CP-ABE has been accepted to be presented in WiMob 2023 in Montreal, Canada.
-- **2022 Nov**: Presented our results on proposing an Attribute verifier for internet of things and Cognitive Radio for Smart Grid: A Decentralized Emergency Management Approach in IEEE 32nd International Telecommunication Networks and Applications Conference in Wellington, New Zealand.
+- **2022 Nov**: Presented our results on proposing an Attribute verifier for internet of things and Cognitive Radio for Smart Grid: A Decentralized Emergency Management Approach in IEEE 32nd International Telecommunication Networks and Applications **Conference ITNAC in Wellington**, New Zealand.
 - **2022 Oct**: Our paper "A prediction model based machine learning algorithms with feature selection approaches over imbalanced dataset" has been accepted to be published in Indonesian Journal of Electrical Engineering and Computer Science.
 - **2022 Jun**: Presented our poster on Outsourced Decentralized CP-ABE in Internet of Things in International Conference on Applied Cryptography and Network Security in Rome, Italy.
 - **2022 Apr**: Our results On "Security and Performance Requirements of Decentralized Resource Discovery in IoT" has been accepted to be presented in International Conference on Recent Innovations in Computing to be held at the Central University of Jammu, India
@@ -94,7 +94,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 - **2021 Nov**: Received the **Bronze award** in the EIT Health Innovation Day for our project "CyberVital"
 - **2021 Aug**: Our paper "Distributed Address Table (DAT): A decentralized model for end-to-end communication in IoT" has been accepted to be appeared in **Peer-to-peer networking and applications Journal (Q1)** by Springer.
 - **2021 Jul**: Our paper Attred: Attribute based resource discovery for iot has been accepted in **Sensors Journal (Q1)**.
-- **2021 May**: Our systemaric review paper "Supervised learning algorithms in educational data mining" has been accepted in Southeast Europe Journal of Soft Computing.
+- **2021 May**: Our systemaric review paper "Supervised learning algorithms in educational data mining" has been **accepted in Southeast Europe Journal of Soft Computing**.
 - **2021 Apr**: Our results on formal verification of confidentiality in attribute-based encryption through proverif has been accepted to be presented in 21th Central European Conference on Cryptology.
 - **2020 Aug**: Our presented result In ICCECE held in University of Essex received the **Best Paper Award**.
 - **2020 Jul**: Our work on Region-based distributed hash table for fog computing infrastructure has been accepted to be presented at 13th **Joint Conference on Mathematics and Computer Science** MaCS to be held in Budapest, Hungary
@@ -103,7 +103,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 - **2020 Apr**: Our work on Private/Public Resource Discovery for IoT: A Two-Layer Decentralized Model has been accepted to be preseted in 12th PhD students in Computer Science conference.
 - **2020 Mar**: Our results on Attribute-based encryption in cloud computing environment has been accepted to be presented In International Conference on Computing, Electronics & Communications Engineering held in London, UK.
 - **2019 Oct**: Presented our results on decentralized and scalable model for resource discovery in IoT network in international conference on wireless and mobile computing, networking and communications (WiMob) held in Barcelona, Spain.
-- **2019 Jul**: Selected as a reviewer of the upcoming William Stallings Book on Information Privacy Engineering and Privacy by Design.
+- **2019 Jul**: Selected as a reviewer of the upcoming William Stallings **Book on Information Privacy Engineering and Privacy by Design**.
 - **2020 Jun**: Received the **Gold award** in the EIT Health Innovation Day.
 - **2018 Dec**: Presented our results on address propagation for F2F networks in the European Conference on Electrical Engineering and Computer Science held in Bern, Switzerland.
 
