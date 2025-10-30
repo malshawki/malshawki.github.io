@@ -50,6 +50,7 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 
 
 ### News
+- **2025 Oct**: Our paper "Catch Me If You Can: Rogue AI Detection and Correction at Scale" has been **accepted in Electronics Journal**.
 - **2025 Oct**: Our paper "Blockchain-Enabled GDPR Compliance Enforcement for IIoT Data Access" has been **accepted in Journal of Cybersecurity and Privacy (Q1)**.
 - **2025 Sep**: Presented our work on Verifieble Decentralized Authentication and Access Control in B5G/6G IoT Environments, in the IEEE 33rd International Conference on Software, Telecommunications, and Computer Networks (**SoftCOM 2025**) in Croatia.
 - **2025 Sep**: Delivered a talk on "Time Management and Productivity" in **RON Career Development Workshop** held in Budapest, Hungary.

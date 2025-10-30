@@ -5,8 +5,9 @@ subtitle: Building Trust and Resilience, Cryptography, AI, and Secure Infrastruc
 ---
 
 ### Journal Papers
-<ol class="bracketed" start="17" reversed>
-    <ol class="bracketed" start="17" reversed>
+<ol class="bracketed" start="18" reversed>
+    <ol class="bracketed" start="18" reversed>
+    <li data-letter="J">Stodt, F., Stodt, J., Alshawki, M., Sratakhti, J. & Reich, C. (2025).  [Catch Me If You Can: Rogue AI Detection and Correction at Scale](https://doi.org/10.3390/electronics14204122). <i>Electronics, 14(20)</i>.</li>
     <li data-letter="J">Isazade, A., Malik, A., & Alshawki, M. B. (2025). Blockchain-Enabled GDPR Compliance Enforcement for IIoT Data Access. <i> Journal of Cybersecurity and Privacy 5(4)</i>.</li>
     <li data-letter="J">Stodt, F., Alshawki, M., Reich, C., Ligeti, P., & Theoleyre, F. (2025). Securing the Future: Lightweight Blockchain Solutions for IIoT and IoT Networks. <i>Security and Privacy, 8(4)</i>.</li>
     <li data-letter="J">Shareiyat, A., Hussain Al-hashimy, H. N., Hamoud, A. K., & Alshawki, M. (2025). The Effect Of Consumer's Intention And Feedback For The Use Of Mobile NFC Payment Technology. <i>Economic Studies, 34(6)</i>.</li>
