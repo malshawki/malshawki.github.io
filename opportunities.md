@@ -25,3 +25,5 @@ There are funding programs that candidates working with my team may be eligible 
 - **EKOP (Hungary):**  [Research Scholarship Program MSc/PhD](https://nkfih.gov.hu/palyazoknak/aktualis-felhivasok/osztondijak/egyetemi-kutatoi-osztondij-program-2025)
 
 - **EIT (EU):**  [EIT Cybersecurity scholarship - MSc](https://masterschool.eitdigital.eu/cyber-security)
+
+- **Erasmus+ (EU):**  [EU programme for education, training, youth and sport](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals)
