@@ -6,67 +6,85 @@ subtitle: Supporting Discovery and Sharing Knowledge
 
 ## **PhD Supervision**
 
-- **Aya Khedda**: Security and Privacy of Federated Learning  
+- **Aya Khedda**
+  *Thesis: Security and Privacy of Federated Learning*  
   *(ELTE – Hungary)*
 
-  ## **MSc Supervision**
+## **MSc Supervision**
 
-- **Yehao Zhou**: Decentralized Trust Management Framework for 5G-Enabled IoT Services  
+- **Yehao Zhou**
+  *Thesis: Decentralized Trust Management Framework for 5G-Enabled IoT Services*  
   *(ELTE – Hungary)*
 
-- **Yasin Abdullah**: Privacy and Robustness in Federated Learning through Secure Multi-Party Computation  
+- **Yasin Abdullah** 
+  *Thesis: Privacy and Robustness in Federated Learning through Secure Multi-Party Computation*  
   *(ELTE – Hungary)*
 
-- **Gayuh Kautaman Rahmad**: Formal Verification of Access Control Protocols in Distributed Systems – A Zero Trust Verification Framework  
+- **Gayuh Kautaman Rahmad**
+  *Thesis: Formal Verification of Access Control Protocols in Distributed Systems – A Zero Trust Verification Framework*  
   *(University of Turku – Finland)*
-  industrial Partner: VTT Finland
+  *Industrial Partner: VTT Finland*
 
-- **Sanon Isooba**: Optimizing Homomorphic Encryption for Cloud Computing with Efficient Techniques  
+- **Sanon Isooba**
+  *Thesis: Optimizing Homomorphic Encryption for Cloud Computing with Efficient Techniques*  
   *(ELTE – Hungary)*
 
-- **Umaru Bah**: Differential Privacy in Secure Federated Averaging Algorithm  
+- **Umaru Bah**
+  *Thesis: Differential Privacy in Secure Federated Averaging Algorithm*  
   *(ELTE – Hungary)*
 
-- **Nijat Mammadov**: Hybrid IDS for Secure IIoT: Combining Signature-Based and Anomaly-Based Approaches  
+- **Nijat Mammadov**
+  *Thesis: Hybrid IDS for Secure IIoT: Combining Signature-Based and Anomaly-Based Approaches*  
   *(ELTE – Hungary)*
 
-- **Adrien Michael G Bellot**: Security Protocols for Satellite Path Awareness Networking  
+- **Adrien Michael G Bellot**
+  *Thesis: Security Protocols for Satellite Path Awareness Networking*  
   *(University of Turku – Finland)*
-  External Partner: RISE Sweden 
+  *External Partner: RISE Sweden* 
 
-- **Amina Isazade**: The Impact of Advanced Cryptographic Protocols on GDPR Compliance in IIoT Environments  
+- **Amina Isazade**
+  *Thesis: The Impact of Advanced Cryptographic Protocols on GDPR Compliance in IIoT Environments*  
   *(ELTE – Hungary)*
 
-- **Elena Menon**: Securing Space Missions: A Comprehensive Threat Landscape Analysis  
+- **Elena Menon**
+  *Thesis: Securing Space Missions: A Comprehensive Threat Landscape Analysis*  
   *(University of Trento – Italy)*
-  Industrial Partner: Qascom
+  *Industrial Partner: Qascom*
 
-- **Mohammed-Oussama Fadel**: Data Access Control in Distributed Environments  
+- **Mohammed-Oussama Fadel**
+  *Thesis: Data Access Control in Distributed Environments*  
   *(ELTE – Hungary)*
 
-- **Saif Al-Deen Al-Wraikat**: Privacy and Security Analysis of WireGuard Protocol  
+- **Saif Al-Deen Al-Wraikat**
+  *Thesis: Privacy and Security Analysis of WireGuard Protocol*  
   *(ELTE – Hungary)*
 
 
-- **Janneke Lamberta Theodora Van Oosterhout**: Formal Verification of Lightweight Decentralized Attribute-Based Encryption  
+- **Janneke Lamberta Theodora Van Oosterhout**
+  *Thesis: Formal Verification of Lightweight Decentralized Attribute-Based Encryption*  
   *(University of Twente – Netherlands)*
-  Industrial Partner: Fox Crypto. 
+  *Industrial Partner: Fox Crypto* 
 
-- **Massimo Morello**: Privacy-by-Design Regulatory Compliance Automation in Cloud Environments  
+- **Massimo Morello**
+  *Thesis: Privacy-by-Design Regulatory Compliance Automation in Cloud Environments*
   *(University of Turku – Finland)*
 
-- **Tim Träris**: Towards Software-Defined Networking for Cyber-Physical Systems  
+- **Tim Träris** 
+  *Thesis: Towards Software-Defined Networking for Cyber-Physical Systems*  
   *(Furtwangen University – Germany)*
 
-- **Abdellah Benotsmane**: Security and Privacy Analysis of the Automotive Domain  
+- **Abdellah Benotsmane**
+  *Thesis: Security and Privacy Analysis of the Automotive Domain*  
   *(ELTE – Hungary)*
 
-- **Rauf Huseynov**: Analysis of the Problems of Establishing Reliable Secure Systems on Computer Networks  
+- **Rauf Huseynov** 
+  *Thesis: Analysis of the Problems of Establishing Reliable Secure Systems on Computer Networks*  
   *(ELTE – Hungary)*
 
 ## **BSc Supervision**
 
-- **Mariam Azab**: Enhancing Healthcare Data Security through Attribute-Based Encryption in a Web-based Patient Management System  
+- **Mariam Azab**
+  *Thesis: Enhancing Healthcare Data Security through Attribute-Based Encryption in a Web-based Patient Management System*  
   *(ELTE – Hungary)*
 
 ---
