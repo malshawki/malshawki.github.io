@@ -4,19 +4,22 @@ title: Supervision and Teaching
 subtitle: Supporting Discovery and Sharing Knowledge 
 ---
 
-## **PhD/MSc Supervision**
+## **PhD Supervision**
 
 - **Aya Khedda**: Security and Privacy of Federated Learning  
   *(ELTE – Hungary)*
 
+  ## **MSc Supervision**
+
 - **Yehao Zhou**: Decentralized Trust Management Framework for 5G-Enabled IoT Services  
+  *(ELTE – Hungary)*
+
+- **Yasin Abdullah**: Privacy and Robustness in Federated Learning through Secure Multi-Party Computation  
   *(ELTE – Hungary)*
 
 - **Gayuh Kautaman Rahmad**: Formal Verification of Access Control Protocols in Distributed Systems – A Zero Trust Verification Framework  
   *(University of Turku – Finland)*
-
-- **Yasin Abdullah**: Privacy and Robustness in Federated Learning through Secure Multi-Party Computation  
-  *(ELTE – Hungary)*
+  industrial Partner: VTT Finland
 
 - **Sanon Isooba**: Optimizing Homomorphic Encryption for Cloud Computing with Efficient Techniques  
   *(ELTE – Hungary)*
@@ -27,23 +30,27 @@ subtitle: Supporting Discovery and Sharing Knowledge
 - **Nijat Mammadov**: Hybrid IDS for Secure IIoT: Combining Signature-Based and Anomaly-Based Approaches  
   *(ELTE – Hungary)*
 
-- **Amina Isazade**: The Impact of Advanced Cryptographic Protocols on GDPR Compliance in IIoT Environments  
-  *(ELTE – Hungary)*
-
-- **Mohammed-Oussama Fadel**: Data Access Control in Distributed Environments  
-  *(ELTE – Hungary)*
-
 - **Adrien Michael G Bellot**: Security Protocols for Satellite Path Awareness Networking  
   *(University of Turku – Finland)*
+  External Partner: RISE Sweden 
 
-- **Saif Al-Deen Al-Wraikat**: Privacy and Security Analysis of WireGuard Protocol  
+- **Amina Isazade**: The Impact of Advanced Cryptographic Protocols on GDPR Compliance in IIoT Environments  
   *(ELTE – Hungary)*
 
 - **Elena Menon**: Securing Space Missions: A Comprehensive Threat Landscape Analysis  
   *(University of Trento – Italy)*
+  Industrial Partner: Qascom
+
+- **Mohammed-Oussama Fadel**: Data Access Control in Distributed Environments  
+  *(ELTE – Hungary)*
+
+- **Saif Al-Deen Al-Wraikat**: Privacy and Security Analysis of WireGuard Protocol  
+  *(ELTE – Hungary)*
+
 
 - **Janneke Lamberta Theodora Van Oosterhout**: Formal Verification of Lightweight Decentralized Attribute-Based Encryption  
   *(University of Twente – Netherlands)*
+  Industrial Partner: Fox Crypto. 
 
 - **Massimo Morello**: Privacy-by-Design Regulatory Compliance Automation in Cloud Environments  
   *(University of Turku – Finland)*
@@ -55,6 +62,11 @@ subtitle: Supporting Discovery and Sharing Knowledge
   *(ELTE – Hungary)*
 
 - **Rauf Huseynov**: Analysis of the Problems of Establishing Reliable Secure Systems on Computer Networks  
+  *(ELTE – Hungary)*
+
+## **BSc Supervision**
+
+- **Mariam Azab**: Enhancing Healthcare Data Security through Attribute-Based Encryption in a Web-based Patient Management System  
   *(ELTE – Hungary)*
 
 ---
