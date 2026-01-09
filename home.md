@@ -8,14 +8,6 @@ permalink: /
 ### Welcome to My Site
 I’m Mohammed B. Alshawki, a cybersecurity researcher, associate professor, and certified consultant. I specialize in developing secure protocotol, securing AI-driven systems and critical distributed infrastructures.
 
-### 🧑‍🏫 Current Roles
-- Associate Professor (ELTE)
-
-### 🧑‍🏫 Previous Roles
-- Senior Cybersecurity Researcher (HFU)
-- Postdoctoral Researccher (IDACUS)
-- Certified Cybersecurity Consultant (EU)
-
 ### 🔍 Current Research
 I work at the intersection of cryptography, distributed systems, and artificial intelligence. My ***current research*** focuses on:
 - Federated learning and AI security
@@ -26,6 +18,11 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 ### Membership
 - 6G-IA Security workgroup
 - Australian Information Security Association (AISA)
+
+### 🧑‍🏫 Previous Roles
+- Senior Cybersecurity Researcher (HFU)
+- Postdoctoral Researccher (IDACUS)
+- Certified Cybersecurity Consultant (EU)
 
 ### 🎓 Education
 - Ph.D. in Cybersecurity – ELTE - HFU 
@@ -53,6 +50,8 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 
 
 ### News
+- **2025 Dec**: Invited as a **keynote speaker** at International Conference on Applications and Techniques for Information Security.
+- **2025 Nov**: Served as IoT Application and Security **Track chair** at International Conference on Cloud and Internet of Things.
 - **2025 Oct**: Our paper "Catch Me If You Can: Rogue AI Detection and Correction at Scale" has been **accepted in Electronics Journal**.
 - **2025 Oct**: Our paper "Blockchain-Enabled GDPR Compliance Enforcement for IIoT Data Access" has been **accepted in Journal of Cybersecurity and Privacy (Q1)**.
 - **2025 Sep**: Presented our work on Verifieble Decentralized Authentication and Access Control in B5G/6G IoT Environments, in the IEEE 33rd International Conference on Software, Telecommunications, and Computer Networks (**SoftCOM 2025**) in Croatia.
