@@ -6,7 +6,15 @@ permalink: /
 ---
 
 ### Welcome to My Site
-I’m Mohammed B. Alshawki, a cybersecurity researcher, assistant professor, and certified consultant. I specialize in securing AI-driven systems and critical distributed infrastructures.
+I’m Mohammed B. Alshawki, a cybersecurity researcher, associate professor, and certified consultant. I specialize in developing secure protocotol, securing AI-driven systems and critical distributed infrastructures.
+
+### 🧑‍🏫 Current Roles
+- Associate Professor (ELTE)
+
+### 🧑‍🏫 Previous Roles
+- Senior Cybersecurity Researcher (HFU)
+- Postdoctoral Researccher (IDACUS)
+- Certified Cybersecurity Consultant (EU)
 
 ### 🔍 Current Research
 I work at the intersection of cryptography, distributed systems, and artificial intelligence. My ***current research*** focuses on:
@@ -14,11 +22,6 @@ I work at the intersection of cryptography, distributed systems, and artificial 
 - Network and IoT security
 - Applied cryptography
 - Privacy-preserving systems
-
-### 🧑‍🏫 Current Roles
-- Assistant Professor (ELTE)
-- Senior Cybersecurity Researcher (IDACUS)
-- Certified Cybersecurity Consultant (EU)
 
 ### Membership
 - 6G-IA Security workgroup

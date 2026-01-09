@@ -6,6 +6,18 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 ---
 
 <div>
+  <div><strong>IEEE ATIS</strong></div>
+  <div>Keynote Speaker at International Conference on Applications and Techniques for Information Security</div>
+  <div>📅 Dec 2025 &nbsp;&nbsp;📍 Australia, Iraq, UAE</div>
+</div>
+---
+<div>
+  <div><strong>IEEE CIoT</strong></div>
+  <div>IoT Application and Security Track chair at International Conference on Cloud and Internet of Things by London Metropolitan University</div>
+  <div>📅 November 2025 &nbsp;&nbsp;📍 London, UK</div>
+</div>
+---
+<div>
   <div><strong>IEEE SoftCOMM</strong></div>
   <div>Speaker at International Conference on Software, Telecommunications, and Computer Networks co-organized by the University of Split</div>
   <div>📅 Sep 2025 &nbsp;&nbsp;📍 Split, Croatia</div>
