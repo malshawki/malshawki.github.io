@@ -14,7 +14,7 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 <div>
   <div><strong>IEEE CIoT</strong></div>
   <div>IoT Application and Security Track chair at International Conference on Cloud and Internet of Things by London Metropolitan University</div>
-  <div>📅 November 2025 &nbsp;&nbsp;📍 London, UK</div>
+  <div>📅 Nov 2025 &nbsp;&nbsp;📍 London, UK</div>
 </div>
 ---
 <div>
