@@ -7,7 +7,7 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 
 <div>
   <div><strong>IEEE ATIS</strong></div>
-  <div>Keynote Speaker at International Conference on Applications and Techniques for Information Security</div>
+  <div>[Keynote Speaker](https://quantconf.com/new-page/) at International Conference on Applications and Techniques for Information Security</div>
   <div>📅 Dec 2025 &nbsp;&nbsp;📍 Australia, Iraq, UAE</div>
 </div>
 ---
