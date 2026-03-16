@@ -1,0 +1,472 @@
+items:
+  - title: Keynote at ATIS 2025
+    date: 2025-12
+    category: conference
+    selected: true
+    featured: true
+    summary: Invited keynote at the International Conference on Applications and Techniques for Information Security (ATIS 2025).
+    url: https://quantconf.com/new-page/
+
+  - title: TPC co-chair of CIoT25
+    date: 2025-11
+    category: service
+    selected: true
+    featured: false
+    summary: Served as the TPC co-chair and the Track Chair for IoT Application and Security at the International Conference on Cloud and Internet of Things.
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11410128
+
+  - title: Rogue AI Detection paper
+    date: 2025-10
+    category: publication
+    selected: true
+    featured: true
+    summary: “Catch Me If You Can - Rogue AI Detection and Correction at Scale” accepted and published in Electronics (MDPI).
+    url: https://www.mdpi.com/2079-9292/14/20/4122
+
+  - title: GDPR Compliance for IIoT
+    date: 2025-10
+    category: publication
+    selected: false
+    featured: false
+    summary: “Blockchain-Enabled GDPR Compliance Enforcement for IIoT Data Access” accepted in Journal of Cybersecurity and Privacy (Q1).
+    url: https://www.mdpi.com/2624-800X/5/4/84
+
+  - title: SoftCOM 2025 presentation
+    date: 2025-09
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented verifiable decentralized authentication and access control in B5G/6G IoT at IEEE SoftCOM 2025, Croatia.
+    url:
+
+  - title: Time Management invited talk
+    date: 2025-09
+    category: talk
+    selected: false
+    featured: false
+    summary: Delivered “Time Management and Productivity” at the RON Career Development Workshop in Budapest, Hungary.
+    url:
+
+  - title: FiCloud 2025 PC service
+    date: 2025-08
+    category: service
+    selected: false
+    featured: false
+    summary: Served on the Security, Privacy and Trust track program committee for FiCloud 2025 in Istanbul, Turkey.
+    url:
+
+  - title: Cybersecurity training school
+    date: 2025-07
+    category: event
+    selected: false
+    featured: false
+    summary: Invited participant at “Cyber-security and Human Factors” training school in Litochoro, Greece.
+    url:
+
+  - title: Homomorphic encryption paper
+    date: 2025-07
+    category: publication
+    selected: false
+    featured: false
+    summary: “On Homomorphic Encryption Feasibility in Large-Scale Cloud Environments” accepted for the 31st WICT, Split, Croatia.
+    url:
+
+  - title: Guest Editor in Electronics SI
+    date: 2025-07
+    category: service
+    selected: true
+    featured: true
+    summary: Appointed guest editor for “New Challenges in Beyond 5G/6G Network Wireless Technologies” in Electronics (MDPI).
+    url: https://www.mdpi.com/journal/electronics/special_issues/1F233YZM48
+
+  - title: ICDCS Workshops paper
+    date: 2025-07
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented “Byzantine-Resilient Federated Learning - Evaluating MPC Approaches” at ICDCS Workshops, Glasgow, Scotland.
+    url:
+
+  - title: AI in Cybersecurity talk
+    date: 2025-07
+    category: talk
+    selected: false
+    featured: false
+    summary: Invited talk at Enfield AI Summer School organized by BME in Budapest, Hungary.
+    url:
+
+  - title: Lightweight blockchain paper
+    date: 2025-06
+    category: publication
+    selected: true
+    featured: false
+    summary: “Securing the Future - Lightweight Blockchain Solutions for IIoT and IoT Networks” accepted in Security and Privacy Journal.
+    url:
+
+  - title: NFC payment study
+    date: 2025-06
+    category: publication
+    selected: false
+    featured: false
+    summary: “The Effect of Consumers Intention and Feedback for the Use of Mobile NFC Payment Technology” accepted in Economic Studies Journal.
+    url:
+
+  - title: NATWORK plenary and CNIT visit
+    date: 2025-05
+    category: event
+    selected: false
+    featured: false
+    summary: Shared results on AI-enabled distributed trust management in B5G/6G and visited the CNIT Center in Pisa, Italy.
+    url:
+
+  - title: CECC 2025 poster
+    date: 2025-05
+    category: publication
+    selected: true
+    featured: false
+    summary: “Fully Outsourced CP-ABE in IIoT Environment” accepted as a poster at Central European Conference on Cryptology 2025 (Budapest).
+    url: https://cecc2025.inf.elte.hu/en/
+
+  - title: 6G Summit poster
+    date: 2025-05
+    category: conference
+    selected: false
+    featured: false
+    summary: Poster accepted for presentation at 6G SUMMIT in Poznań, Poland.
+    url:
+
+  - title: ICDCS accept
+    date: 2025-04
+    category: publication
+    selected: true
+    featured: false
+    summary: “Byzantine-Resilient Federated Learning - Evaluating MPC Approaches” accepted to the HotDiML workshop at ICDCS 2025 (Glasgow).
+    url:
+
+  - title: Smart Work Habits invited talk
+    date: 2025-04
+    category: talk
+    selected: false
+    featured: false
+    summary: Invited talk “Smart Work Habits for Researchers” at the Career Development & Skill Building Workshop in Budapest.
+    url:
+
+  - title: TESIC talk accept
+    date: 2025-03
+    category: talk
+    selected: true
+    featured: false
+    summary: Talk on “Data Integrity Challenges and Strategies to Secure Industrial IoT Systems” accepted at TESIC International Conference (Győr).
+    url:
+
+  - title: Joined 6G‑IA Security WG
+    date: 2025-03
+    category: membership
+    selected: true
+    featured: true
+    summary: Officially joined the 6G Smart Networks & Services Industry Association Security Working Group.
+    url: https://6g-ia.eu/
+
+  - title: IEEE Access shop-floor
+    date: 2025-02
+    category: publication
+    selected: true
+    featured: true
+    summary: “Blockchain-based privacy-preserving shop floor auditing architecture” published in IEEE Access (Q1).
+    url: https://ieeexplore.ieee.org/document/10436670
+
+  - title: Trust Management talk 
+    date: 2025-01
+    category: talk
+    selected: false
+    featured: false
+    summary: Delivered “Trust Management Framework for Safeguarding Industrial IoT Environment” at the International Conference on Research Innovations & Challenges, Coimbatore.
+    url:
+
+  - title: CSNet 2024 presentation
+    date: 2024-12
+    category: conference
+    selected: true
+    featured: false
+    summary: Presented “Regulatory Compliance Verification - A Privacy Preserving Approach” at CSNet 2024 in Paris, France.
+    url:
+
+  - title: IEEE CSCN accept
+    date: 2024-08
+    category: publication
+    selected: true
+    featured: false
+    summary: “Footprint-Optimized Orchestration and Management of Secure Complex Services over 6G Continuum” accepted for IEEE CSCN (Belgrade).
+    url:
+
+  - title: GRAAL4IoT @ IFIP IoT
+    date: 2024-06
+    category: publication
+    selected: true
+    featured: false
+    summary: “Enhancing IoT Security in 6G Networks” (WIP) accepted to IEEE GRAAL4IoT workshop co-located with IFIP IoT in Nice, France.
+    url:
+
+  - title: IEEE Access 5G congestion
+    date: 2024-05
+    category: publication
+    selected: true
+    featured: true
+    summary: “Congestion Control Prediction Model for 5G Environment Based on Supervised and Unsupervised Machine Learning” published in IEEE Access.
+    url: https://ieeexplore.ieee.org/document/10562283
+
+  - title: Postdoctoral grant
+    date: 2024-04
+    category: award
+    selected: true
+    featured: true
+    summary: Awarded a Postdoctoral grant to be conducted at ELTE (Hungary) and HFU (Germany).
+    url:
+
+  - title: AI-enabled 6G security vision
+    date: 2024-02
+    category: talk
+    selected: false
+    featured: false
+    summary: Presented vision on AI-enabled 6G security at a project kickoff meeting in Thessaloniki, Greece.
+    url:
+
+  - title: EU 6G‑SNS success
+    date: 2023-11
+    category: project
+    selected: true
+    featured: true
+    summary: Proposal on net‑zero, self‑adaptive distributed services accepted by the EU 6G‑SNS framework.
+    url:
+
+  - title: Student performance study
+    date: 2023-10
+    category: publication
+    selected: true
+    featured: false
+    summary: “A comparative study of supervised/unsupervised ML with feature selection to predict student performance” accepted in International Journal of Data Mining, Modelling and Management.
+    url:
+
+  - title: Industrial IoT auth access
+    date: 2023-09
+    category: conference
+    selected: false
+    featured: false
+    summary: Results on authentication and data access for safeguarding industrial IoT accepted to the International Conference on Recent Innovations in Computing.
+    url:
+
+  - title: FedLabX in C&IS
+    date: 2023-07
+    category: publication
+    selected: true
+    featured: true
+    summary: “Fedlabx - a practical and privacy‑preserving framework for federated learning” published in Complex & Intelligent Systems (Springer, Q1).
+    url: https://link.springer.com/article/10.1007/s40747-023-01184-3
+
+  - title: Blockchain survey
+    date: 2023-05
+    category: publication
+    selected: true
+    featured: true
+    summary: “Privacy-Preserving Blockchain Technologies” published in Sensors (MDPI, Q1).
+    url: https://www.mdpi.com/1424-8220/23/16/7172
+
+  - title: MANET security protocol
+    date: 2023-02
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented three‑layer security protocol for grayhole attack mitigation in MANET at ICCT, London.
+    url:
+
+  - title: CP‑ABE encryption in WiMob
+    date: 2023-03
+    category: conference
+    selected: true
+    featured: false
+    summary: Presented results on distributed cryptography for lightweight encryption in decentralized CP‑ABE at WiMob 2023, Montreal.
+    url:
+
+  - title: ITNAC 2022 presentation
+    date: 2022-11
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented an attribute verifier for IoT and a decentralized emergency management approach at IEEE ITNAC 2022, Wellington, New Zealand.
+    url:
+
+  - title: ML over imbalanced data
+    date: 2022-10
+    category: publication
+    selected: false
+    featured: false
+    summary: “A prediction model based on ML with feature selection over imbalanced datasets” accepted in Indonesian Journal of Electrical Engineering and Computer Science.
+    url:
+
+  - title: ACNS 2022 poster
+    date: 2022-06
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented poster on outsourced decentralized CP‑ABE for IoT at ACNS 2022 in Rome, Italy.
+    url:
+
+  - title: ICRIC IoT discovery
+    date: 2022-04
+    category: conference
+    selected: false
+    featured: false
+    summary: “Security and Performance Requirements of Decentralized Resource Discovery in IoT” accepted at the International Conference on Recent Innovations in Computing (Jammu, India).
+    url:
+
+  - title: ICECET 2022 accept
+    date: 2022-03
+    category: conference
+    selected: false
+    featured: false
+    summary: “Efficient encryption in decentralized CP‑ABE using secret sharing” accepted to ICECET 2022 in Prague, Czech Republic.
+    url:
+
+  - title: Best paper in ICISSP
+    date: 2022-02
+    category: award
+    selected: true
+    featured: true
+    summary: Received best paper award for CP‑ABE security verification at the International Conference on Information Systems Security and Privacy.
+    url:
+
+  - title: Informatica acceptance
+    date: 2022-02
+    category: publication
+    selected: false
+    featured: false
+    summary: “OLAP Mining with Educational Data Mart to Predict Students’ Performance” accepted in Informatica journal.
+    url:
+
+  - title: ICECET 2021 presentation
+    date: 2021-12
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented locality‑aware distributed addressing for edge/fog computing at ICECET 2021 in Cape Town, South Africa.
+    url:
+
+  - title: Bronze Award in EIT Innovation Day
+    date: 2021-11
+    category: award
+    selected: true
+    featured: true
+    summary: Received the Bronze award at EIT Health Innovation Day for the “CyberVital” project.
+    url:
+
+  - title: DAT in P2PNA (Springer)
+    date: 2021-08
+    category: publication
+    selected: true
+    featured: true
+    summary: “Distributed Address Table (DAT) - A Decentralized Model for End‑to‑End Communication in IoT” published in Peer‑to‑Peer Networking and Applications.
+    url: https://link.springer.com/article/10.1007/s12083-021-01221-3
+
+  - title: ATTReD in Sensors
+    date: 2021-07
+    category: publication
+    selected: true
+    featured: false
+    summary: “Attred - Attribute Based Resource Discovery for IoT” published in Sensors (MDPI).
+    url: https://www.mdpi.com/1424-8220/21/14/4721
+
+  - title: SEJSC review accept
+    date: 2021-05
+    category: publication
+    selected: false
+    featured: false
+    summary: Systematic review “Supervised learning algorithms in educational data mining” accepted in Southeast Europe Journal of Soft Computing.
+    url:
+
+  - title: CECC 2021 ProVerif
+    date: 2021-04
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented formal verification of confidentiality in ABE using ProVerif at the 21st Central European Conference on Cryptology.
+    url:
+
+  - title: Best Paper in ICCECE
+    date: 2020-08
+    category: award
+    selected: true
+    featured: true
+    summary: Received the Best Paper Award for a presentation at ICCECE (University of Essex).
+    url:
+
+  - title: MaCS 2020 accept
+    date: 2020-07
+    category: conference
+    selected: false
+    featured: false
+    summary: “Region‑based distributed hash table for fog computing infrastructure” accepted to the 13th Joint Conference on Mathematics and Computer Science (MaCS), Budapest.
+    url:
+
+  - title: IoT 2020 Malmö
+    date: 2020-06
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented “Distributed data validation network in IoT - a decentralized validator selection model” at the International Conference on the Internet of Things, Malmö, Sweden.
+    url:
+
+  - title: CSNet 2020 accept
+    date: 2020-05
+    category: publication
+    selected: false
+    featured: false
+    summary: “Decentralized resource discovery using attribute‑based encryption for IoT” accepted to the Cyber Security in Networking Conference.
+    url:
+
+  - title: PhD CS 2020 accept
+    date: 2020-04
+    category: conference
+    selected: false
+    featured: false
+    summary: “Private/Public Resource Discovery for IoT - A Two‑Layer Decentralized Model” accepted to the 12th PhD Students in Computer Science Conference.
+    url:
+
+  - title: ICCECE 2020 accept
+    date: 2020-03
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented “Attribute‑based encryption in cloud computing environment” at ICCECE in London, UK.
+    url:
+
+  - title: WiMob 2019 Barcelona
+    date: 2019-10
+    category: conference
+    selected: true
+    featured: false
+    summary: Presented decentralized and scalable resource discovery for IoT at IEEE WiMob 2019 in Barcelona, Spain.
+    url:
+
+  - title: Reviewer of Stallings book
+    date: 2019-07
+    category: service
+    selected: true
+    featured: false
+    summary: Selected reviewer for William Stallings’ forthcoming book “Information Privacy Engineering and Privacy by Design.”
+    url:
+
+  - title: Gold Award in EIT Innovation Day
+    date: 2020-06
+    category: award
+    selected: true
+    featured: true
+    summary: Received the Gold award in the EIT Health Innovation Day.
+    url:
+
+  - title: ECECS 2018 presentation
+    date: 2018-12
+    category: conference
+    selected: false
+    featured: false
+    summary: Presented address propagation for F2F networks at the European Conference on Electrical Engineering and Computer Science in Bern, Switzerland.
+    url:
