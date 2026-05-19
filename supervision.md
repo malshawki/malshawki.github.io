@@ -4,17 +4,32 @@ title: Supervision and Teaching
 subtitle: Supporting Discovery and Sharing Knowledge 
 ---
 
-## **PhD Supervision**
+## Doctoral Supervision and Committee
 
-- **Aya Khedda**
-  *Thesis: Security and Privacy of Federated Learning*  
-  *(ELTE – Hungary)*
 
-## **MSc Supervision**
+<div style="margin-top: 1rem;">
 
-- **Yehao Zhou**
-  *Thesis: Decentralized Trust Management Framework for 5G-Enabled IoT Services*  
-  *(ELTE – Hungary)*
+<div style="padding: 1rem 1.25rem; margin-bottom: 1rem; border-left: 3px solid #b8b8b8; background: #fafafa; border-radius: 8px; line-height: 1.55;">
+**Aya Khedda**  
+Thesis: *Security and Privacy of Federated Learning*  
+<span style="color: #666;">ELTE – Hungary</span><br>
+</div>
+
+
+</div>
+
+### Master Supervision
+
+<div style="margin-top: 1rem;">
+
+<div style="padding: 1rem 1.25rem; margin-bottom: 1rem; border-left: 3px solid #b8b8b8; background: #fafafa; border-radius: 8px; line-height: 1.55;">
+**Yehao Zhou**  
+Thesis: *Decentralized Trust Management Framework for 5G-Enabled IoT Services*  
+<span style="color: #666; font-size: 0.94em;">ELTE – Hungary</span>
+</div>
+
+</div>
+
 
 - **Yasin Abdullah** 
   *Thesis: Privacy and Robustness in Federated Learning through Secure Multi-Party Computation*  
