@@ -10,8 +10,8 @@ subtitle: Supporting Discovery and Sharing Knowledge
 <div style="margin-top: 1rem;">
 
 <div style="padding: 1rem 1.25rem; margin-bottom: 1rem; border-left: 3px solid #b8b8b8; background: #fafafa; border-radius: 8px; line-height: 1.55;">
-**Aya Khedda**  
-Thesis: *Security and Privacy of Federated Learning*  
+Aya Khedda  <br>
+Thesis: Security and Privacy of Federated Learning  <br>
 <span style="color: #666;">ELTE – Hungary</span><br>
 </div>
 
@@ -23,8 +23,8 @@ Thesis: *Security and Privacy of Federated Learning*
 <div style="margin-top: 1rem;">
 
 <div style="padding: 1rem 1.25rem; margin-bottom: 1rem; border-left: 3px solid #b8b8b8; background: #fafafa; border-radius: 8px; line-height: 1.55;">
-**Yehao Zhou**  
-Thesis: *Decentralized Trust Management Framework for 5G-Enabled IoT Services*  
+Yehao Zhou  <br>
+Thesis: Decentralized Trust Management Framework for 5G-Enabled IoT Services  <br>
 <span style="color: #666; font-size: 0.94em;">ELTE – Hungary</span>
 </div>
 
