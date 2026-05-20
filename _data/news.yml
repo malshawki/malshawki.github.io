@@ -1,4 +1,12 @@
 items:
+  - title: Guest Editor in Frontiers in Blockchain
+    date: 2025=6-05
+    category: service
+    selected: true
+    featured: true
+    summary: Appointed guest editor for Auditability in Privacy-Preserving Smart Contracts in Frontiers in Blockchain.
+    url: https://www.frontiersin.org/research-topics/80424/auditability-in-privacy-preserving-smart-contracts
+
   - title: Keynote at ATIS 2025
     date: 2025-12
     category: conference
@@ -74,8 +82,8 @@ items:
   - title: Guest Editor in Electronics SI
     date: 2025-07
     category: service
-    selected: true
-    featured: true
+    selected: false
+    featured: false
     summary: Appointed guest editor for “New Challenges in Beyond 5G/6G Network Wireless Technologies” in Electronics (MDPI).
     url: https://www.mdpi.com/journal/electronics/special_issues/1F233YZM48
 
