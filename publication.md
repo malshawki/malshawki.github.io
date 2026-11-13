@@ -37,11 +37,11 @@ permalink: /publication/
 
 .pub-list {
   display: grid;
-  gap: 14px;
+  gap: 10px;
 }
 
 .pub-card {
-  padding: 18px 20px;
+  padding: 12px 16px;
   border: 1px solid #dfe5eb;
   border-left: 4px solid #315b78;
   border-radius: 6px;
@@ -57,49 +57,49 @@ permalink: /publication/
 }
 
 .pub-topline {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 .pub-title {
   color: #173b57;
-  font-size: 1.12rem;
+  font-size: 1.05rem;
   font-weight: 700;
-  line-height: 1.4;
+  line-height: 1.35;
   margin: 0;
 }
 
-.pub-meta {
+.pub-authors {
+  margin: 3px 0 2px;
+  color: #344452;
+  line-height: 1.4;
+}
+
+.pub-venue {
+  margin: 0;
+  color: #536371;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.pub-labels {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px 12px;
-  margin-bottom: 8px;
+  align-items: center;
+  gap: 5px 7px;
+  margin-top: 7px;
   color: #596a78;
   font-size: 0.88rem;
 }
 
-.pub-authors {
-  margin: 5px 0 7px;
-  color: #344452;
-  line-height: 1.55;
-}
-
-.pub-venue {
-  margin: 0 0 10px;
-  color: #536371;
-  font-style: italic;
-}
-
-.pub-badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin: 10px 0 12px;
+.pub-year {
+  margin-right: 2px;
+  font-weight: 600;
 }
 
 .pub-badge {
   display: inline-flex;
   align-items: center;
-  padding: 3px 8px;
+  padding: 2px 7px;
   border: 1px solid #d7e0e7;
   border-radius: 4px;
   background: #f4f7f9;
@@ -123,36 +123,30 @@ permalink: /publication/
 
 .pub-summary {
   color: #445360;
-  margin-bottom: 12px;
-  line-height: 1.6;
+  margin: 7px 0 0;
+  line-height: 1.45;
 }
 
-.pub-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px;
-}
-
-.pub-links a {
+.pub-labels a {
   text-decoration: none !important;
   font-weight: 600;
-  padding: 5px 9px;
+  padding: 2px 7px;
   border-radius: 4px;
   border: 1px solid #d4dee6;
   background: #fff;
   color: #315b78;
-  font-size: 0.88rem;
+  font-size: 0.82rem;
 }
 
-.pub-links a:hover,
-.pub-links a:focus-visible {
+.pub-labels a:hover,
+.pub-labels a:focus-visible {
   background: #f1f5f8;
   border-color: #9eafbd;
 }
 
 @media (max-width: 600px) {
   .pub-card {
-    padding: 15px;
+    padding: 11px 12px;
   }
 
   .pub-legend {
@@ -204,19 +198,6 @@ permalink: /publication/
         <h3 class="pub-title">{{ pub.title }}</h3>
       </div>
 
-      <div class="pub-meta">
-        {% if pub.year %}<span>{{ pub.year }}</span>{% endif %}
-        {% if pub.type == "journal" %}
-          <span>Journal article</span>
-        {% elsif pub.type == "conference" %}
-          <span>Conference paper</span>
-        {% elsif pub.type == "book_chapter" %}
-          <span>Book chapter</span>
-        {% elsif pub.type == "preprint" %}
-          <span>Preprint</span>
-        {% endif %}
-      </div>
-
       <div class="pub-authors">
         {% for author in pub.authors %}
           {% if author == my_name %}
@@ -230,8 +211,8 @@ permalink: /publication/
 
       <div class="pub-venue">{{ pub.venue }}</div>
 
-      {% if pub.quartile == "Q1" or pub.quartile == "Q2" or pub.quartile == "Q3" or pub.quartile == "Q4" or pub.tier == "A" or pub.tier == "B" or pub.selected or pub.open_access %}
-      <div class="pub-badges">
+      <div class="pub-labels">
+        {% if pub.year %}<span class="pub-year">{{ pub.year }}</span>{% endif %}
         {% if pub.quartile == "Q1" %}<span class="pub-badge">Q1</span>{% endif %}
         {% if pub.quartile == "Q2" %}<span class="pub-badge">Q2</span>{% endif %}
         {% if pub.quartile == "Q3" %}<span class="pub-badge">Q3</span>{% endif %}
@@ -240,14 +221,6 @@ permalink: /publication/
         {% if pub.tier == "B" %}<span class="pub-badge">Tier B</span>{% endif %}
         {% if pub.selected %}<span class="pub-badge pub-badge-award">Award winner</span>{% endif %}
         {% if pub.open_access %}<span class="pub-badge pub-badge-open-access">Open access</span>{% endif %}
-      </div>
-      {% endif %}
-
-      {% if pub.summary and pub.summary != "" %}
-        <div class="pub-summary">{{ pub.summary }}</div>
-      {% endif %}
-
-      <div class="pub-links">
         {% if pub.links.doi and pub.links.doi != "#" %}<a href="{{ pub.links.doi }}">DOI</a>{% endif %}
         {% if pub.links.pdf and pub.links.pdf != "#" %}<a href="{{ pub.links.pdf }}">PDF</a>{% endif %}
         {% if pub.links.code and pub.links.code != "#" %}<a href="{{ pub.links.code }}">Code</a>{% endif %}
@@ -257,6 +230,10 @@ permalink: /publication/
         {% if pub.links.bibtex and pub.links.bibtex != "#" %}<a href="{{ pub.links.bibtex }}">BibTeX</a>{% endif %}
         {% if pub.links.arxiv and pub.links.arxiv != "#" %}<a href="{{ pub.links.arxiv }}">arXiv</a>{% endif %}
       </div>
+
+      {% if pub.summary and pub.summary != "" %}
+        <div class="pub-summary">{{ pub.summary }}</div>
+      {% endif %}
     </article>
   {% endfor %}
   </div>
