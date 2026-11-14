@@ -6,10 +6,10 @@ subtitle:
 
 Interested in exploring research opportunities in:
 
-- **Federated Learning and AI Security**  
-- **B5G Security**  
-- **Network Security**  
-- **Applied Cryptography**
+- **Distributed Systems security**  
+- **Federated AI security**  
+- **Applied cryptography and PQ security**  
+- **Cryptographic protocols**
 
 I’m always looking for motivated and talented individuals to join ongoing and upcoming research efforts. If that sounds like you, feel free to send me an [email](/contact.md). Let’s talk.
 

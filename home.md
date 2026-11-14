@@ -331,10 +331,10 @@ full-width: true
     <aside class="home-focus" aria-labelledby="home-focus-title">
       <h3 class="home-focus-title" id="home-focus-title">Research areas</h3>
       <ul class="home-focus-list">
+        <li>Distributed Systems security</li>
+        <li>Federated AI security</li>
         <li>Applied cryptography and PQ security</li>
-        <li>AI security and federated learning</li>
-        <li>Network and IoT security</li>
-        <li>Privacy preserving systems</li>
+        <li>Cryptographic protocols</li>
       </ul>
     </aside>
   </section>

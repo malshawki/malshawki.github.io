@@ -165,7 +165,7 @@ permalink: /publication/
 <div class="pub-legend">
 
 <a href="https://scholar.google.com/citations?hl=en&user=fg0AuD8AAAAJ" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/img/gs.jpg" alt="Google Scholar">
+  <img src="/assets/img/gs.png" alt="Google Scholar">
 </a> 
 
   
@@ -176,7 +176,7 @@ permalink: /publication/
 
   
 <a href="https://ieeexplore.ieee.org/author/893347168306437" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/img/ieee.png" alt="IEEE Xplore">
+  <img src="/assets/img/ieee.webp" alt="IEEE Xplore">
 </a> 
 
 

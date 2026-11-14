@@ -4,6 +4,7 @@ title: Achievements and Grants
 subtitle: 
 ---
 
+- **2026**: Most inspiring 6G usecase (as part of NATWORK), 6G Summit, Spain
 - **2024**: Post Doctoral grant, EKOP, ELTE/HFU, Hungary-Germany  
 - **2023**: Project proposal grant, European Union  
 - **2022**: Best paper award, IEEE ICISPP, Southeast University, China  

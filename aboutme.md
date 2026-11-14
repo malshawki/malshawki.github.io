@@ -15,10 +15,10 @@ Currently, I lead research focused on secure and AI-driven data aggregation prot
 
 ### 🔍 Current Research
 Work in the intersection of cryptography, distributed systems, and artificial intelligence. The **current research** focuses on:
-- Federated learning and AI security
-- Network and IoT security
+- Distributed Systems security
+- Federated AI security
 - Applied cryptography and PQ security
-- Privacy-preserving systems
+- Cryptographic protocols
 
 ### Membership
 - 6G-IA Security workgroup
