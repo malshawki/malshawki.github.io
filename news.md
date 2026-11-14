@@ -10,7 +10,7 @@ permalink: /news/
 
 {% assign current_year = "" %}
 {% for item in news_items %}
-  {% assign item_year = item.date | date: "%Y" %}
+  {% assign item_year = item.date %}
   {% if item_year != current_year %}
     {% if current_year != "" %}
       </div>
