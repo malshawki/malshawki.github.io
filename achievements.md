@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Achievements and Grants
+title: Selected Achievements and Grants
 ---
 
 <style>
@@ -243,12 +243,6 @@ title: Achievements and Grants
 </style>
 
 <div class="recognition-page">
-  <header class="recognition-intro">
-    <p class="recognition-kicker">Selected recognition</p>
-    <h2 class="recognition-heading">Awards and grants for research, innovation, and academic achievement</h2>
-    <p class="recognition-lede">Recognition received through research, collaborative projects, and academic work.</p>
-  </header>
-
   <ol class="recognition-list">
     <li class="recognition-item">
       <time class="recognition-year" datetime="2026">2026</time>
@@ -349,7 +343,7 @@ title: Achievements and Grants
         </div>
         <p class="recognition-detail">DAAD · TU Berlin, Germany</p>
       </article>
-    </li> 
+    </li>
     <li class="recognition-item">
       <time class="recognition-year" datetime="2008">2008</time>
       <article class="recognition-card">

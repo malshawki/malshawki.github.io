@@ -71,6 +71,11 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
       <div class="activity-location">Gothenburg, Sweden</div>
     </article>
     <article class="activity">
+      <div><strong>IEEE CloudCom</strong></div>
+      <div class="activity-description">Research presentation at CloudCom Conference</div>
+      <div class="activity-location">Paris, France</div>
+    </article>
+    <article class="activity">
       <div><strong>5G Security</strong></div>
       <div class="activity-description">Talk at Simula Metropolitan Center for Digital Engineering</div>
       <div class="activity-location">Oslo, Norway</div>
