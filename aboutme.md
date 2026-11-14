@@ -1,49 +1,191 @@
 ---
 layout: page
 title: About me
-subtitle: 
+full-width: true
 ---
 
-I'm an **associate professor at ELTE** and a **senior researcher at Cyber Security and Cryptography RG**, specializing in the intersection of applied cryptography, AI and next-generation network security. I have about 20 years of experience in cybersecurity, trusted systems, and privacy-preserving technologies, and try to bridge academic research and real-world applications in critical digital infrastructure. I holds a Ph.D. degree in Informatics and Cybersecurity, jointly by Eötvös Loránd University and Furtwangen University. I also hold a diploma in Information Technology from TU Berlin, and regularly contribute to international cybersecurity and AI forums and events.
+<style>
+.about-page {
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #293b4a;
+}
 
-Currently, I lead research focused on secure and AI-driven data aggregation protocols for 6G networks. My current work aims to make future communication systems more resilient, adaptive, and privacy-aware. Beyond research, I'm a certified cybersecurity consultant, advising on secure system design, AI governance, and critical infrastructure protection.
+.about-intro {
+  margin: 8px 0 42px;
+  padding: 8px 0 8px 22px;
+  border-left: 3px solid #3b8090;
+}
 
-### 🎓 Education
-- Ph.D. in Computer Science from ELTE and HFU 
-- M.Sc. in Computer Science from UoB
-- Diploma in Information Technology from TU Berlin
+.about-intro p {
+  margin: 0 0 14px;
+  color: #40515e;
+  font-size: 1.08rem;
+  line-height: 1.8;
+}
 
-### 🔍 Current Research
-Work in the intersection of cryptography, distributed systems, and artificial intelligence. The **current research** focuses on:
-- Distributed Systems security
-- Federated AI security
-- Applied cryptography and PQ security
-- Cryptographic protocols
+.about-intro p:last-child {
+  margin-bottom: 0;
+}
 
-### Membership
-- 6G-IA Security workgroup
-- IEEE Institute of Electrical and Electronics Engineers
-- ACM Association for Computing Machinery
-- Australian Information Security Association (AISA)
+.about-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 48px;
+  row-gap: 34px;
+}
 
-### 🧑‍🏫 Previous Roles
-- Senior Cybersecurity Researcher (HFU)
-- Postdoctoral Researccher (IDACUS)
-- Certified Cybersecurity Consultant (EU)
+.about-section {
+  padding-top: 17px;
+  border-top: 1px solid #dfe5eb;
+}
 
-### 🔗 Previous Industry Collaborations
-- Atos (ES)
-- LogMeIn (EU)
-- ConsultingHun (HU)
+.about-section h2 {
+  margin: 0 0 12px;
+  color: #173b57;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
 
+.about-section p {
+  margin: 0 0 12px;
+  color: #52616d;
+  font-size: 1rem;
+  line-height: 1.7;
+}
 
-### 🎓 Other Certificates
-- Cybersecurity - Infineon Technologies - AT 
-- Future IoT - IMT Atlantique - FR
-- Internet of Things and Blockchain - University of Lisbon - PT
-- Foundations of Security Analysis and Design - University of Urbino - IT
-- Cryptography and Privacy - University of Radboud - NL
-- Cybersecurity - University of Trento - IT
-- Offensive Security Testing - EIT
-- Provable Security - Budapest University of Technology - HU
+.about-list {
+  margin: 0;
+  padding-left: 21px;
+  color: #40515e;
+  font-size: 1rem;
+  line-height: 1.75;
+}
 
+.about-list li {
+  padding-left: 3px;
+}
+
+.about-list li + li {
+  margin-top: 4px;
+}
+
+.about-certificates {
+  grid-column: 1 / -1;
+}
+
+.about-certificates .about-list {
+  columns: 2;
+  column-gap: 48px;
+}
+
+.about-certificates .about-list li {
+  break-inside: avoid;
+  margin-bottom: 5px;
+}
+
+@media (max-width: 700px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+    row-gap: 27px;
+  }
+
+  .about-certificates {
+    grid-column: auto;
+  }
+
+  .about-certificates .about-list {
+    columns: 1;
+  }
+}
+
+@media (max-width: 560px) {
+  .about-intro {
+    margin-bottom: 32px;
+    padding-left: 16px;
+  }
+
+  .about-intro p {
+    font-size: 1rem;
+  }
+}
+</style>
+
+<div class="about-page">
+  <section class="about-intro" aria-label="Biography">
+    <p>
+      I’m an Associate Professor at ELTE and a Senior Researcher in the Cyber Security and Cryptography Research Group. With more than 15 years of experience in cybersecurity, trusted systems, and privacy-preserving technologies, I work to connect academic research with real-world needs in critical digital infrastructure.
+    </p>
+    <p>
+      I hold a Ph.D. in Informatics jointly from Eötvös Loránd University and Furtwangen University, as well as a Diploma in Information Technology from Technical University of Berlin. I also serve as a certified cybersecurity consultant, advising on secure system design, AI governance, and critical infrastructure protection.
+    </p>
+    <p>
+      My current research focuses on secure authentication and AI-driven aggregation for 6G networks, with the goal of making future communication systems more resilient, adaptive, and privacy-aware.
+    </p>
+  </section>
+
+  <div class="about-grid">
+    <section class="about-section">
+      <h2>Research interests</h2>
+      <p>My work spans cryptography, distributed systems, and artificial intelligence, with current interests in:</p>
+      <ul class="about-list">
+        <li>Distributed systems security</li>
+        <li>Federated AI security</li>
+        <li>Applied cryptography and PQ security</li>
+        <li>Cryptographic protocols</li>
+      </ul>
+    </section>
+
+    <section class="about-section">
+      <h2>Education</h2>
+      <ul class="about-list">
+        <li>Ph.D. in Computer Science, ELTE and HFU</li>
+        <li>M.Sc. in Computer Science, UoB</li>
+        <li>Diploma in Information Technology, TU Berlin</li>
+      </ul>
+    </section>
+
+    <section class="about-section">
+      <h2>Academic and professional service</h2>
+      <ul class="about-list">
+        <li>6G-IA Security Working Group</li>
+        <li>IEEE (Institute of Electrical and Electronics Engineers)</li>
+        <li>ACM (Association for Computing Machinery)</li>
+        <li>Australian Information Security Association (AISA)</li>
+      </ul>
+    </section>
+
+    <section class="about-section">
+      <h2>Previous roles</h2>
+      <ul class="about-list">
+        <li>Senior Cybersecurity Researcher, HFU</li>
+        <li>Postdoctoral Researcher, IDACUS</li>
+        <li>Certified Cybersecurity Consultant, EU</li>
+      </ul>
+    </section>
+
+    <section class="about-section">
+      <h2>Industry collaborations</h2>
+      <ul class="about-list">
+        <li>Atos (ES)</li>
+        <li>LogMeIn (EU)</li>
+        <li>ConsultingHun (HU)</li>
+      </ul>
+    </section>
+
+    <section class="about-section about-certificates">
+      <h2>Additional training and certificates</h2>
+      <ul class="about-list">
+        <li>Cybersecurity, Infineon Technologies (AT)</li>
+        <li>Future IoT, IMT Atlantique (FR)</li>
+        <li>Internet of Things and Blockchain, University of Lisbon (PT)</li>
+        <li>Foundations of Security Analysis and Design, University of Urbino (IT)</li>
+        <li>Cryptography and Privacy, Radboud University (NL)</li>
+        <li>Cybersecurity, University of Trento (IT)</li>
+        <li>Offensive Security Testing, EIT</li>
+        <li>Provable Security, Budapest University of Technology (HU)</li>
+      </ul>
+    </section>
+  </div>
+</div>
