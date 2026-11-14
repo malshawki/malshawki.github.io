@@ -209,7 +209,6 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
       <div class="activity-location">Stockholm, Sweden</div>
     </article>
     <article class="activity">
-    <article class="activity">
       <div><strong>BNU - Mobile Security</strong></div>
       <div class="activity-description">Invited lecture at Buckinghamshire New University</div>
       <div class="activity-location">London, UK</div>
