@@ -183,8 +183,8 @@ title: Selected Achievements and Grants
 
 .recognition-logos {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
-  gap: 12px 18px;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 14px 20px;
   align-items: center;
 }
 
@@ -192,7 +192,7 @@ title: Selected Achievements and Grants
   display: block;
   width: auto;
   max-width: 100%;
-  max-height: 48px;
+  max-height: 60px;
   margin: 0 auto;
   object-fit: contain;
 }
@@ -367,7 +367,7 @@ title: Selected Achievements and Grants
   </ol>
 
   <section class="recognition-partners" aria-labelledby="recognition-partners-title">
-    <h2 class="recognition-partners-title" id="recognition-partners-title">Institutions and programs</h2>
+    <h2 class="recognition-partners-title" id="recognition-partners-title"></h2>
     <div class="recognition-logos">
       <img src="/assets/img/DAAD.png" alt="DAAD">
       <img src="/assets/img/ekop.png" alt="EKOP">
