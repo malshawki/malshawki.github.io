@@ -61,6 +61,48 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 </style>
 
 <div class="activities-page">
+
+<section class="activity-year">
+  <h2 class="activity-year-title">2026</h2>
+  <div class="activity-list">
+  <article class="activity">
+      <div><strong>NS meetup</strong></div>
+      <div class="activity-description">Talk at <a href="https://www.chalmers.se/en/departments/cse/our-research/computer-and-network-systems/network-and-systems/" target="_blank">Network and Systems (NS) unit</a></div>
+      <div class="activity-location">Gothenburg, Sweden</div>
+    </article>
+    <article class="activity">
+      <div><strong>5G Security</strong></div>
+      <div class="activity-description">Talk at Simula Metropolitan Center for Digital Engineering</div>
+      <div class="activity-location">Oslo, Norway</div>
+    </article>
+    <article class="activity">
+      <div><strong>Chalmers Security & Privacy Lab</strong></div>
+      <div class="activity-description">Talk at <a href="https://www.cse.chalmers.se/research/group/security/event/" target="_blank">Chalmers Security & Privacy Lab</a>  of Chalmers University of Technology</div>
+      <div class="activity-location">Gothenburg , Sweden</div>
+    </article>
+  <article class="activity">
+      <div><strong>DIT616</strong></div>
+      <div class="activity-description">Talk at <a href="https://www.gu.se/en/study-gothenburg/data-driven-support-for-cyber-physical-systems-dit616" target="_blank">Data-driven support for cyber-physical systems</a>  of University of Gothenburg </div>
+      <div class="activity-location">Gothenburg , Sweden</div>
+    </article>
+  <article class="activity">
+      <div><strong>RON</strong></div>
+      <div class="activity-description">Invited speaker at RON Researcher Day</div>
+      <div class="activity-location">Budapest, Hungary</div>
+    </article>
+    <article class="activity">
+      <div><strong>IEEE NetSoft</strong></div>
+      <div class="activity-description">Research presentation at Network Softwarization Conference</div>
+      <div class="activity-location">Berlin, Germany</div>
+    </article>
+    <article class="activity">
+      <div><strong>6G Summit</strong></div>
+      <div class="activity-description">Demonstration at EuCNC & 6G Summit</div>
+      <div class="activity-location">Malaga, Spain</div>
+    </article>
+  </div>
+</section>
+
 <section class="activity-year">
   <h2 class="activity-year-title">2025</h2>
   <div class="activity-list">
