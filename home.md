@@ -385,7 +385,7 @@ full-width: true
   </div>
 
   <div class="news-grid">
-    {% for item in selected_news limit: 6 %}
+    {% for item in selected_news limit: 4 %}
       <article class="news-card">
         <div class="news-meta">
           {% if item.category and item.category != "" %}
