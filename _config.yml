@@ -27,7 +27,7 @@ navbar-links:
   Research:
    - Projects: "projects"
    - Publication: "publication"
-   - CyberSec Lab: "https://elte-cybersec.github.io/"
+   - CyberSec Lab: "https://cyberseclab.elte.hu"
    - Opportunities: "opportunities"
   Contact: "contact"
 #Resources:
