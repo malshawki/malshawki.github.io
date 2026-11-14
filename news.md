@@ -8,70 +8,104 @@ permalink: /news/
 
 <div class="news-list">
 
+{% assign current_year = "" %}
 {% for item in news_items %}
+  {% assign item_year = item.date | date: "%Y" %}
+  {% if item_year != current_year %}
+    {% if current_year != "" %}
+      </div>
+    </section>
+    {% endif %}
+    <section class="news-year">
+      <h2 class="news-year-title">{{ item_year }}</h2>
+      <div class="news-year-items">
+    {% assign current_year = item_year %}
+  {% endif %}
 
-<div class="news-entry">
-
-<span class="news-date">
-{{ item.date | date: "%Y %b" }}
-</span>
-
-{% if item.category %}
-<span class="news-category">
-{{ item.category }}
-</span>
-{% endif %}
-
-<br>
-<strong>
-<a href="{{ item.url }}" target="_blank">
-{{ item.title }}
-</a>
-</strong>
-
-{% if item.summary %}
-<br>
-{{ item.summary }}
-{% endif %}
-
-</div>
+    <article class="news-entry">
+      <div class="news-entry-heading">
+        {% if item.url and item.url != "" %}
+          <strong><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a></strong>
+        {% else %}
+          <strong>{{ item.title }}</strong>
+        {% endif %}
+        {% if item.category and item.category != "" %}
+          <span class="news-category">{{ item.category }}</span>
+        {% endif %}
+      </div>
+      {% if item.summary and item.summary != "" %}
+        <p class="news-summary">{{ item.summary }}</p>
+      {% endif %}
+    </article>
 
 {% endfor %}
+{% if current_year != "" %}
+      </div>
+    </section>
+{% endif %}
 
 </div>
 
 <style>
 .news-list {
-  max-width: 900px;
+  max-width: 920px;
   margin: auto;
 }
 
-.news-entry {
-  padding: 14px 0;
-  border-bottom: 1px solid #eee;
-  line-height: 1.6;
+.news-year {
+  margin: 24px 0 30px;
 }
 
-.news-date {
-  font-weight: 600;
-  color: #666;
-  margin-right: 8px;
+.news-year-title {
+  margin: 0 0 4px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid #dfe5eb;
+  color: #173b57;
+  font-size: 1.45rem;
+  font-weight: 700;
+}
+
+.news-year-items {
+  display: grid;
+}
+
+.news-entry {
+  padding: 10px 0;
+  border-bottom: 1px solid #edf0f2;
+}
+
+.news-entry-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 5px 10px;
+  line-height: 1.45;
 }
 
 .news-category {
-  background: #fff3df;
-  color: #b96d00;
+  padding: 1px 6px;
+  border: 1px solid #d9e2e9;
+  border-radius: 3px;
+  background: #f5f8fa;
+  color: #526a7c;
   font-size: 0.75rem;
-  padding: 3px 8px;
-  border-radius: 6px;
-  margin-right: 8px;
+  text-transform: capitalize;
+}
+
+.news-summary {
+  margin: 3px 0 0;
+  color: #5b6975;
+  font-size: 0.93rem;
+  line-height: 1.5;
 }
 
 .news-entry a {
-  text-decoration: none;
+  color: #244b67;
+  text-decoration: none !important;
 }
 
-.news-entry a:hover {
-  text-decoration: underline;
+.news-entry a:hover,
+.news-entry a:focus-visible {
+  text-decoration: underline !important;
 }
 </style>

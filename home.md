@@ -319,7 +319,6 @@ full-width: true
 <div class="home-page">
   <section class="home-intro" aria-labelledby="home-intro-title">
     <div class="home-intro-main">
-      <p class="home-eyebrow">Academic profile</p>
       <h2 class="home-intro-title" id="home-intro-title">Research in security, privacy, and trusted systems</h2>
       <p class="home-intro-copy">
         I’m an Associate Professor at ELTE and a Senior Researcher in the Cyber Security and Cryptography Research Group. My work brings together applied cryptography, AI security, and next-generation networks, with a focus on practical, privacy-aware systems.
@@ -332,10 +331,10 @@ full-width: true
     <aside class="home-focus" aria-labelledby="home-focus-title">
       <h3 class="home-focus-title" id="home-focus-title">Research areas</h3>
       <ul class="home-focus-list">
-        <li>Applied cryptography</li>
+        <li>Applied cryptography and PQ security</li>
         <li>AI security and federated learning</li>
         <li>Network and IoT security</li>
-        <li>Privacy-preserving systems</li>
+        <li>Privacy preserving systems</li>
       </ul>
     </aside>
   </section>
@@ -381,7 +380,7 @@ full-width: true
   <div class="news-home-header">
     <div>
       <h2 class="home-section-title">Recent highlights</h2>
-      <p class="home-section-description">Awards, talks, publications, and updates.</p>
+      <p class="home-section-description"></p>
     </div>
     <a class="news-more-link" href="/news/">All news <span aria-hidden="true">→</span></a>
   </div>
@@ -390,7 +389,6 @@ full-width: true
     {% for item in selected_news limit: 4 %}
       <article class="news-card">
         <div class="news-meta">
-          <time class="news-date" datetime="{{ item.date | date: '%Y-%m' }}">{{ item.date | date: "%b %Y" }}</time>
           {% if item.category and item.category != "" %}
             <span class="news-badge">{{ item.category }}</span>
           {% endif %}
