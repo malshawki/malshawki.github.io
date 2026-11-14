@@ -18,9 +18,9 @@ permalink: /publication/
   gap: 12px 20px;
   margin: 10px 0 28px;
   padding: 16px 18px;
-  border: 1px solid #dfe5eb;
+  border: 1px solid var(--teal-border);
   border-radius: 8px;
-  background: #f8fafc;
+  background: var(--teal-50);
 }
 
 .pub-legend a {
@@ -45,18 +45,18 @@ permalink: /publication/
 
 .pub-card {
   padding: 12px 16px;
-  border: 1px solid #dfe5eb;
-  border-left: 4px solid #315b78;
+  border: 1px solid var(--teal-border);
+  border-left: 4px solid var(--teal-800);
   border-radius: 6px;
   background: #fff;
-  box-shadow: 0 2px 8px rgba(25, 45, 65, 0.04);
+  box-shadow: 0 2px 8px rgba(18, 78, 80, 0.04);
   transition: box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
 .pub-card:hover {
-  border-color: #c7d2dc;
-  border-left-color: #173b57;
-  box-shadow: 0 4px 12px rgba(25, 45, 65, 0.08);
+  border-color: var(--teal-border);
+  border-left-color: var(--teal-950);
+  box-shadow: 0 4px 12px rgba(18, 78, 80, 0.08);
 }
 
 .pub-topline {
@@ -64,7 +64,7 @@ permalink: /publication/
 }
 
 .pub-title {
-  color: #173b57;
+  color: var(--teal-950);
   font-size: 1.05rem;
   font-weight: 700;
   line-height: 1.35;
@@ -73,13 +73,13 @@ permalink: /publication/
 
 .pub-authors {
   margin: 3px 0 2px;
-  color: #344452;
+  color: var(--teal-muted);
   line-height: 1.4;
 }
 
 .pub-venue {
   margin: 0;
-  color: #536371;
+  color: var(--teal-muted);
   font-style: italic;
   line-height: 1.4;
 }
@@ -90,7 +90,7 @@ permalink: /publication/
   align-items: center;
   gap: 5px 7px;
   margin-top: 7px;
-  color: #596a78;
+  color: var(--teal-muted);
   font-size: 0.88rem;
 }
 
@@ -103,29 +103,29 @@ permalink: /publication/
   display: inline-flex;
   align-items: center;
   padding: 2px 7px;
-  border: 1px solid #d7e0e7;
+  border: 1px solid var(--teal-border);
   border-radius: 4px;
-  background: #f4f7f9;
-  color: #425563;
+  background: var(--teal-50);
+  color: var(--teal-muted);
   font-size: 0.78rem;
   font-weight: 600;
   line-height: 1.4;
 }
 
 .pub-badge-award {
-  border-color: #e7d9b8;
-  background: #fbf7ed;
-  color: #70591f;
+  border-color: var(--teal-200);
+  background: var(--teal-100);
+  color: var(--teal-950);
 }
 
 .pub-badge-open-access {
-  border-color: #cfe0d4;
-  background: #f1f7f2;
-  color: #315c3d;
+  border-color: var(--teal-border);
+  background: var(--teal-100);
+  color: var(--teal-800);
 }
 
 .pub-summary {
-  color: #445360;
+  color: var(--teal-muted);
   margin: 7px 0 0;
   line-height: 1.45;
 }
@@ -135,16 +135,16 @@ permalink: /publication/
   font-weight: 600;
   padding: 2px 7px;
   border-radius: 4px;
-  border: 1px solid #d4dee6;
+  border: 1px solid var(--teal-border);
   background: #fff;
-  color: #315b78;
+  color: var(--teal-800);
   font-size: 0.82rem;
 }
 
 .pub-labels a:hover,
 .pub-labels a:focus-visible {
-  background: #f1f5f8;
-  border-color: #9eafbd;
+  background: var(--teal-100);
+  border-color: var(--teal-500);
 }
 
 @media (max-width: 600px) {

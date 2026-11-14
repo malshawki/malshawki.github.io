@@ -18,8 +18,8 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 .activity-year-title {
   margin: 0 0 12px;
   padding-bottom: 7px;
-  border-bottom: 1px solid #dfe5eb;
-  color: #173b57;
+  border-bottom: 1px solid var(--teal-border);
+  color: var(--teal-950);
   font-size: 1.5rem;
   font-weight: 700;
 }
@@ -31,14 +31,14 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 
 .activity {
   padding: 12px 15px;
-  border: 1px solid #dfe5eb;
-  border-left: 3px solid #315b78;
+  border: 1px solid var(--teal-border);
+  border-left: 3px solid var(--teal-800);
   border-radius: 5px;
   background: #fff;
 }
 
 .activity strong {
-  color: #173b57;
+  color: var(--teal-950);
   font-size: 1.02rem;
 }
 
@@ -49,7 +49,7 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
 
 .activity-location {
   margin-top: 5px;
-  color: #647381;
+  color: var(--teal-muted);
   font-size: 0.9rem;
 }
 

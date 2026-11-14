@@ -157,16 +157,17 @@ navbar-var-length: false
 #footer-link-col: "#404040"
 #footer-hover-col: "#0085A1"
 page-col: "#FFFFFF"
-text-col: "#1E1E1E"
-link-col: "#FFA500"         # Vibrant modern orange (like a digital amber)
-hover-col: "#1EA8A7"        # Deeper orange for hover state
-navbar-col: "#FFF8E7"       # Clean white for separation
-navbar-text-col: "#1E1E1E"
-navbar-border-col: "#E6E1D9" # Slightly more contrast than before
-footer-col: "#FFF8E7"       # Soft warm beige to distinguish from the page
-footer-text-col: "#4A4A4A"
-footer-link-col: "#FFA500"
-footer-hover-col: "#CC8400"
+text-col: "#263D3D"
+link-col: "#176B68"
+hover-col: "#124E50"
+navbar-col: "#F5FAF9"
+navbar-text-col: "#263D3D"
+navbar-border-col: "#D8E6E3"
+footer-col: "#F5FAF9"
+footer-text-col: "#526A69"
+footer-link-col: "#176B68"
+footer-hover-col: "#124E50"
+mobile-theme-col: "#176B68"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -179,8 +180,8 @@ footer-hover-col: "#CC8400"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -319,4 +320,3 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-

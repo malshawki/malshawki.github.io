@@ -7,7 +7,7 @@ title: Selected Achievements and Grants
 .recognition-page {
   max-width: 960px;
   margin: 0 auto;
-  color: #293b4a;
+  color: var(--teal-ink);
 }
 
 .recognition-intro {
@@ -16,7 +16,7 @@ title: Selected Achievements and Grants
   margin: 8px 0 34px;
   padding: 28px 30px;
   border-radius: 6px;
-  background: #173b57;
+  background: var(--teal-950);
   color: #fff;
 }
 
@@ -35,7 +35,7 @@ title: Selected Achievements and Grants
 
 .recognition-kicker {
   margin: 0 0 8px;
-  color: #c5d6e2;
+  color: var(--teal-200);
   font-size: 0.78rem;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -58,7 +58,7 @@ title: Selected Achievements and Grants
   z-index: 1;
   max-width: 650px;
   margin: 10px 0 0;
-  color: #e0e9ef;
+  color: var(--teal-100);
   line-height: 1.6;
 }
 
@@ -75,7 +75,7 @@ title: Selected Achievements and Grants
   bottom: 10px;
   left: 53px;
   width: 1px;
-  background: #d7e0e7;
+  background: var(--teal-border);
   content: "";
 }
 
@@ -92,7 +92,7 @@ title: Selected Achievements and Grants
   position: relative;
   z-index: 1;
   padding-top: 17px;
-  color: #315b78;
+  color: var(--teal-800);
   font-size: 1rem;
   font-weight: 700;
 }
@@ -105,27 +105,27 @@ title: Selected Achievements and Grants
   height: 9px;
   border: 2px solid #fff;
   border-radius: 50%;
-  background: #3b8090;
-  box-shadow: 0 0 0 1px #3b8090;
+  background: var(--teal-600);
+  box-shadow: 0 0 0 1px var(--teal-600);
   content: "";
 }
 
 .recognition-card {
   padding: 15px 18px;
-  border: 1px solid #e0e7ec;
-  border-left: 3px solid #3b8090;
+  border: 1px solid var(--teal-border);
+  border-left: 3px solid var(--teal-600);
   border-radius: 5px;
   background: #fff;
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
 .recognition-card:hover {
-  border-color: #c6d4de;
-  box-shadow: 0 3px 12px rgba(23, 59, 87, 0.07);
+  border-color: var(--teal-border);
+  box-shadow: 0 3px 12px rgba(18, 78, 80, 0.07);
 }
 
 .recognition-card.grant {
-  border-left-color: #b68b43;
+  border-left-color: var(--teal-600);
 }
 
 .recognition-card-header {
@@ -137,7 +137,7 @@ title: Selected Achievements and Grants
 
 .recognition-title {
   margin: 0;
-  color: #203d54;
+  color: var(--teal-950);
   font-size: 1.03rem;
   font-weight: 700;
   line-height: 1.4;
@@ -145,23 +145,23 @@ title: Selected Achievements and Grants
 
 .recognition-kind {
   padding: 2px 7px;
-  border: 1px solid #d5e5e7;
+  border: 1px solid var(--teal-border);
   border-radius: 3px;
-  background: #f0f6f6;
-  color: #356a73;
+  background: var(--teal-100);
+  color: var(--teal-800);
   font-size: 0.72rem;
   font-weight: 600;
 }
 
 .recognition-card.grant .recognition-kind {
-  border-color: #e8dcc5;
-  background: #faf6ed;
-  color: #80632e;
+  border-color: var(--teal-200);
+  background: var(--teal-100);
+  color: var(--teal-950);
 }
 
 .recognition-detail {
   margin: 5px 0 0;
-  color: #63727e;
+  color: var(--teal-muted);
   font-size: 0.92rem;
   line-height: 1.5;
 }
@@ -169,14 +169,14 @@ title: Selected Achievements and Grants
 .recognition-partners {
   margin-top: 22px;
   padding: 18px 20px;
-  border: 1px solid #e0e7ec;
+  border: 1px solid var(--teal-border);
   border-radius: 5px;
-  background: #f8fafb;
+  background: var(--teal-50);
 }
 
 .recognition-partners-title {
   margin: 0 0 14px;
-  color: #405565;
+  color: var(--teal-muted);
   font-size: 0.86rem;
   font-weight: 700;
 }
@@ -200,8 +200,8 @@ title: Selected Achievements and Grants
 .recognition-disclaimer {
   margin: 20px 0 0;
   padding-top: 13px;
-  border-top: 1px solid #e0e7ec;
-  color: #687783;
+  border-top: 1px solid var(--teal-border);
+  color: var(--teal-muted);
   font-size: 0.84rem;
   line-height: 1.55;
 }

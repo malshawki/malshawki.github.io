@@ -59,8 +59,8 @@ permalink: /news/
 .news-year-title {
   margin: 0 0 4px;
   padding-bottom: 7px;
-  border-bottom: 1px solid #dfe5eb;
-  color: #173b57;
+  border-bottom: 1px solid var(--teal-border);
+  color: var(--teal-950);
   font-size: 1.45rem;
   font-weight: 700;
 }
@@ -71,7 +71,7 @@ permalink: /news/
 
 .news-entry {
   padding: 10px 0;
-  border-bottom: 1px solid #edf0f2;
+  border-bottom: 1px solid var(--teal-border);
 }
 
 .news-entry-heading {
@@ -84,23 +84,23 @@ permalink: /news/
 
 .news-category {
   padding: 1px 6px;
-  border: 1px solid #d9e2e9;
+  border: 1px solid var(--teal-border);
   border-radius: 3px;
-  background: #f5f8fa;
-  color: #526a7c;
+  background: var(--teal-50);
+  color: var(--teal-muted);
   font-size: 0.75rem;
   text-transform: capitalize;
 }
 
 .news-summary {
   margin: 3px 0 0;
-  color: #5b6975;
+  color: var(--teal-muted);
   font-size: 0.93rem;
   line-height: 1.5;
 }
 
 .news-entry a {
-  color: #244b67;
+  color: var(--teal-800);
   text-decoration: none !important;
 }
 

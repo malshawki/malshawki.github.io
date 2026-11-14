@@ -11,7 +11,7 @@ title: Projects
 
 .projects-intro {
   margin: 0 0 22px;
-  color: #5b6975;
+  color: var(--teal-muted);
   line-height: 1.6;
 }
 
@@ -26,15 +26,15 @@ title: Projects
   gap: 20px;
   align-items: center;
   padding: 18px 20px;
-  border: 1px solid #dfe5eb;
-  border-left: 4px solid #315b78;
+  border: 1px solid var(--teal-border);
+  border-left: 4px solid var(--teal-800);
   border-radius: 5px;
   background: #fff;
 }
 
 .project-title {
   margin: 0 0 9px;
-  color: #173b57;
+  color: var(--teal-950);
   font-size: 1.2rem;
   font-weight: 700;
   line-height: 1.35;
@@ -42,14 +42,14 @@ title: Projects
 
 .project-role {
   margin: 0 0 9px;
-  color: #465765;
+  color: var(--teal-muted);
   line-height: 1.55;
 }
 
 .project-details {
   margin: 0;
   padding-left: 18px;
-  color: #5b6975;
+  color: var(--teal-muted);
   font-size: 0.94rem;
   line-height: 1.55;
 }
@@ -64,7 +64,7 @@ title: Projects
   justify-content: center;
   min-height: 78px;
   padding: 10px;
-  border-left: 1px solid #edf0f2;
+  border-left: 1px solid var(--teal-border);
 }
 
 .project-logo img {
@@ -78,8 +78,8 @@ title: Projects
 .projects-disclaimer {
   margin: 24px 0 0;
   padding-top: 14px;
-  border-top: 1px solid #dfe5eb;
-  color: #687783;
+  border-top: 1px solid var(--teal-border);
+  color: var(--teal-muted);
   font-size: 0.88rem;
   line-height: 1.55;
 }
@@ -95,7 +95,7 @@ title: Projects
     justify-content: flex-start;
     min-height: auto;
     padding: 10px 0 0;
-    border-top: 1px solid #edf0f2;
+    border-top: 1px solid var(--teal-border);
     border-left: 0;
   }
 }

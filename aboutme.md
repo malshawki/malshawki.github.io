@@ -8,18 +8,18 @@ full-width: true
 .about-page {
   max-width: 1000px;
   margin: 0 auto;
-  color: #293b4a;
+  color: var(--teal-ink);
 }
 
 .about-intro {
   margin: 8px 0 42px;
   padding: 8px 0 8px 22px;
-  border-left: 3px solid #3b8090;
+  border-left: 3px solid var(--teal-600);
 }
 
 .about-intro p {
   margin: 0 0 14px;
-  color: #40515e;
+  color: var(--teal-muted);
   font-size: 1.08rem;
   line-height: 1.8;
 }
@@ -37,12 +37,12 @@ full-width: true
 
 .about-section {
   padding-top: 17px;
-  border-top: 1px solid #dfe5eb;
+  border-top: 1px solid var(--teal-border);
 }
 
 .about-section h2 {
   margin: 0 0 12px;
-  color: #173b57;
+  color: var(--teal-950);
   font-size: 1.3rem;
   font-weight: 700;
   line-height: 1.35;
@@ -50,7 +50,7 @@ full-width: true
 
 .about-section p {
   margin: 0 0 12px;
-  color: #52616d;
+  color: var(--teal-muted);
   font-size: 1rem;
   line-height: 1.7;
 }
@@ -58,7 +58,7 @@ full-width: true
 .about-list {
   margin: 0;
   padding-left: 21px;
-  color: #40515e;
+  color: var(--teal-muted);
   font-size: 1rem;
   line-height: 1.75;
 }
