@@ -1,6 +1,6 @@
 items:
   - title: Guest Editor in Frontiers in Blockchain
-    date: 2026-05
+    date: "2026"
     category: service
     selected: true
     featured: false
@@ -8,7 +8,7 @@ items:
     url: https://www.frontiersin.org/research-topics/80424/auditability-in-privacy-preserving-smart-contracts
 
   - title: Keynote at ATIS 2025
-    date: 2025-12
+    date: "2025"
     category: conference
     selected: true
     featured: true
@@ -16,7 +16,7 @@ items:
     url: https://quantconf.com/new-page/
 
   - title: TPC co-chair of CIoT25
-    date: 2025-11
+    date: "2025"
     category: service
     selected: true
     featured: false
@@ -24,7 +24,7 @@ items:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11410128
 
   - title: Rogue AI Detection paper
-    date: 2025-10
+    date: "2025"
     category: publication
     selected: false
     featured: true
@@ -32,7 +32,7 @@ items:
     url: https://www.mdpi.com/2079-9292/14/20/4122
 
   - title: GDPR Compliance for IIoT
-    date: 2025-10
+    date: "2025"
     category: publication
     selected: false
     featured: false
@@ -40,7 +40,7 @@ items:
     url: https://www.mdpi.com/2624-800X/5/4/84
 
   - title: SoftCOM 2025 presentation
-    date: 2025-09
+    date: "2025"
     category: conference
     selected: false
     featured: false
@@ -48,7 +48,7 @@ items:
     url:
 
   - title: Time Management invited talk
-    date: 2025-09
+    date: "2025"
     category: talk
     selected: false
     featured: false
@@ -56,7 +56,7 @@ items:
     url:
 
   - title: FiCloud 2025 PC service
-    date: 2025-08
+    date: "2025"
     category: service
     selected: false
     featured: false
@@ -64,7 +64,7 @@ items:
     url:
 
   - title: Cybersecurity training school
-    date: 2025-07
+    date: "2025"
     category: event
     selected: false
     featured: false
@@ -72,7 +72,7 @@ items:
     url:
 
   - title: Homomorphic encryption paper
-    date: 2025-07
+    date: "2025"
     category: publication
     selected: false
     featured: false
@@ -80,7 +80,7 @@ items:
     url:
 
   - title: Guest Editor in Electronics SI
-    date: 2025-07
+    date: "2025"
     category: service
     selected: true
     featured: false
@@ -88,7 +88,7 @@ items:
     url: https://www.mdpi.com/journal/electronics/special_issues/1F233YZM48
 
   - title: ICDCS Workshops paper
-    date: 2025-07
+    date: "2025"
     category: conference
     selected: false
     featured: false
@@ -96,7 +96,7 @@ items:
     url:
 
   - title: AI in Cybersecurity talk
-    date: 2025-07
+    date: "2025"
     category: talk
     selected: false
     featured: false
@@ -104,7 +104,7 @@ items:
     url:
 
   - title: Lightweight blockchain paper
-    date: 2025-06
+    date: "2025"
     category: publication
     selected: true
     featured: false
@@ -112,7 +112,7 @@ items:
     url:
 
   - title: NFC payment study
-    date: 2025-06
+    date: "2025"
     category: publication
     selected: false
     featured: false
@@ -120,7 +120,7 @@ items:
     url:
 
   - title: NATWORK plenary and CNIT visit
-    date: 2025-05
+    date: "2025"
     category: event
     selected: false
     featured: false
@@ -128,7 +128,7 @@ items:
     url:
 
   - title: CECC 2025 poster
-    date: 2025-05
+    date: "2025"
     category: publication
     selected: true
     featured: false
@@ -136,7 +136,7 @@ items:
     url: https://cecc2025.inf.elte.hu/en/
 
   - title: 6G Summit poster
-    date: 2025-05
+    date: "2025"
     category: conference
     selected: false
     featured: false
@@ -144,7 +144,7 @@ items:
     url:
 
   - title: ICDCS accept
-    date: 2025-04
+    date: "2025"
     category: publication
     selected: true
     featured: false
@@ -152,7 +152,7 @@ items:
     url:
 
   - title: Smart Work Habits invited talk
-    date: 2025-04
+    date: "2025"
     category: talk
     selected: false
     featured: false
@@ -160,7 +160,7 @@ items:
     url:
 
   - title: TESIC talk accept
-    date: 2025-03
+    date: "2025"
     category: talk
     selected: true
     featured: false
@@ -168,7 +168,7 @@ items:
     url:
 
   - title: Joined 6G‑IA Security WG
-    date: 2025-03
+    date: "2025"
     category: membership
     selected: true
     featured: true
@@ -176,7 +176,7 @@ items:
     url: https://6g-ia.eu/
 
   - title: IEEE Access shop-floor
-    date: 2025-02
+    date: "2025"
     category: publication
     selected: true
     featured: true
@@ -184,7 +184,7 @@ items:
     url: https://ieeexplore.ieee.org/document/10436670
 
   - title: Trust Management talk 
-    date: 2025-01
+    date: "2025"
     category: talk
     selected: false
     featured: false
@@ -192,7 +192,7 @@ items:
     url:
 
   - title: CSNet 2024 presentation
-    date: 2024-12
+    date: "2024"
     category: conference
     selected: true
     featured: false
@@ -200,7 +200,7 @@ items:
     url:
 
   - title: IEEE CSCN accept
-    date: 2024-08
+    date: "2024"
     category: publication
     selected: true
     featured: false
@@ -208,7 +208,7 @@ items:
     url:
 
   - title: GRAAL4IoT @ IFIP IoT
-    date: 2024-06
+    date: "2024"
     category: publication
     selected: true
     featured: false
@@ -216,7 +216,7 @@ items:
     url:
 
   - title: IEEE Access 5G congestion
-    date: 2024-05
+    date: "2024"
     category: publication
     selected: true
     featured: true
@@ -224,7 +224,7 @@ items:
     url: https://ieeexplore.ieee.org/document/10562283
 
   - title: Postdoctoral grant
-    date: 2024-04
+    date: "2024"
     category: award
     selected: true
     featured: true
@@ -232,7 +232,7 @@ items:
     url:
 
   - title: AI-enabled 6G security vision
-    date: 2024-02
+    date: "2024"
     category: talk
     selected: false
     featured: false
@@ -240,7 +240,7 @@ items:
     url:
 
   - title: EU 6G‑SNS success
-    date: 2023-11
+    date: "2023"
     category: project
     selected: true
     featured: true
@@ -248,7 +248,7 @@ items:
     url:
 
   - title: Student performance study
-    date: 2023-10
+    date: "2023"
     category: publication
     selected: true
     featured: false
@@ -256,7 +256,7 @@ items:
     url:
 
   - title: Industrial IoT auth access
-    date: 2023-09
+    date: "2023"
     category: conference
     selected: false
     featured: false
@@ -264,7 +264,7 @@ items:
     url:
 
   - title: FedLabX in C&IS
-    date: 2023-07
+    date: "2023"
     category: publication
     selected: true
     featured: true
@@ -272,7 +272,7 @@ items:
     url: https://link.springer.com/article/10.1007/s40747-023-01184-3
 
   - title: Blockchain survey
-    date: 2023-05
+    date: "2023"
     category: publication
     selected: true
     featured: true
@@ -280,7 +280,7 @@ items:
     url: https://www.mdpi.com/1424-8220/23/16/7172
 
   - title: MANET security protocol
-    date: 2023-02
+    date: "2023"
     category: conference
     selected: false
     featured: false
@@ -288,7 +288,7 @@ items:
     url:
 
   - title: CP‑ABE encryption in WiMob
-    date: 2023-03
+    date: "2023"
     category: conference
     selected: true
     featured: false
@@ -296,7 +296,7 @@ items:
     url:
 
   - title: ITNAC 2022 presentation
-    date: 2022-11
+    date: "2022"
     category: conference
     selected: false
     featured: false
@@ -304,7 +304,7 @@ items:
     url:
 
   - title: ML over imbalanced data
-    date: 2022-10
+    date: "2022"
     category: publication
     selected: false
     featured: false
@@ -312,7 +312,7 @@ items:
     url:
 
   - title: ACNS 2022 poster
-    date: 2022-06
+    date: "2022"
     category: conference
     selected: false
     featured: false
@@ -320,7 +320,7 @@ items:
     url:
 
   - title: ICRIC IoT discovery
-    date: 2022-04
+    date: "2022"
     category: conference
     selected: false
     featured: false
@@ -328,7 +328,7 @@ items:
     url:
 
   - title: ICECET 2022 accept
-    date: 2022-03
+    date: "2022"
     category: conference
     selected: false
     featured: false
@@ -336,7 +336,7 @@ items:
     url:
 
   - title: Best paper in ICISSP
-    date: 2022-02
+    date: "2022"
     category: award
     selected: true
     featured: true
@@ -344,7 +344,7 @@ items:
     url:
 
   - title: Informatica acceptance
-    date: 2022-02
+    date: "2022"
     category: publication
     selected: false
     featured: false
@@ -352,7 +352,7 @@ items:
     url:
 
   - title: ICECET 2021 presentation
-    date: 2021-12
+    date: "2021"
     category: conference
     selected: false
     featured: false
@@ -360,7 +360,7 @@ items:
     url:
 
   - title: Bronze Award in EIT Innovation Day
-    date: 2021-11
+    date: "2021"
     category: award
     selected: true
     featured: true
@@ -368,7 +368,7 @@ items:
     url:
 
   - title: DAT in P2PNA (Springer)
-    date: 2021-08
+    date: "2021"
     category: publication
     selected: true
     featured: true
@@ -376,7 +376,7 @@ items:
     url: https://link.springer.com/article/10.1007/s12083-021-01221-3
 
   - title: ATTReD in Sensors
-    date: 2021-07
+    date: "2021"
     category: publication
     selected: true
     featured: false
@@ -384,7 +384,7 @@ items:
     url: https://www.mdpi.com/1424-8220/21/14/4721
 
   - title: SEJSC review accept
-    date: 2021-05
+    date: "2021"
     category: publication
     selected: false
     featured: false
@@ -392,7 +392,7 @@ items:
     url:
 
   - title: CECC 2021 ProVerif
-    date: 2021-04
+    date: "2021"
     category: conference
     selected: false
     featured: false
@@ -400,7 +400,7 @@ items:
     url:
 
   - title: Best Paper in ICCECE
-    date: 2020-08
+    date: "2020"
     category: award
     selected: true
     featured: true
@@ -408,7 +408,7 @@ items:
     url:
 
   - title: MaCS 2020 accept
-    date: 2020-07
+    date: "2020"
     category: conference
     selected: false
     featured: false
@@ -416,7 +416,7 @@ items:
     url:
 
   - title: IoT 2020 Malmö
-    date: 2020-06
+    date: "2020"
     category: conference
     selected: false
     featured: false
@@ -424,7 +424,7 @@ items:
     url:
 
   - title: CSNet 2020 accept
-    date: 2020-05
+    date: "2020"
     category: publication
     selected: false
     featured: false
@@ -432,7 +432,7 @@ items:
     url:
 
   - title: PhD CS 2020 accept
-    date: 2020-04
+    date: "2020"
     category: conference
     selected: false
     featured: false
@@ -440,7 +440,7 @@ items:
     url:
 
   - title: ICCECE 2020 accept
-    date: 2020-03
+    date: "2020"
     category: conference
     selected: false
     featured: false
@@ -448,7 +448,7 @@ items:
     url:
 
   - title: WiMob 2019 Barcelona
-    date: 2019-10
+    date: "2019"
     category: conference
     selected: true
     featured: false
@@ -456,7 +456,7 @@ items:
     url:
 
   - title: Reviewer of Stallings book
-    date: 2019-07
+    date: "2019"
     category: service
     selected: true
     featured: false
@@ -464,7 +464,7 @@ items:
     url:
 
   - title: Gold Award in EIT Innovation Day
-    date: 2020-06
+    date: "2020"
     category: award
     selected: true
     featured: true
@@ -472,7 +472,7 @@ items:
     url:
 
   - title: ECECS 2018 presentation
-    date: 2018-12
+    date: "2018"
     category: conference
     selected: false
     featured: false
