@@ -16,6 +16,11 @@ Aya Khedda  <br>
 Thesis: Security and Privacy of Federated Learning  <br>
 <span style="color: #666;">ELTE – Hungary</span><br>
 </div>
+<div style="padding: 1rem 1.25rem; margin-bottom: 1rem; border-left: 3px solid #b8b8b8; background: #fafafa; border-radius: 8px; line-height: 1.55;">
+Reza Fahlevi  <br>
+Thesis: Security of Distributed Systems<br>
+<span style="color: #666;">ELTE – Hungary</span><br>
+</div>
 
 
 </div>
