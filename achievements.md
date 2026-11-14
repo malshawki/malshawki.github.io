@@ -349,7 +349,7 @@ title: Achievements and Grants
         </div>
         <p class="recognition-detail">DAAD · TU Berlin, Germany</p>
       </article>
-    </li>
+    </li> 
     <li class="recognition-item">
       <time class="recognition-year" datetime="2008">2008</time>
       <article class="recognition-card">
