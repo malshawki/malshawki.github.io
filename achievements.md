@@ -20,10 +20,10 @@ subtitle:
 <div style="display: grid; grid-auto-flow: column; gap: 10px;">
   <img src="/assets/img/DAAD.png" style="width: 150px;">
   <img src="/assets/img/ekop.png" style="width: 150px;">
-  <img src="/assets/img/necs.jpg" style="width: 150px;">
+  <img src="/assets/img/eu.png" style="width: 150px;">
 </div>
   <div style="display: grid; grid-auto-flow: column; gap: 10px;">
-  <img src="/assets/img/eu.png" style="width: 150px;">
+  <img src="/assets/img/necs.jpg" style="width: 150px;">
   <img src="/assets/img/unkp.png" style="width: 150px;">
   <img src="/assets/img/ac.png" style="width: 150px;">
 </div>
