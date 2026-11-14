@@ -238,5 +238,5 @@ title: Projects
     </article>
   </div>
 
-  <p class="projects-disclaimer"><strong>Disclaimer:</strong> Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.</p>
+<p class="projects-disclaimer"><strong>Disclaimer:</strong> The projects listed here reflect my involvement and contributions, independently or as part of collaborative efforts. Project descriptions are provided for informational purposes and do not imply sole ownership, authorship, or endorsement by affiliated institutions, collaborators, or sponsors.</p>
 </div>
