@@ -1,4 +1,12 @@
 items:
+  - title: CloudCom 2026
+    date: "2026"
+    category: conference
+    selected: true
+    featured: false
+    summary: Presented authentication security of B5G/6G at IEEE CloudCom 2026, Paris.
+    url:
+
   - title: Guest Editor in Frontiers in Blockchain
     date: "2026"
     category: service
@@ -6,6 +14,14 @@ items:
     featured: false
     summary: Appointed guest editor for Auditability in Privacy-Preserving Smart Contracts in Frontiers in Blockchain.
     url: https://www.frontiersin.org/research-topics/80424/auditability-in-privacy-preserving-smart-contracts
+
+  - title: Most Inspiring usecase in 6G Summit
+    date: "2026"
+    category: award
+    selected: true
+    featured: false
+    summary: “NATWORK was selected by EuCNC participants as one of the most inspiring 6G use cases presented at the event, Malaga, Spain.”
+    url: 
 
   - title: Keynote at ATIS 2025
     date: "2025"
@@ -162,7 +178,7 @@ items:
   - title: TESIC talk accept
     date: "2025"
     category: talk
-    selected: true
+    selected: false
     featured: false
     summary: Talk on “Data Integrity Challenges and Strategies to Secure Industrial IoT Systems” accepted at TESIC International Conference (Győr).
     url:
@@ -178,8 +194,8 @@ items:
   - title: IEEE Access shop-floor
     date: "2025"
     category: publication
-    selected: true
-    featured: true
+    selected: false
+    featured: false
     summary: “Blockchain-based privacy-preserving shop floor auditing architecture” published in IEEE Access (Q1).
     url: https://ieeexplore.ieee.org/document/10436670
 

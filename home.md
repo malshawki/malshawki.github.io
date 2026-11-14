@@ -382,11 +382,10 @@ full-width: true
       <h2 class="home-section-title">Recent highlights</h2>
       <p class="home-section-description"></p>
     </div>
-    <a class="news-more-link" href="/news/">All news <span aria-hidden="true">→</span></a>
   </div>
 
   <div class="news-grid">
-    {% for item in selected_news limit: 4 %}
+    {% for item in selected_news limit: 6 %}
       <article class="news-card">
         <div class="news-meta">
           {% if item.category and item.category != "" %}
