@@ -1,111 +1,242 @@
 ---
 layout: page
 title: Projects
-subtitle: 
 ---
 
-### 6G Security
-- Senior cybersecurity researcher leading the following pillars:
-- Pillar 1 - Trust Establishment in B5G/6G Network  
-- Pillar 2 - Secure Federated Learning in B5G/6G Network
-- HORIZON-101139285: NATWORK  
+<style>
+.projects-page {
+  max-width: 1000px;
+  margin: 0 auto;
+}
 
-<img src="/assets/img/eu_funded_en.jpg" alt="Funded by European Union" width="290" height="85">
+.projects-intro {
+  margin: 0 0 22px;
+  color: #5b6975;
+  line-height: 1.6;
+}
 
----
----
----
-# Previous Projects
----
----
----
+.project-list {
+  display: grid;
+  gap: 14px;
+}
 
-### Industrial Internet of Things Security
+.project-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(150px, 210px);
+  gap: 20px;
+  align-items: center;
+  padding: 18px 20px;
+  border: 1px solid #dfe5eb;
+  border-left: 4px solid #315b78;
+  border-radius: 5px;
+  background: #fff;
+}
 
-- Safeguarding Industrial Internet of Things Authentication  
-- EKOP-24-4-2: Postdoctoral Research Scholarship  
+.project-title {
+  margin: 0 0 9px;
+  color: #173b57;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
 
-<img src="/assets/img/ekop.png" alt="Funded by Ministery of Research and Innovation" width="200" height="120">
+.project-role {
+  margin: 0 0 9px;
+  color: #465765;
+  line-height: 1.55;
+}
 
----
----
+.project-details {
+  margin: 0;
+  padding-left: 18px;
+  color: #5b6975;
+  font-size: 0.94rem;
+  line-height: 1.55;
+}
 
-### Thematic Excellence Program
+.project-details li + li {
+  margin-top: 3px;
+}
 
-- Developing Secure Data Validators  
-- TKP2020-NKA-06: Hungarian National Challenges - Cybersecurity Subprogramme  
+.project-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 78px;
+  padding: 10px;
+  border-left: 1px solid #edf0f2;
+}
 
-<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
+.project-logo img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 74px;
+  object-fit: contain;
+}
 
----
----
+.projects-disclaimer {
+  margin: 24px 0 0;
+  padding-top: 14px;
+  border-top: 1px solid #dfe5eb;
+  color: #687783;
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
 
-### Secure Navigation
+@media (max-width: 600px) {
+  .project-card {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 15px;
+  }
 
-- Developing Secure Galileo Navigation Authentication Protocol  
-- 1.3-KK: Software and Data-Intensive Services project  
+  .project-logo {
+    justify-content: flex-start;
+    min-height: auto;
+    padding: 10px 0 0;
+    border-top: 1px solid #edf0f2;
+    border-left: 0;
+  }
+}
+</style>
 
-<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
+<div class="projects-page">
+  <p class="projects-intro">Selected research projects and collaborations in cybersecurity, privacy, and secure digital infrastructure.</p>
 
----
----
+  <div class="project-list">
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">6G Security</h2>
+        <p class="project-role">Senior cybersecurity researcher leading the following research pillars:</p>
+        <ul class="project-details">
+          <li>Pillar 1 - Trust Establishment in B5G/6G Network</li>
+          <li>Pillar 2 - Secure Federated Learning in B5G/6G Network</li>
+          <li>HORIZON-101139285: NATWORK</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/eu_funded_en.jpg" alt="Funded by the European Union">
+      </div>
+    </article>
 
-### Lightweight Cryptography
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Industrial Internet of Things Security</h2>
+        <ul class="project-details">
+          <li>Safeguarding Industrial Internet of Things authentication</li>
+          <li>EKOP-24-4-2: Postdoctoral Research Scholarship</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/ekop.png" alt="Funded by the Ministry of Research and Innovation">
+      </div>
+    </article>
 
-- Developing lightweight attribute based encryption for smart IoT devices  
-- ÚNKP-22-4: Research Scholarship for Doctoral Candidates  
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Thematic Excellence Program</h2>
+        <ul class="project-details">
+          <li>Developing secure data validators</li>
+          <li>TKP2020-NKA-06: Hungarian National Challenges - Cybersecurity Subprogramme</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/cofeu.png" alt="Co-funded by the European Union">
+      </div>
+    </article>
 
-<img src="/assets/img/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Secure Navigation</h2>
+        <ul class="project-details">
+          <li>Developing a secure Galileo navigation authentication protocol</li>
+          <li>1.3-KK: Software and Data-Intensive Services project</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/cofeu.png" alt="Co-funded by the European Union">
+      </div>
+    </article>
 
----
----
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Lightweight Cryptography</h2>
+        <ul class="project-details">
+          <li>Developing lightweight attribute-based encryption for smart IoT devices</li>
+          <li>ÚNKP-22-4: Research Scholarship for Doctoral Candidates</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/unkp-all.png" alt="Funded by the Ministry of Research and Innovation">
+      </div>
+    </article>
 
-### Distributed Security
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Distributed Security</h2>
+        <ul class="project-details">
+          <li>Developing secure protocols for distributed environments</li>
+          <li>ÚNKP-21-3: Research Scholarship for Doctoral Students</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/unkp-all.png" alt="Funded by the Ministry of Research and Innovation">
+      </div>
+    </article>
 
-- Developing secure protocols for distributed environment  
-- ÚNKP-21-3: Research Scholarship for Doctoral students  
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Autonomous Vehicle Control</h2>
+        <ul class="project-details">
+          <li>Developing lightweight cryptographic protocols</li>
+          <li>VEKOP-16: Talent Management in Autonomous Vehicle Control</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/cofeu.png" alt="Co-funded by the European Union">
+      </div>
+    </article>
 
-<img src="/assets/img/unkp-all.png" alt="Funded by Ministery of Research and Innovation" width="350" height="90">
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Smart Platform for Digital Networks</h2>
+        <ul class="project-details">
+          <li>Developing secure SDN for cyber-physical systems</li>
+          <li>02P17D022: Collaborative smart contracting platform for digital value creation networks</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/bmbf.png" alt="Funded by BMBF">
+      </div>
+    </article>
 
----
----
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Secure Cryptographic Protocols</h2>
+        <ul class="project-details">
+          <li>Developing secure cryptographic protocols</li>
+          <li>EFOP-3.6.2: Innovations in Informatics and Infocommunication</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/cofeu.png" alt="Co-funded by the European Union">
+      </div>
+    </article>
 
-### Autonomous Vehicle Control
+    <article class="project-card">
+      <div>
+        <h2 class="project-title">Orchestration of Financial Services</h2>
+        <ul class="project-details">
+          <li>Blockchain analyzer</li>
+          <li>OFION: Communication and Security Analysis of the Cloud Orchestrator Module</li>
+        </ul>
+      </div>
+      <div class="project-logo">
+        <img src="/assets/img/Atos.svg.png" alt="Funded by Atos">
+      </div>
+    </article>
+  </div>
 
-- Developing lightweight cryptographic protocols  
-- VEKOP-16: Talent Management in Autonomous Vehicle Control  
-
-<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
-
----
----
-
-### Smart Platform for Digital Networks
-
-- Developing Secure SDN for Cyber Physical Systems  
-- 02P17D022: Collaborative smart contracting platform for digital value creation networks  
-<img src="/assets/img/bmbf.png" alt="Funded by BMBF" width="300" height="125">
-
----
----
-
-### Secure Cryptographic Protocols
-
-- Developing secure cryptographic protocols  
-- EFOP-3.6.2: Innovations in Informatics and Infocommunication  
-
-<img src="/assets/img/cofeu.png" alt="Co-funded by European Union" width="290" height="85">
-
----
----
-
-### Orchestration of Financial Services
-
-- Blockchain analyzer  
-- OFION: Communication and Security Analysis of The Cloud Orchestrator Module  
-
-<img src="/assets/img/Atos.svg.png" alt="Funded by Atos" width="120" height="70">
-
----
-
-**Disclaimer:** Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.
+  <p class="projects-disclaimer"><strong>Disclaimer:</strong> Any opinions, findings and conclusions or recommendations expressed in research outputs (published papers, talks, blog postings etc.) are those of the author(s) and do not necessarily reflect the views of the sponsors.</p>
+</div>
