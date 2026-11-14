@@ -12,10 +12,10 @@ permalink: /publication/
 }
 
 .pub-legend {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   align-items: center;
-  gap: 16px;
+  gap: 12px 20px;
   margin: 10px 0 28px;
   padding: 16px 18px;
   border: 1px solid #dfe5eb;
@@ -26,12 +26,15 @@ permalink: /publication/
 .pub-legend a {
   display: flex;
   align-items: center;
+  justify-content: center;
+  min-height: 76px;
 }
 
 .pub-legend img {
   display: block;
-  max-width: 150px;
-  max-height: 48px;
+  width: auto;
+  max-width: 190px;
+  max-height: 68px;
   object-fit: contain;
 }
 
@@ -145,12 +148,12 @@ permalink: /publication/
 }
 
 @media (max-width: 600px) {
-  .pub-card {
-    padding: 11px 12px;
+  .pub-legend {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .pub-legend {
-    gap: 12px;
+  .pub-card {
+    padding: 11px 12px;
   }
 }
 </style>
@@ -221,7 +224,7 @@ permalink: /publication/
         {% if pub.tier == "B" %}<span class="pub-badge">Tier B</span>{% endif %}
         {% if pub.selected %}<span class="pub-badge pub-badge-award">Award winner</span>{% endif %}
         {% if pub.open_access %}<span class="pub-badge pub-badge-open-access">Open access</span>{% endif %}
-        {% if pub.links.doi and pub.links.doi != "#" %}<a href="{{ pub.links.doi }}">DOI</a>{% endif %}
+        {% if pub.links.doi and pub.links.doi != "#" %}<a href="{{ pub.links.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>{% endif %}
         {% if pub.links.pdf and pub.links.pdf != "#" %}<a href="{{ pub.links.pdf }}">PDF</a>{% endif %}
         {% if pub.links.code and pub.links.code != "#" %}<a href="{{ pub.links.code }}">Code</a>{% endif %}
         {% if pub.links.project and pub.links.project != "#" %}<a href="{{ pub.links.project }}">Project</a>{% endif %}

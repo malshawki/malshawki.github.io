@@ -1,4 +1,56 @@
 items:
+  - title: "Agentic and generative AI for intelligent autonomous vulnerability assessment and penetration testing: A systematic analysis"
+    year: 2027
+    authors:
+      - "Truss, S. R. A."
+      - "Ghanem, M. C."
+      - "Almaiah, M."
+      - "Ortolani, M."
+      - "Alshawki, M. B."
+      - "Kenaza, T."
+      - "Kalganova, T."
+    venue: "Computer Science Review, 63, 101083"
+    type: "journal"
+    quartile: "Q1"
+    tier: "#"
+    selected: false
+    open_access: false
+    summary: null
+    links:
+      pdf: "#"
+      doi: "https://doi.org/10.1016/j.cosrev.2026.101083"
+      code: "#"
+      project: "#"
+      slides: "#"
+      talk: "#"
+      bibtex: "#"
+      arxiv: "#"
+
+  - title: "VeriPriv: a privacy preserving attribute verification protocol for decentralized authentication"
+    year: 2026
+    authors:
+      - "Alshawki, M. B."
+      - "Yan, Y."
+      - "Stodt, F."
+      - "Reich, C."
+      - "Ligeti, P."
+    venue: "Cluster Computing, 29(15), 874"
+    type: "journal"
+    quartile: "Q1"
+    tier: "#"
+    selected: false
+    open_access: false
+    summary: null
+    links:
+      pdf: "#"
+      doi: "https://doi.org/10.1007/s10586-026-06646-0"
+      code: "#"
+      project: "#"
+      slides: "#"
+      talk: "#"
+      bibtex: "#"
+      arxiv: "#"
+
   - title: "Catch Me If You Can: Rogue AI Detection and Correction at Scale"
     year: 2025
     authors:
@@ -39,79 +91,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Securing Cloud and IoT Identity: An Analysis of Keystone Authentication Mechanisms in Openstack"
-    year: 2025
-    authors:
-      - "Alnaddad, O."
-      - "Alshawki, M. B."
-    venue: "2025 8th Conference on Cloud and Internet of Things (CIoT)"
-    type: "conference"
-    quartile: "#"
-    tier: ""
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "https://doi.org/10.1109/CIoT67574.2025.11410152"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-
-  - title: "Securing the Future: Lightweight Blockchain Solutions for IIoT and IoT Networks"
-    year: 2025
-    authors:
-      - "Stodt, F."
-      - "Alshawki, M. B."
-      - "Reich, C."
-      - "Ligeti, P."
-      - "Theoleyre, F."
-    venue: "Security and Privacy, 8(4)"
-    type: "journal"
-    quartile: "Q1"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "The Effect Of Consumer's Intention And Feedback For The Use Of Mobile NFC Payment Technology"
-    year: 2025
-    authors:
-      - "Shareiyat, A."
-      - "Hussain Al-hashimy, H. N."
-      - "Hamoud, A. K."
-      - "Alshawki, M. B."
-    venue: "Economic Studies, 34(6)"
-    type: "journal"
-    quartile: "Q3"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.3390/jcp5040084"
       code: "#"
       project: "#"
       slides: "#"
@@ -135,30 +115,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "On Homomorphic Encryption Feasibility in Large-Scale Cloud Environment"
-    year: 2025
-    authors:
-      - "Isooba, S."
-      - "Stodt, F."
-      - "Alshawki, M. B."
-    venue: "31st Workshop on Information and Communications Technologies Proceedings"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.23919/SoftCOM66362.2025.11197380"
       code: "#"
       project: "#"
       slides: "#"
@@ -174,7 +131,7 @@ items:
       - "Ligeti, P."
       - "Soussi, W."
       - "Stiller, B."
-    venue: "2025 25th International Conference on Distributed Computing Systems Workshops (ICDCSW)"
+    venue: "2025 45th International Conference on Distributed Computing Systems (ICDCS)"
     type: "conference"
     quartile: "#"
     tier: "A"
@@ -183,30 +140,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Congestion Control Prediction Model for 5G Environment Based on Supervised and Unsupervised Machine Learning Approach"
-    year: 2024
-    authors:
-      - "Alshawki, M. B."
-      - "Najm, I. A."
-      - "Hamoud, A. K."
-    venue: "IEEE Access, 12, 91127-91139"
-    type: "journal"
-    quartile: "Q1"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1109/ICDCSW63273.2025.00101"
       code: "#"
       project: "#"
       slides: "#"
@@ -231,7 +165,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1109/ACCESS.2024.3366492"
       code: "#"
       project: "#"
       slides: "#"
@@ -258,133 +192,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Regulatory Compliance Verification: A Privacy Preserving Approach"
-    year: 2024
-    authors:
-      - "Morello, M."
-      - "Sainio, P."
-      - "Alshawki, M. B."
-    venue: "2024 8th Cyber Security in Networking Conference (CSNet)"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Enhancing IoT Security in 6G Networks: AI-Based Intrusion Detection, Penetration Testing, and Blockchain-Based Trust Management (Work-in-Progress Paper)"
-    year: 2024
-    authors:
-      - "La, V. H."
-      - "Mallouli, W."
-      - "Nguyen, M. D."
-      - "de Oca, E. M."
-      - "Cavalli, A."
-      - "Vörös, P."
-      - "Alshawki, M. B."
-      - "et al."
-    venue: "IFIP International Internet of Things Conference, 53-67"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Footprint-Optimized Orchestration and Management of Secure Complex Services over 6G Continuum"
-    year: 2024
-    authors:
-      - "Birtane, S."
-      - "Al-Naday, M."
-      - "Paolucci, F."
-      - "Bakar, R. A."
-      - "Lefebvre, V."
-      - "Passas, V."
-      - "et al."
-    venue: "2024 IEEE Conference on Standards for Communications and Networking (CSCN), 383-388"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Authentication and data access challenges in safeguarding industrial IoT"
-    year: 2023
-    authors:
-      - "Fadel, M. O."
-      - "Alshawki, M. B."
-    venue: "Lecture Notes in Electrical Engineering, vol. 1194"
-    type: "book_chapter"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "3L-AODV: Three layer security protocol for grayhole attack mitigation in MANET"
-    year: 2023
-    authors:
-      - "Alshawki, M. B."
-      - "Abdullah, W. D."
-      - "Hamoud, A. K."
-      - "Valadares, D. C. G."
-      - "Shareiyat, A."
-      - "et al."
-    venue: "Lecture Notes on Networks and Systems, 813-823"
-    type: "book_chapter"
-    quartile: "Q3"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1007/s40747-023-01184-3"
       code: "#"
       project: "#"
       slides: "#"
@@ -409,32 +217,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "A comparative study of supervised/unsupervised machine learning algorithms with feature selection approaches to predict student performance"
-    year: 2023
-    authors:
-      - "Hamoud, A. K."
-      - "Alasady, A. S."
-      - "Awadh, W. A."
-      - "Dahr, J. M."
-      - "Alshawki, M. B."
-    venue: "International Journal of Data Mining, Modelling and Management, 15(4), 393-409"
-    type: "journal"
-    quartile: "Q2"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.3390/s23167172"
       code: "#"
       project: "#"
       slides: "#"
@@ -458,152 +241,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "D3VN: Decentralized abe-based distributed data validation network"
-    year: 2022
-    authors:
-      - "Alshawki, M. B."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "Lecture Notes on Networks and Systems"
-    type: "book_chapter"
-    quartile: "Q3"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "ODABE: Outsourced Decentralized CP-ABE in Internet of Things"
-    year: 2022
-    authors:
-      - "Alshawki, M. B."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "Lecture Notes in Computer Science, vol. 13285, 611-615"
-    type: "book_chapter"
-    quartile: "Q3"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "On Security and Performance Requirements of Decentralized Resource Discovery in IoT"
-    year: 2022
-    authors:
-      - "Alshawki, M. B."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "Lecture Notes in Electrical Engineering, 289-302"
-    type: "book_chapter"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Security Analysis and Deployment Measurement of Transport Layer Security Protocol"
-    year: 2022
-    authors:
-      - "Yaseen, M."
-      - "Kamel, M."
-      - "Ligeti, P."
-    venue: "Lecture Notes in Electrical Engineering, 725-739"
-    type: "book_chapter"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "A prediction model based machine learning algorithms with feature selection approaches over imbalanced dataset"
-    year: 2022
-    authors:
-      - "Hamoud, A. K."
-      - "Alshwki, M. B."
-      - "Gaafar, A. S."
-      - "Alasady, A. S."
-      - "Humadi, A. M."
-      - "et al."
-    venue: "Indonesian Journal of Electrical Engineering and Computer Science, 28(2)"
-    type: "journal"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "OLAP Mining with Educational Data Mart to Predict Students Performance"
-    year: 2022
-    authors:
-      - "Najm, I. A."
-      - "Dahr, J. M."
-      - "Hamoud, A. K."
-      - "Alasady, A. S."
-      - "Awadh, W. A."
-      - "Alshawki, M. B."
-      - "et al."
-    venue: "Informatica, 46(5)"
-    type: "journal"
-    quartile: "Q2"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1109/WiMob58348.2023.10187882"
       code: "#"
       project: "#"
       slides: "#"
@@ -627,33 +265,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Cognitive Radio for Smart Grid: A Decentralized Emergency Management Approach"
-    year: 2022
-    authors:
-      - "Rajab, H."
-      - "Alshawki, M. B."
-      - "Hamoud, A. K."
-      - "Farag, H."
-      - "Cinkler, T."
-      - "Ligeti, P."
-    venue: "2022 32nd International Telecommunication Networks and Applications Conference"
-    type: "conference"
-    quartile: "#"
-    tier: "B"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1007/s12083-021-01221-3"
       code: "#"
       project: "#"
       slides: "#"
@@ -677,7 +289,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1109/ITNAC55475.2022.9998348"
       code: "#"
       project: "#"
       slides: "#"
@@ -701,30 +313,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "SDABE: Efficient encryption in decentralized cp-abe using secret sharing"
-    year: 2022
-    authors:
-      - "Alshawki, M. B."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "2022 International Conference on Electrical, Computer and Energy Technologies"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1109/ICSIP55141.2022.9887218"
       code: "#"
       project: "#"
       slides: "#"
@@ -748,128 +337,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Supervised learning algorithms in educational data mining: A systematic review"
-    year: 2021
-    authors:
-      - "Khalaf, A."
-      - "Dahr, J. M."
-      - "Najim, I. A."
-      - "Alshawki, M. B."
-      - "Hashim, A. S."
-      - "Awadh, W. A."
-      - "Humadi, A. M."
-    venue: "Southeast Europe Journal of Soft Computing, 10(1), 55-70"
-    type: "journal"
-    quartile: "Q3"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "LADA: locality aware distributed addressing for edge/fog computing infrastructures"
-    year: 2021
-    authors:
-      - "Alshawki, M. B."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "2021 International Conference on Electrical, Computer and Energy Technologies (ICECET), 1-6"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Formal verification of confidentiality in attribute-based encryption through proverif"
-    year: 2021
-    authors:
-      - "Bat-Erdene, B."
-      - "Yan, Y."
-      - "Alshawki, M. B."
-    venue: "21th Central European Conference on Cryptology, 34"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "A decentralized resource discovery using attribute based encryption for internet of things"
-    year: 2020
-    authors:
-      - "Alshawki, M. B."
-      - "Yan, Y."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "2020 4th Cyber Security in Networking Conference (CSNet), 1-3"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Distributed data validation network in IoT: a decentralized validator selection model"
-    year: 2020
-    authors:
-      - "Alshawki, M. B."
-      - "Wallis, K."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "Proceedings of the 10th International Conference on the Internet of Things, 1-8"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.3390/s21144721"
       code: "#"
       project: "#"
       slides: "#"
@@ -892,76 +360,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Region-based distributed hash table for fog computing infrastructure"
-    year: 2020
-    authors:
-      - "Alshawki, M. B."
-      - "Ligeti, P."
-      - "Reich, C."
-    venue: "13th Joint Conference on Mathematics and Computer Science (MaCS 2020)"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "A decentralized and scalable model for resource discovery in IoT network"
-    year: 2019
-    authors:
-      - "Alshawki, M. B."
-      - "Crispo, B."
-      - "Ligeti, P."
-    venue: "2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 1-4"
-    type: "conference"
-    quartile: "#"
-    tier: "B"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Improved approach of address propagation for f2f networks"
-    year: 2018
-    authors:
-      - "Alshawki, M. B."
-      - "Ligeti, P."
-      - "Nagy, A."
-    venue: "2018 2nd European Conference on Electrical Engineering and Computer Science (EECS), 604-609"
-    type: "conference"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1109/iCCECE49321.2020.9231133"
       code: "#"
       project: "#"
       slides: "#"
@@ -984,95 +383,7 @@ items:
     summary: null
     links:
       pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Weight Analysis For Weighted Cluster Algorithms In Mobile Ad-Hoc Network"
-    year: 2017
-    authors:
-      - "SAAD, H. N."
-      - "Alshawki, M. B."
-    venue: "Journal of Theoretical & Applied Information Technology, 95(15)"
-    type: "journal"
-    quartile: "Q3"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Secure Model for SMS Exchange over GSM"
-    year: 2016
-    authors:
-      - "Alshawki, M. B."
-      - "George, L. E."
-    venue: "International Journal of Computer Network & Information Security, 8(1)"
-    type: "journal"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Simple Model for Coding Geographic Location Coordinates"
-    year: 2013
-    authors:
-      - "Alshawki, M. B."
-      - "George, L. E."
-    venue: "International Journal of Scientific & Engineering Research, 4(7), 2468-2470"
-    type: "journal"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
-      code: "#"
-      project: "#"
-      slides: "#"
-      talk: "#"
-      bibtex: "#"
-      arxiv: "#"
-
-  - title: "Remote patient tracking and monitoring system"
-    year: 2013
-    authors:
-      - "Alshawki, M. B."
-      - "George, L."
-    venue: "International Journal of Computer Science and Mobile Computing, 2(12), 88-94"
-    type: "journal"
-    quartile: "#"
-    tier: "#"
-    selected: false
-    open_access: false
-    summary: null
-    links:
-      pdf: "#"
-      doi: "#"
+      doi: "https://doi.org/10.1109/IAEAC.2017.8054219"
       code: "#"
       project: "#"
       slides: "#"

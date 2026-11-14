@@ -22,7 +22,7 @@ Work in the intersection of cryptography, distributed systems, and artificial in
 
 ### Membership
 - 6G-IA Security workgroup
-- IEEE (Institute of Electrical and Electronics Engineers)
+- IEEE Institute of Electrical and Electronics Engineers
 - ACM Association for Computing Machinery
 - Australian Information Security Association (AISA)
 
