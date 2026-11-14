@@ -115,7 +115,7 @@ full-width: true
 <div class="about-page">
   <section class="about-intro" aria-label="Biography">
     <p>
-      I’m an Associate Professor at ELTE and a Senior Researcher in the Cyber Security and Cryptography Research Group. With more than 15 years of experience in cybersecurity, trusted systems, and privacy-preserving technologies, I work to connect academic research with real-world needs in critical digital infrastructure.
+      I’m an Associate Professor at ELTE and a Senior Researcher in the Cyber Security and Cryptography Research Group. With more than 15 years of experience in cybersecurity, trusted systems, and privacy-preserving technologies, I work to connect academic research with real-world needs in critical digital infrastructure. I was a short term visiting researcher at BNU, UK. Prior to that, I was a postdoctoral researcher at Institute for Data Science, Cloud Computing and IT-Security, Germany, under supervision of Prof. Christoph Reich. 
     </p>
     <p>
       I hold a Ph.D. in Informatics jointly from Eötvös Loránd University and Furtwangen University, as well as a Diploma in Information Technology from Technical University of Berlin. I also serve as a certified cybersecurity consultant, advising on secure system design, AI governance, and critical infrastructure protection.
@@ -147,7 +147,7 @@ full-width: true
     </section>
 
     <section class="about-section">
-      <h2>Academic and professional service</h2>
+      <h2>Memberships</h2>
       <ul class="about-list">
         <li>6G-IA Security Working Group</li>
         <li>IEEE (Institute of Electrical and Electronics Engineers)</li>
@@ -157,16 +157,7 @@ full-width: true
     </section>
 
     <section class="about-section">
-      <h2>Previous roles</h2>
-      <ul class="about-list">
-        <li>Senior Cybersecurity Researcher, HFU</li>
-        <li>Postdoctoral Researcher, IDACUS</li>
-        <li>Certified Cybersecurity Consultant, EU</li>
-      </ul>
-    </section>
-
-    <section class="about-section">
-      <h2>Industry collaborations</h2>
+      <h2>Previous industry collaborations</h2>
       <ul class="about-list">
         <li>Atos (ES)</li>
         <li>LogMeIn (EU)</li>
@@ -175,8 +166,9 @@ full-width: true
     </section>
 
     <section class="about-section about-certificates">
-      <h2>Additional training and certificates</h2>
+      <h2>Additional certificates</h2>
       <ul class="about-list">
+        <li>Certified Cybersecurity Consultant, Concordia (EU)</li>
         <li>Cybersecurity, Infineon Technologies (AT)</li>
         <li>Future IoT, IMT Atlantique (FR)</li>
         <li>Internet of Things and Blockchain, University of Lisbon (PT)</li>
