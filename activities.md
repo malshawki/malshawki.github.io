@@ -85,6 +85,11 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
       <div class="activity-description">Talk at <a href="https://www.cse.chalmers.se/research/group/security/event/" target="_blank">Chalmers Security & Privacy Lab</a>  of Chalmers University of Technology</div>
       <div class="activity-location">Gothenburg , Sweden</div>
     </article>
+    <article class="activity">
+      <div><strong>IEEE FiCloud</strong></div>
+      <div class="activity-description">Scientific committee member of Future Internet of Things and Cloud Conference</div>
+      <div class="activity-location">Granada, Spain</div>
+    </article>
   <article class="activity">
       <div><strong>DIT616</strong></div>
       <div class="activity-description">Talk at <a href="https://www.gu.se/en/study-gothenburg/data-driven-support-for-cyber-physical-systems-dit616" target="_blank">Data-driven support for cyber-physical systems</a>  of University of Gothenburg </div>
@@ -127,14 +132,14 @@ subtitle: Talks, Research Presentations, Outreach Activities, and Organizational
       <div class="activity-location">Split, Croatia</div>
     </article>
     <article class="activity">
-      <div><strong>WICT</strong></div>
-      <div class="activity-description">Research presentation at the Workshop on Information and Communications Technologies</div>
-      <div class="activity-location">Split, Croatia</div>
-    </article>
-    <article class="activity">
       <div><strong>RON</strong></div>
       <div class="activity-description">Invited speaker at RON Career Development Workshop</div>
       <div class="activity-location">Budapest, Hungary</div>
+    </article>
+    <article class="activity">
+      <div><strong>WICT</strong></div>
+      <div class="activity-description">Research presentation at the Workshop on Information and Communications Technologies</div>
+      <div class="activity-location">Split, Croatia</div>
     </article>
     <article class="activity">
       <div><strong>COST BeingWISE</strong></div>
